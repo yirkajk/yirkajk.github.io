@@ -1,5 +1,5 @@
-# yirkajk.github.io
 # Justin Yirka
+# yirkajk.github.io
 My online resume repository
 
 I am an undergraduate Computer Science and Mathematics student at Virginia Commonwealth University.
