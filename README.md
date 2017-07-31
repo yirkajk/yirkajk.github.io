@@ -1,5 +1,6 @@
 # yirkajk.github.io
-# Justin Yirka <img src="./Headshot1.jpg" width="128">
+# Justin Yirka 
+<img src="./Headshot1.jpg" width="128">
 My online resume repository
 
 I am an undergraduate Computer Science and Mathematics student at Virginia Commonwealth University.
