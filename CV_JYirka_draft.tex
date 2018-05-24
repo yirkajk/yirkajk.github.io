@@ -1,0 +1,175 @@
+\documentclass[11pt,letterpaper]{moderncv}
+\usepackage[margin=1in]{geometry}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+
+\urlstyle{same} % Forces URLs to use same font, rather than a monospace font
+\usepackage{changepage} % For indenting blocks of text
+
+\name{John}{Doe}
+
+% TO Do:
+% Copy old stuff
+% Add date in footer
+% Update research interests
+% Add info on coding experience
+% Add links
+% Change "internships" to "research assistantships"
+% And break out of "research" section
+
+%=========================================================================================
+%  BEGIN DOCUMENT
+%=========================================================================================
+\begin{document}
+
+\begin{center}
+	{\Large\textbf{Justin Yirka}}
+	
+	\textit{Curriculum Vitae}
+	
+	B.S. in Computer Science and B.S. in Mathematics
+	
+	Virginia Commonwealth University, Richmond, VA, USA
+	\vspace{\baselineskip}
+	
+	\href{mailto:yirkajk@vcu.edu}{YirkaJk@vcu.edu}
+	
+	(703) 229-7956
+	
+	\url{www.linkedin.com/in/yirkajk}	
+\end{center}
+
+
+%%% Increase vertical spacing in remainder of document (default in moderncv is 0em) %%%
+\setlength{\parskip}{0.5em} 
+
+
+%=========================================================================================
+%  SECTION: Research Interests
+%=========================================================================================
+\section{Research Interests}
+Quantum computing, algorithms, complexity theory
+
+
+%=========================================================================================
+%  SECTION: Education
+%=========================================================================================
+\section{Education}
+\cventry{(Dual degree program) 2014--2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{\textit{GPA: 3.98 / 4.0}}{}
+\vspace{-\baselineskip}\vspace{-\parskip}
+\cventry{}{B.S. in Mathematical Sciences}{}{}{}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Concentration in Pure Math\hspace{2em}Specialization in Data Science \newline
+		Minor in Physics \newline
+		University Honors
+	\end{adjustwidth}
+}
+
+
+%=========================================================================================
+%  SECTION: Scholarships
+%=========================================================================================
+\section{Scholarships}
+\cventry{2014--2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
+{	
+\begin{adjustwidth}{.25in}{}
+	Top scholarship offered. Full cost of 4-year tuition, room, and board. \newline
+	Awarded to 0.6\% of students
+\end{adjustwidth}
+}
+
+\cventry{2014}{\$80,000}{Presidential Scholarship \textit{\textmd{[unable to accept]}}} {}{Worcester Polytechnic Institute}{}
+
+\cventry{2014}{\$100,000}{Rensselaer Medal Merit Scholarship \textit{\textmd{[unable to accept]}}} {}{Rensselaer Polytechnic Institute}{}
+
+%=========================================================================================
+%  SECTION: Funding
+%=========================================================================================
+\section{Funding}
+\cventry{2014--2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Top scholarship offered. Full cost of 4-year tuition, room, and board. \\
+		Awarded to 0.6\% of students
+	\end{adjustwidth}
+}
+
+\section{Master thesis}
+\cvitem{title}{\emph{Title}}
+\cvitem{supervisors}{Supervisors}
+\cvitem{description}{Short thesis abstract}
+
+\section{Experience}
+\subsection{Vocational}
+\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
+	Detailed achievements:%
+	\begin{itemize}%
+		\item Achievement 1;
+		\item Achievement 2, with sub-achievements:
+		\begin{itemize}%
+			\item Sub-achievement (a);
+			\item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+			\begin{itemize}
+				\item Sub-sub-achievement i;
+				\item Sub-sub-achievement ii;
+				\item Sub-sub-achievement iii;
+			\end{itemize}
+			\item Sub-achievement (c);
+		\end{itemize}
+		\item Achievement 3.
+\end{itemize}}
+\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+\subsection{Miscellaneous}
+\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+
+\section{Languages}
+\cvitemwithcomment{Language 1}{Skill level}{Comment}
+\cvitemwithcomment{Language 2}{Skill level}{Comment}
+\cvitemwithcomment{Language 3}{Skill level}{Comment}
+
+\section{Computer skills}
+\cvdoubleitem{category 1}{XXX, YYY, ZZZ}{category 4}{XXX, YYY, ZZZ}
+\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
+\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+
+\section{Interests}
+\cvitem{hobby 1}{Description}
+\cvitem{hobby 2}{Description}
+\cvitem{hobby 3}{Description}
+
+\section{Extra 1}
+\cvlistitem{Item 1}
+\cvlistitem{Item 2}
+\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+
+\section{Extra 2}
+\cvlistdoubleitem{Item 1}{Item 4}
+\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
+\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+
+\section{References}
+\begin{cvcolumns}
+	\cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
+	\cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+	\cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+\end{cvcolumns}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+\end{document}
+
