@@ -6,9 +6,23 @@
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
 
-\usepackage{multibib} % To have multiple bibs; like, one for papers, one for conferences.
-\newcites{preprints}{Pre-prints}
-\newcites{conferences}{Conference presentations}
+
+\usepackage[sorting=yd, style=authortitle, maxnames=99, backend=bibtex]{biblatex} % sort as below, maxnames avoids et al
+\DeclareSortingTemplate{yd}{ % Reverse chronological order, and then whatever order as listed in the .bib file
+	\sort{
+		\field{presort}
+	}
+	\sort[final]{
+		\field{sortkey}
+	}
+	\sort[direction=descending]{
+		\field{sortyear}
+		\field{year}
+		\literal{9999}
+	}
+}
+\addbibresource{CV_preprints.bib}
+\nocite{*} % Cite everything in the bib files
 
 \name{Justin}{Yirka} % Unused, since we make our own header
 
@@ -44,8 +58,9 @@
 \end{center}
 
 
-%%% Increase vertical spacing in remainder of document (default in moderncv is 0em) %%%
-\setlength{\parskip}{0.5em} 
+%%% Increase vertical spacing in remainder of document (default parskip in moderncv is 0em) %%%
+\setlength{\parskip}{0.5em}
+\setlength\bibitemsep{\parskip}
 
 
 %=========================================================================================
@@ -111,20 +126,11 @@ Quantum computing, algorithms, complexity theory
 
 
 %==========  Pre-prints  =======================================================
-%\renewcommand{\refname}{Pre-prints} % Creates subsection header
-\nocitepreprints{*} % Print all entries in bib file
-\bibliographypreprints{plain}
-\bibliographypreprints{CV_preprints}
+\printbibliography[heading=subbibliography, title={Pre-prints}, keyword=preprint]
 
-%==========  Conference presentations  =======================================================
-%\renewcommand{\refname}{Conference presentations}
-%\bibliography{CV_conferences}
+%%==========  Conference presentations  =======================================================
 
-%==========  Public-audience talks  =======================================================
-%\renewcommand{\refname}{Public-audience talks}
-%\bibliography{CV_public}
-
-
+%%==========  Public-audience talks  =======================================================
 
 
 %==========  Journal publications  =======================================================
@@ -189,6 +195,95 @@ Quantum computing, algorithms, complexity theory
 }
 
 \cventry{2014}{Grade-school robotics program, Prince William County Schools, VA}{Volunteer of the Year}{}{}{}
+
+
+%=========================================================================================
+%  SECTION: Teaching Experience
+%=========================================================================================
+\section{Teaching Experience}
+%==========  VCU  =======================================================
+\subsection{VCU}
+\cventry{(2 semesters) 2016--2017}{Algebra with Applications \small{(MATH 141)}}{Teaching Assistant}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Assisted with in-class work, offered tutorials, graded assignments. \newline
+		Average student evaluation scores --- Fall 2016: 4.78 / 5.0, Spring 2017: 4.36 / 5.0.
+	\end{adjustwidth}
+}
+
+\cventry{Fall 2016}{Honors freshman mentorship program}{Mentor for 1\textsuperscript{st} year student}{}{}{}
+
+\cventry{Fall 2015}{Honors Rhetoric \small{(HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Assisted with in-class work and critiqued student papers.
+	\end{adjustwidth}
+}
+
+%==========  Other  =======================================================
+\subsection{Other}
+\cventry{2016--2018}{CPR, first-aid, and lifeguarding courses}{Instructor}{}{}{Department of Parks and Recreation, Prince William County, VA}
+
+%=========================================================================================
+%  SECTION: Service
+%=========================================================================================
+\section{Service}
+%==========  University service (VCU)  =======================================================
+\subsection{University service (VCU)}
+\cventry{2016--2018}{Department of Computer Science}{Student Advisory Board member}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		\begin{itemize}%
+			\item Invited to School of Engineering strategic planning retreat, 2017 (only CS undergraduate).
+			\item Participated in hiring interviews for new faculty, 2017 (one of two students to participate).
+		\end{itemize}
+	\end{adjustwidth}
+}
+
+\cventry{(2 academic years) 2016--2017}{Honors College}{Senior Reader for Honors graduation dossiers}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Assessed papers submitted in fulfillment of University Honors. Coordinated other readers.
+	\end{adjustwidth}
+}
+
+\cventry{2017}{Department of Computer Science}{Panelist --- Career workshop for freshman mentorship program}{}{}{}
+
+\cventry{2017}{Honors College}{Panelist --- Undergraduate conference preparation workshops}{}{}{}
+
+\cventry{2016}{VCU Symposium for Undergraduate Research and Creativity}{Judge --- Launch Award for Outstanding Research Poster}{}{}{}
+
+\cventry{2016}{Major League Hacking (MLH) and VCU Department of Computer Science}{Organizer --- Local Hack Day of Richmond, VA}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Hosted event for 30 students including 12 high school students.
+	\end{adjustwidth}
+}
+
+%==========  Extracurricular service  =======================================================
+\subsection{Extracurricular service}
+\cventry{2016--2018}{RamDev: Software Development at VCU}{Founder and President}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		\begin{itemize}
+			\item Coordinated 46 weekly seminars including 9 corporate speakers.
+			\item Secured and managed \$2400 in funding and resources.
+			\item Increased weekly attendance to 20 students, becoming largest C.S. organization at VCU.
+		\end{itemize}
+	\end{adjustwidth}
+}
+
+%==========  Community involvement  =======================================================
+\subsection{Community service}
+\cventry{2011--2015}{Prince William County Schools, VA}{Volunteer for grade school \textup{FIRST \& Vex} robotics competitions}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Awarded ``Volunteer of the Year'', 2014.
+	\end{adjustwidth}
+}
+
+\cventry{2014}{Wilder Middle School, Richmond, VA}{Mentor to middle school \textup{Vex} robotics team}{}{}{}
+
 
 \section{Master thesis}
 \cvitem{title}{\emph{Title}}
