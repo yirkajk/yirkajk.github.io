@@ -1,4 +1,4 @@
-\documentclass[11pt,letterpaper]{moderncv}
+\documentclass[11pt,letterpaper,serif]{moderncv}
 \usepackage[margin=1in]{geometry}
 \moderncvstyle{banking}
 \moderncvcolor{black}
@@ -6,8 +6,8 @@
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
 
-
-\usepackage[sorting=yd, style=authortitle, maxnames=99, backend=bibtex]{biblatex} % sort as below, maxnames avoids et al
+\usepackage[sorting=yd, style=authortitle,dashed=false, maxnames=99, backend=bibtex]{biblatex} % sort is below. maxnames avoids et al.
+\DeclareNameAlias{author}{first-last} % Forces all names to appear in that order. Default of style=authortitle is first author printed surname,name.
 \DeclareSortingTemplate{yd}{ % Reverse chronological order, and then whatever order as listed in the .bib file
 	\sort{
 		\field{presort}
@@ -22,23 +22,32 @@
 	}
 }
 \addbibresource{CV_preprints.bib}
+\addbibresource{CV_conferences.bib}
+\addbibresource{CV_seminars.bib}
+\addbibresource{CV_public.bib}
 \nocite{*} % Cite everything in the bib files
 
 \name{Justin}{Yirka} % Unused, since we make our own header
 
-% TO Do:
-% Copy old stuff
-% Add date in footer
+\usepackage{lastpage}
+\fancypagestyle{firstpage}{\lfoot{\textit{\today}} \rfoot{\textit{\thepage/\pageref{LastPage}}}}
+
+\lfoot{\textit{Justin Yirka}} % Any pages without special style will just get this
+\rfoot{\textit{\thepage/\pageref{LastPage}}}
+
+% TO DO:
 % Update research interests
-% Add info on coding experience
+% Add info on coding experience and skills
 % Add links
-% Change "internships" to "research assistantships"
-% And break out of "research" section
+% Add spanish
+% Make resume
 
 %=========================================================================================
 %  BEGIN DOCUMENT
 %=========================================================================================
 \begin{document}
+	
+\thispagestyle{firstpage}
 
 \begin{center}
 	{\Large\textbf{Justin Yirka}}
@@ -74,17 +83,19 @@ Quantum computing, algorithms, complexity theory
 %  SECTION: Education
 %=========================================================================================
 \section{Education}
-\cventry{(Dual degree program) 2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{\textit{GPA: 3.98 / 4.0}}{}
+\cventry{(Dual degree program) 2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{}{}
 \vspace{-\baselineskip}\vspace{-\parskip}
-\cventry{}{B.S. in Mathematical Sciences}{}{}{}
+\cventry{}{B.S. in Mathematical Sciences}{}{}{GPA: 3.98 out of 4.0}
 {	
 	\begin{adjustwidth}{.25in}{}
-		Concentration in Pure Math\hspace{2em}Specialization in Data Science \newline
+		Concentration in Pure Math \newline 
+		Specialization in Data Science \newline
 		Minor in Physics \newline
 		University Honors
 	\end{adjustwidth}
 }
 
+% \cvitem{GRE (score, percentile)}{Verbal 170 / 170, 99\textsuperscript{th} --- Math 166 / 170, 91\textsuperscript{st} --- Writing 5.0 / 6.0, 93\textsuperscript{rd}}
 
 %=========================================================================================
 %  SECTION: Research
@@ -103,7 +114,7 @@ Quantum computing, algorithms, complexity theory
 \cventry{Summer 2017}{NSF REU Undergraduate Researcher}
 {
 	$\!$\begin{minipage}{0.8\textwidth}
-		Joint Center for Quantum Information and Computer Science (QUCIS), \newline
+		Joint Center for Quantum Information and Computer Science (QuICS), \newline
 		University of Maryland (UMD)	
 	\end{minipage}
 }
@@ -112,7 +123,7 @@ Quantum computing, algorithms, complexity theory
 	\begin{adjustwidth}{.25in}{}
 		Supervisor: Andrew Childs, Ph.D. \newline
 		Topic: Quantum tomography. Pure-state tomography with Pauli observables. \newline
-		Support: NSF Research Experience for Undergraduates (REU)  CAAR. PI: William Gasarch, Ph.D.
+		Support: NSF Research Experience for Undergraduates (REU). P.I.: William Gasarch, Ph.D.
 	\end{adjustwidth}
 }
 
@@ -120,29 +131,42 @@ Quantum computing, algorithms, complexity theory
 {	
 	\begin{adjustwidth}{.25in}{}
 		Supervisor: Sevag Gharibian, Ph.D. \newline
-		Topics: Quantum computational complexity, complexity of local measurements, quantum oracle classes (e.g. $\textup{P}^{\textup{QMA}[\log]}$), quantum variants of the polynomial hierarchy.
+		Topics: Quantum computational complexity. Complexity of local measurements, quantum oracle classes (e.g. $\textup{P}^{\textup{QMA[log]}}$), quantum variants of the polynomial hierarchy.
 	\end{adjustwidth}
 }
 
 
-%==========  Pre-prints  =======================================================
-\printbibliography[heading=subbibliography, title={Pre-prints}, keyword=preprint]
+%==========  Preprints  =======================================================
+\printbibliography[heading=subbibliography, title={Preprints}, keyword=preprint]
 
 %%==========  Conference presentations  =======================================================
+\printbibliography[heading=subbibliography, title={Conference presentations}, keyword=conference]
+
+%%==========  Departmental seminars  =======================================================
+\printbibliography[heading=subbibliography, title={Department seminars}, keyword=seminar]
 
 %%==========  Public-audience talks  =======================================================
+\printbibliography[heading=subbibliography, title={Public-audience talks}, keyword=public]
 
+%==========  Independent studies  =======================================================
+\subsection{Independent studies}
+\cventry{Fall 2017}{VCU}{Convex Optimization {\footnotesize (CMSC 601)}}{}{Supervisor: Sevag Gharibian, Ph.D.}
+{
+	\begin{adjustwidth}{.25in}{}
+		Independently studied material for graduate optimization course as an undergraduate \newline
+		\textbf{Only undergraduate granted independent study approval in computer science in Fall 2017.}
+	\end{adjustwidth}
+}
 
 %==========  Journal publications  =======================================================
-
 %==========  Invited talks  =======================================================
-
 %==========  Expository writing  =======================================================
+
 
 %=========================================================================================
 %  SECTION: Scholarships
 %=========================================================================================
-\section{Scholarships \small{(all dollar amounts in USD)}} 
+\section{Scholarships \hspace{2em}{\footnotesize (all dollar amounts in USD)}} 
 \cventry{2014--2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
 {	
 \begin{adjustwidth}{.25in}{}
@@ -159,7 +183,7 @@ Quantum computing, algorithms, complexity theory
 %  SECTION: Funding
 %=========================================================================================
 \section{Funding}
-\cventry{2016--2018}{\$1,900}{Event grants for \textit{RamDev} seminar series}{}{VCU Student Government Association}{}
+\cventry{2016--2018}{\$1,900}{Event grants for seminar series by VCU RamDev software development club}{}{VCU Student Government Association}{}
 
 \cventry{2017}{\$500}{Travel grant for presentation at QIP 2017}{}{VCU Honors College}{}
 
@@ -190,7 +214,7 @@ Quantum computing, algorithms, complexity theory
 \cventry{2015}{VCU Symposium for Undergraduate Research and Creativity}{Launch Award for Outstanding Research Poster}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		For poster ``Evaluation of TCP header fields for data overhead efficiency''.
+		For poster \textit{Evaluation of TCP header fields for data overhead efficiency}.
 	\end{adjustwidth}
 }
 
@@ -203,7 +227,7 @@ Quantum computing, algorithms, complexity theory
 \section{Teaching Experience}
 %==========  VCU  =======================================================
 \subsection{VCU}
-\cventry{(2 semesters) 2016--2017}{Algebra with Applications \small{(MATH 141)}}{Teaching Assistant}{}{}
+\cventry{(2 semesters) 2016--2017}{Algebra with Applications {\footnotesize (MATH 141)}}{Teaching Assistant}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		Assisted with in-class work, offered tutorials, graded assignments. \newline
@@ -213,7 +237,7 @@ Quantum computing, algorithms, complexity theory
 
 \cventry{Fall 2016}{Honors freshman mentorship program}{Mentor for 1\textsuperscript{st} year student}{}{}{}
 
-\cventry{Fall 2015}{Honors Rhetoric \small{(HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{}{}
+\cventry{Fall 2015}{Honors Rhetoric {\footnotesize (HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		Assisted with in-class work and critiqued student papers.
@@ -234,7 +258,7 @@ Quantum computing, algorithms, complexity theory
 {
 	\begin{adjustwidth}{.25in}{}
 		\begin{itemize}%
-			\item Invited to School of Engineering strategic planning retreat, 2017 (only CS undergraduate).
+			\item Invited to School of Engineering strategic planning retreat, 2017 (only C.S. undergraduate).
 			\item Participated in hiring interviews for new faculty, 2017 (one of two students to participate).
 		\end{itemize}
 	\end{adjustwidth}
@@ -284,66 +308,4 @@ Quantum computing, algorithms, complexity theory
 
 \cventry{2014}{Wilder Middle School, Richmond, VA}{Mentor to middle school \textup{Vex} robotics team}{}{}{}
 
-
-\section{Master thesis}
-\cvitem{title}{\emph{Title}}
-\cvitem{supervisors}{Supervisors}
-\cvitem{description}{Short thesis abstract}
-
-\section{Experience}
-\subsection{Vocational}
-\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
-	Detailed achievements:%
-	\begin{itemize}%
-		\item Achievement 1;
-		\item Achievement 2, with sub-achievements:
-		\begin{itemize}%
-			\item Sub-achievement (a);
-			\item Sub-achievement (b), with sub-sub-achievements (don't do this!);
-			\begin{itemize}
-				\item Sub-sub-achievement i;
-				\item Sub-sub-achievement ii;
-				\item Sub-sub-achievement iii;
-			\end{itemize}
-			\item Sub-achievement (c);
-		\end{itemize}
-		\item Achievement 3.
-\end{itemize}}
-\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
-\subsection{Miscellaneous}
-\cventry{year--year}{Job title}{Employer}{City}{}{Description}
-
-\section{Languages}
-\cvitemwithcomment{Language 1}{Skill level}{Comment}
-\cvitemwithcomment{Language 2}{Skill level}{Comment}
-\cvitemwithcomment{Language 3}{Skill level}{Comment}
-
-\section{Computer skills}
-\cvdoubleitem{category 1}{XXX, YYY, ZZZ}{category 4}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
-
-\section{Interests}
-\cvitem{hobby 1}{Description}
-\cvitem{hobby 2}{Description}
-\cvitem{hobby 3}{Description}
-
-\section{Extra 1}
-\cvlistitem{Item 1}
-\cvlistitem{Item 2}
-\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
-
-\section{Extra 2}
-\cvlistdoubleitem{Item 1}{Item 4}
-\cvlistdoubleitem{Item 2}{Item 5}
-\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
-
-\section{References}
-\begin{cvcolumns}
-	\cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
-	\cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
-	\cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
-\end{cvcolumns}
-
 \end{document}
-
