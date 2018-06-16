@@ -1,16 +1,13 @@
-# yirkajk.github.io
 # Justin Yirka 
+**Proper website coming soon**
+
 <img src="./Headshot1.jpg" width="128">
 
-My online resume repository
+I am an aspiring quantum computing researcher.
 
-I am an undergraduate Computer Science and Mathematics student at Virginia Commonwealth University.
+I recently earned a B.S. in Computer Science and a B.S. in Math from Virginia Commonwealth University in Richmond, VA.
 
 A copy of my Curriculum Vitae can be found here:
   * [Curriculum Vitae](./CV_JYirka.pdf)
-
-Several other documents are stored here for me to easily link to:
-  * [QIP 2017 Poster - <i>The complexity of estimating local physical quantities</i>](./QIP_Poster_2017_v6_final.pdf)
-  * [Seminar Flyer, 2016 - <i>The complexity of estimating local physical quantities</i>](./csseminar-3-25-16-flyer.pdf)
 
 For information including additional programming experience, employment, and courses taken, visit my LinkedIn profile at:  <a href="https://www.linkedin.com/in/yirkajk/">https://www.linkedin.com/in/yirkajk/</a>
