@@ -1,0 +1,232 @@
+\documentclass[11pt,letterpaper,serif]{moderncv}
+\usepackage[margin=.7in]{geometry}
+\moderncvstyle{banking}
+\moderncvcolor{black}
+
+\renewcommand*{\sectionfont}{\normalsize\bfseries\upshape}
+\renewcommand*{\subsectionfont}{\normalsize\upshape\fontseries{b}\selectfont}
+
+\urlstyle{same} % Forces URLs to use same font, rather than a monospace font
+\usepackage{changepage} % For indenting blocks of text
+
+\usepackage[sorting=yd, style=authortitle,dashed=false, maxnames=99, backend=bibtex]{biblatex} % sort is below. maxnames avoids et al.
+\DeclareNameAlias{author}{first-last} % Forces all names to appear in that order. Default of style=authortitle is first author printed surname,name.
+\DeclareSortingTemplate{yd}{ % Reverse chronological order, and then whatever order as listed in the .bib file
+	\sort{
+		\field{presort}
+	}
+	\sort[final]{
+		\field{sortkey}
+	}
+	\sort[direction=descending]{
+		\field{sortyear}
+		\field{year}
+		\literal{9999}
+	}
+}
+\addbibresource{CV_preprints.bib}
+\addbibresource{CV_conferences.bib}
+\addbibresource{CV_seminars.bib}
+\addbibresource{CV_public.bib}
+\nocite{*} % Cite everything in the bib files
+
+\name{Justin}{Yirka} % Unused, since we make our own header
+
+\usepackage{lastpage}
+\fancypagestyle{firstpage}{\rfoot{\textit{\today \quad \thepage / \pageref{LastPage}}}}
+
+\rfoot{\textit{Justin Yirka \quad \thepage / \pageref{LastPage}}} % Any pages without special style will just get this
+
+
+%=========================================================================================
+%  BEGIN DOCUMENT
+%=========================================================================================
+\begin{document}
+
+\hypersetup{pdftitle={Justin Yirka --- Resume},pdfauthor={Justin Yirka}}
+
+\thispagestyle{firstpage}
+
+\begin{center}
+	{\huge\textbf{Justin Yirka}}
+	
+	B.S. in Computer Science and B.S. in Mathematics
+	
+	\href{mailto:yirkajk@vcu.edu}{YirkaJk@vcu.edu} \hspace{2em} (703) 229-7956
+	
+	% \url{www.JustinYirka.com} \qquad
+	\url{www.linkedin.com/in/yirkajk}	
+\end{center}
+
+
+%%% Increase vertical spacing in remainder of document (default parskip in moderncv is 0em) %%%
+\setlength{\parskip}{0em}
+\setlength\bibitemsep{\parskip}
+
+
+%=========================================================================================
+%  SECTION: Education
+%=========================================================================================
+\vspace{-2em}
+\section{Education}
+\cventry{May 2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{}{}
+\vspace{-1.5em}
+\cventry{Dual degrees}{B.S. in Mathematical Sciences}{}{}{GPA: 3.98 out of 4.0}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Specialization in Data Science \quad---\quad Concentration in Pure Math \quad---\quad Minor in Physics \newline
+		Supported by VCU Presidential Scholarship
+	\end{adjustwidth}
+}
+
+
+%=========================================================================================
+%  SECTION: Research
+%=========================================================================================
+\section{Research}
+%==========  Experience  =======================================================
+\subsection{Experience}
+\cventry{Summer 2018}{Research Assistant}{Graph Theory Computational Discovery Lab, VCU}{}{}
+{	
+	\begin{adjustwidth}{.25in}{}
+		\textbf{Supervisor:} Craig Larson, Ph.D. \newline
+		\textbf{Topic:} Automated conjecturing and graph Hamiltonicity. Implement algorithms for graph properties, improve open-source project repository structure for future research, and evaluate conjectures for graph Hamiltonicity.
+	\end{adjustwidth}
+}
+
+\cventry{Summer 2017}{NSF REU Undergraduate Researcher}
+{
+	$\!$\begin{minipage}{0.8\textwidth}
+		Joint Center for Quantum Information and Computer Science (QuICS), \newline
+		University of Maryland (UMD)	
+	\end{minipage}
+}
+{}{}
+{	
+	\begin{adjustwidth}{.25in}{}
+		\textbf{Supervisor:} Andrew Childs, Ph.D. \newline
+		\textbf{Support:} NSF Research Experience for Undergraduates (REU). P.I.: William Gasarch, Ph.D. \newline
+		\textbf{Topic:} Quantum pure-state tomography. Investigated Pauli observables using group theory (e.g. Clifford group) and bounds from study of hypergraphs.
+	\end{adjustwidth}
+}
+
+\cventry{2015--2016}{Undergraduate Research Assistant}{Quantum Computing Lab, VCU}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		\textbf{Supervisor:} Sevag Gharibian, Ph.D. \newline
+		\textbf{Topic:} Quantum computational complexity. Studied quantum oracle classes characterized by local physical problems (e.g. \href{https://complexityzoo.uwaterloo.ca/Complexity_Zoo:P\#pqmalog}{$\textup{P}^{\textup{QMA[log]}}$}) and partially developed ``quantum Toda's Theorem'' $\textup{QCPH}\subseteq \textup{P}^{\textup{PP}}$.
+	\end{adjustwidth}
+}
+
+%==========  Preprints  =======================================================
+\printbibliography[heading=subbibliography, title={Preprints}, keyword=preprint]
+
+%%==========  Conference Presentations  =======================================================
+\printbibliography[heading=subbibliography, title={Conference Presentations}, keyword=resume_conference]
+
+%%==========  Departmental Seminars  =======================================================
+% \printbibliography[heading=subbibliography, title={Department Seminars}, keyword=seminar]
+
+%%==========  Public-Audience Talks  =======================================================
+% \printbibliography[heading=subbibliography, title={Public-Audience Talks}, keyword=public]
+
+
+%=========================================================================================
+%  SECTION: Programming Experience
+%=========================================================================================
+\section{Programming Experience}
+\cvitem{Languages}{Java, C, Python, Sage, Perl, Wolfram Language, Lua}
+
+\cvitem{Software}{LaTeX, git and GitHub, Unix, Android, Mathematica, Weka, AutoCAD}
+
+\cvitem{Software Engineering coursework}{Software Engineering (Agile, Android), Algorithm Analysis, Programming Languages (C, Python, Racket), Intro. to Operating Systems, Object Oriented Programming (Java)}
+
+\cvitem{Applications coursework}{Convex Optimization (graduate course), Introduction to Natural Language Processing (assignments in Perl), Introduction to Data Science (Weka), Artificial Intelligence (neural networks), Graphs and Algorithms, Visualization of Physics with Mathematica}
+
+\subsection{Projects}
+\cventry{Summer 2018}{Python}
+{\href{https://github.com/math1um/objects-invariants-properties}{Graph Brains Project --- Graph Theory Computational Discovery Lab, VCU}}
+{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Implement functions for calculating graph properties. Manage known examples and properties in Python and SQL. Improve project structure, documentation, and usability.		
+	\end{adjustwidth}
+}
+
+\cventry{(2 semesters) 2017--May 2018}{Java, Swift, Python, Android, iOS, Raspberry Pi / Unix, Google Firebase}{\textit{Campus Bluetooth tag network} --- Senior project}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Team project developing campus item-tracking system implementing Android, iOS, and Raspberry Pi programs to locate users' items tagged with BLE beacons.
+	\end{adjustwidth}
+}
+
+\cventry{Fall 2016}{Java, Android, Amazon AWS}{\textit{GeoViewer} Android app --- Software Engineering course project}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Team project with focus on Agile development. Implemented Android app enabling users to share and discover geocached photos.
+	\end{adjustwidth}
+}
+
+\cventry{2016}{Wolfram Language, Mathematica}{\textit{Run Planner} Mathematica program --- RamHacks hackathon}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Developed program utilizing opensource GPS data to take as input a starting location and a distance goal and output a jogging route of that distance along the city road network.
+	\end{adjustwidth}
+}
+
+\cventry{2016}{Java, Android}{\textit{GroupMe Stats} Android app --- VTHacks hackathon}{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Team project developing app to use GroupMe API to retrieve information about user's GroupMe conversations and provide interesting statistics to the user.
+	\end{adjustwidth}
+}
+
+\cventry{2010--2014}{C++}
+{\href{https://www.vexrobotics.com/vexedr/competition}{Vex}, \href{https://www.firstinspires.org/robotics/ftc}{FIRST}, and \href{http://zerorobotics.mit.edu/}{Zero {\footnotesize (Interational Space Station)}} robotics competitions}
+{}{}{}
+
+
+%=========================================================================================
+%  SECTION: Extracurricular Experience
+%=========================================================================================
+\section{Extracurricular Experience}
+\cventry{2016--May 2018}
+{\href{https://vcuramdev.github.io/}{RamDev: Software Development at VCU}}
+{\href{https://vcuramdev.github.io/}{Founder and President}}
+{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		\begin{itemize}
+			\item Coordinated 46 weekly seminars including 9 corporate speakers.
+			\item Secured and managed \$2400 in funding and resources.
+			\item Increased weekly attendance to 20 students, becoming largest C.S. organization at VCU.
+		\end{itemize}
+	\end{adjustwidth}
+}
+
+
+%=========================================================================================
+%  SECTION: Awards and Honors
+%=========================================================================================
+\section{Awards and Honors}
+\cventry{2014--May 2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Top scholarship offered. Full cost of 4-year tuition, room, and board. \newline
+		Awarded to 0.6\% of students
+	\end{adjustwidth}
+}
+
+\cventry{2017}{VCU School of Engineering}
+{\href{https://egr.vcu.edu/capstone/sternheimer-awards/}{Mark A. Sternheimer Capstone Design Award}}
+{}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		For ``innovation and entrepreneurship'' of senior project developing mobile app. Included grant of \$660.
+	\end{adjustwidth}
+}
+
+\cventry{2015}{VCU Symposium for Undergraduate Research and Creativity}{Launch Award for Outstanding Research Poster}{}{}{}
+
+
+\end{document}
