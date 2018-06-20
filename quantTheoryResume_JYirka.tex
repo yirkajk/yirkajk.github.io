@@ -1,10 +1,10 @@
 \documentclass[11pt,letterpaper,serif]{moderncv}
-\usepackage[margin=.7in]{geometry}
+\usepackage[margin=.75in]{geometry}
 \moderncvstyle{banking}
 \moderncvcolor{black}
 
-\renewcommand*{\sectionfont}{\normalsize\bfseries\upshape}
-\renewcommand*{\subsectionfont}{\normalsize\upshape\fontseries{b}\selectfont}
+% \renewcommand*{\sectionfont}{\Large\bfseries\upshape}
+\renewcommand*{\subsectionfont}{\large\upshape\fontseries{b}\selectfont}
 
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
@@ -60,7 +60,7 @@
 
 
 %%% Increase vertical spacing in remainder of document (default parskip in moderncv is 0em) %%%
-\setlength{\parskip}{0em}
+\setlength{\parskip}{0.5em}
 \setlength\bibitemsep{\parskip}
 
 
@@ -74,7 +74,9 @@
 \cventry{Dual degrees}{B.S. in Mathematical Sciences}{}{}{GPA: 3.98 out of 4.0}
 {	
 	\begin{adjustwidth}{.25in}{}
-		Specialization in Data Science \quad---\quad Concentration in Pure Math \quad---\quad Minor in Physics \newline
+		Specialization in Data Science \newline
+		Concentration in Pure Math \newline
+		Minor in Physics \newline
 		Supported by VCU Presidential Scholarship
 	\end{adjustwidth}
 }
@@ -125,65 +127,38 @@
 \printbibliography[heading=subbibliography, title={Conference Presentations}, keyword=resume_conference]
 
 %%==========  Departmental Seminars  =======================================================
-% \printbibliography[heading=subbibliography, title={Department Seminars}, keyword=seminar]
+\printbibliography[heading=subbibliography, title={Department Seminars}, keyword=seminar]
 
 %%==========  Public-Audience Talks  =======================================================
-% \printbibliography[heading=subbibliography, title={Public-Audience Talks}, keyword=public]
+\printbibliography[heading=subbibliography, title={Public-Audience Talks}, keyword=public]
 
 
 %=========================================================================================
-%  SECTION: Programming Experience
+%  SECTION: Awards and Scholarships
 %=========================================================================================
-\section{Programming Experience}
-\cvitem{Languages}{Java, C, Python, Sage, Perl, Wolfram Language, Lua}
+\section{Awards and Scholarships}
+\cventry{2014--May 2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Top scholarship offered. Full cost of 4-year tuition, room, and board. \newline
+		Awarded to 0.6\% of students
+	\end{adjustwidth}
+}
 
-\cvitem{Software}{LaTeX, git and GitHub, Unix, Android, Mathematica, Weka, AutoCAD}
-
-\cvitem{Software Engineering coursework}{Software Engineering (Agile, Android), Algorithm Analysis, Programming Languages (C, Python, Racket), Intro. to Operating Systems, Object Oriented Programming (Java)}
-
-\cvitem{Applications coursework}{Convex Optimization (graduate course), Introduction to Natural Language Processing (assignments in Perl), Introduction to Data Science (Weka), Artificial Intelligence (neural networks), Graphs and Algorithms, Visualization of Physics with Mathematica}
-
-\subsection{Projects}
-\cventry{Summer 2018}{Python}
-{\href{https://github.com/math1um/objects-invariants-properties}{Graph Brains Project --- Graph Theory Computational Discovery Lab, VCU}}
+\cventry{2017}{VCU School of Engineering}
+{\href{https://egr.vcu.edu/capstone/sternheimer-awards/}{Mark A. Sternheimer Capstone Design Award}}
 {}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Implement functions for calculating graph properties. Manage known examples and properties in Python and SQL. Improve project structure, documentation, and usability.		
+		For ``innovation and entrepreneurship'' of senior project developing mobile app. Included grant of \$660.
 	\end{adjustwidth}
 }
 
-\cventry{(2 semesters) 2017--May 2018}{Java, Swift, Python, Android, iOS, Raspberry Pi / Unix, Google Firebase}{\textit{Campus Bluetooth tag network} --- Senior project}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Team project developing campus item-tracking system implementing Android, iOS, and Raspberry Pi programs to locate users' items tagged with BLE beacons.
-	\end{adjustwidth}
-}
+\cventry{2015}{VCU Symposium for Undergraduate Research and Creativity}{Launch Award for Outstanding Research Poster}{}{}{}
 
-\cventry{Fall 2016}{Java, Android, Amazon AWS}{\textit{GeoViewer} Android app --- Software Engineering course project}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Team project with focus on Agile development. Implemented Android app enabling users to share and discover geocached photos.
-	\end{adjustwidth}
-}
+\cventry{2014}{\$80,000}{Presidential Scholarship \textit{\textmd{[unable to accept]}}} {}{Worcester Polytechnic Institute}{}
 
-\cventry{2016}{Wolfram Language, Mathematica}{\textit{Run Planner} Mathematica program --- RamHacks hackathon}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Developed program utilizing opensource GPS data to take as input a starting location and a distance goal and output a jogging route of that distance along the city road network.
-	\end{adjustwidth}
-}
-
-\cventry{2016}{Java, Android}{\textit{GroupMe Stats} Android app --- VTHacks hackathon}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Team project developing app to use GroupMe API to retrieve information about user's GroupMe conversations and provide interesting statistics to the user.
-	\end{adjustwidth}
-}
-
-\cventry{2010--2014}{C++}
-{\href{https://www.vexrobotics.com/vexedr/competition}{Vex}, \href{https://www.firstinspires.org/robotics/ftc}{FIRST}, and \href{http://zerorobotics.mit.edu/}{Zero {\footnotesize (Interational Space Station)}} robotics competitions}
-{}{}{}
+\cventry{2014}{\$100,000}{Rensselaer Medal Merit Scholarship \textit{\textmd{[unable to accept]}}} {}{Rensselaer Polytechnic Institute}{}
 
 
 %=========================================================================================
@@ -206,27 +181,10 @@
 
 
 %=========================================================================================
-%  SECTION: Awards and Honors
+%  SECTION: Programming Experience
 %=========================================================================================
-\section{Awards and Honors}
-\cventry{2014--May 2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
-{	
-	\begin{adjustwidth}{.25in}{}
-		Top scholarship offered. Full cost of 4-year tuition, room, and board. \newline
-		Awarded to 0.6\% of students
-	\end{adjustwidth}
-}
-
-\cventry{2017}{VCU School of Engineering}
-{\href{https://egr.vcu.edu/capstone/sternheimer-awards/}{Mark A. Sternheimer Capstone Design Award}}
-{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		For ``innovation and entrepreneurship'' of senior project developing mobile app. Included grant of \$660.
-	\end{adjustwidth}
-}
-
-\cventry{2015}{VCU Symposium for Undergraduate Research and Creativity}{Launch Award for Outstanding Research Poster}{}{}{}
+\vspace{2\parskip}
+\textbf{\Large Programming Experience:} Skills and portfolio available at \url{https://www.justinyirka.com/}
 
 
 \end{document}
