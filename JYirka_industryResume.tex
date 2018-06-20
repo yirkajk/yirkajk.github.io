@@ -1,9 +1,12 @@
 % forked from CV_JYirka at commit 238736b on 5/27/18
 
 \documentclass[11pt,letterpaper,serif]{moderncv}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=.75in]{geometry}
 \moderncvstyle{banking}
 \moderncvcolor{black}
+
+\renewcommand*{\sectionfont}{\normalsize\bfseries\upshape}
+\renewcommand*{\subsectionfont}{\normalsize\upshape\fontseries{b}\selectfont}
 
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
@@ -32,10 +35,9 @@
 \name{Justin}{Yirka} % Unused, since we make our own header
 
 \usepackage{lastpage}
-\fancypagestyle{firstpage}{\lfoot{\textit{\today}} \rfoot{\textit{\thepage/\pageref{LastPage}}}}
+\fancypagestyle{firstpage}{\rfoot{\textit{\today \quad \thepage / \pageref{LastPage}}}}
 
-\lfoot{\textit{Industry Resume --- J. Yirka}} % Any pages without special style will just get this
-\rfoot{\textit{\thepage/\pageref{LastPage}}}
+\rfoot{\textit{Justin Yirka \quad \thepage / \pageref{LastPage}}} % Any pages without special style will just get this
 
 
 %=========================================================================================
@@ -48,12 +50,13 @@
 \thispagestyle{firstpage}
 
 \begin{center}
-	{\Large\textbf{Justin Yirka}}
+	{\huge\textbf{Justin Yirka}}
 	
 	B.S. in Computer Science and B.S. in Mathematics
 	
 	\href{mailto:yirkajk@vcu.edu}{YirkaJk@vcu.edu} \hspace{2em} (703) 229-7956
 	
+	% \url{www.JustinYirka.com} \qquad
 	\url{www.linkedin.com/in/yirkajk}	
 \end{center}
 
@@ -68,12 +71,14 @@
 %=========================================================================================
 \vspace{-2em}
 \section{Education}
-\cventry{(Dual degree program) 2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{}{}
+\cventry{May 2018}{B.S. in Computer Science}{Virginia Commonwealth University (VCU)}{Richmond, VA}{}{}
 \vspace{-1.5em}
-\cventry{}{B.S. in Mathematical Sciences}{}{}{GPA: 3.98 out of 4.0}
+\cventry{Dual degrees}{B.S. in Mathematical Sciences}{}{}{GPA: 3.98 out of 4.0}
 {	
 	\begin{adjustwidth}{.25in}{}
-		Specialization in Data Science, Minor in Physics \newline
+		Specialization in Data Science \newline
+		Concentration in Pure Math \newline
+		Minor in Physics \newline
 		Supported by VCU Presidential Scholarship
 	\end{adjustwidth}
 }
@@ -120,14 +125,14 @@
 %==========  Preprints  =======================================================
 \printbibliography[heading=subbibliography, title={Preprints}, keyword=preprint]
 
-%%==========  Conference presentations  =======================================================
-\printbibliography[heading=subbibliography, title={Conference presentations}, keyword=conference]
+%%==========  Conference Presentations  =======================================================
+\printbibliography[heading=subbibliography, title={Conference Presentations}, keyword=conference]
 
-%%==========  Departmental seminars  =======================================================
-\printbibliography[heading=subbibliography, title={Department seminars}, keyword=seminar]
+%%==========  Departmental Seminars  =======================================================
+\printbibliography[heading=subbibliography, title={Department Seminars}, keyword=seminar]
 
-%%==========  Public-audience talks  =======================================================
-\printbibliography[heading=subbibliography, title={Public-audience talks}, keyword=public]
+%%==========  Public-Audience Talks  =======================================================
+\printbibliography[heading=subbibliography, title={Public-Audience Talks}, keyword=public]
 
 
 %=========================================================================================
@@ -152,7 +157,7 @@
 	\end{adjustwidth}
 }
 
-\cventry{(2 semesters) 2017--2018}{Java, Swift, Python, Android, iOS, Raspberry Pi / Unix, Google Firebase}{\textit{Campus Bluetooth tag network} --- Senior project}{}{}
+\cventry{(2 semesters) 2017--May 2018}{Java, Swift, Python, Android, iOS, Raspberry Pi / Unix, Google Firebase}{\textit{Campus Bluetooth tag network} --- Senior project}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		Team project developing campus item-tracking system implementing Android, iOS, and Raspberry Pi programs to locate users' items tagged with BLE beacons.
@@ -184,34 +189,12 @@
 {\href{https://www.vexrobotics.com/vexedr/competition}{Vex}, \href{https://www.firstinspires.org/robotics/ftc}{FIRST}, and \href{http://zerorobotics.mit.edu/}{Zero {\footnotesize (Interational Space Station)}} robotics competitions}
 {}{}{}
 
-\cventry{2012--2013, 2013--2014}{Java}{\textit{After-school student manager} and \textit{Padlock database} Java programs}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Course projects with emphasis on software life cycle and OOP. Evaluated requirements and implemented database programs with GUI for real-world use by the school.
-	\end{adjustwidth}
-}
-
-\cventry{Fall 2012}{Networking fundamentals (e.g. TCP/IP, OSI model)}{VA Governor's Cybersecurity Cup}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Learned and competively demonstrated cybersecurity fundamentals with a focus on network security. \newline
-		Qualified for invitation to 2013 VA Governor's Cybersecurity Conference and CTF.
-	\end{adjustwidth}
-}
-
-\cventry{2011--2012}{Lua, iOS}{iOS game}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Designed and implemented an iPhone game, including graphics, in fulfillment of academic project.
-	\end{adjustwidth}
-}
-
 
 %=========================================================================================
 %  SECTION: Extracurricular Experience
 %=========================================================================================
 \section{Extracurricular Experience}
-\cventry{2016--2018}
+\cventry{2016--May 2018}
 {\href{https://vcuramdev.github.io/}{RamDev: Software Development at VCU}}
 {\href{https://vcuramdev.github.io/}{Founder and President}}
 {}{}
@@ -230,7 +213,7 @@
 %  SECTION: Awards and Honors
 %=========================================================================================
 \section{Awards and Honors}
-\cventry{2014--2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
+\cventry{2014--May 2018}{\$110,000}{Presidential Scholarship}{}{Virginia Commonwealth University}
 {	
 	\begin{adjustwidth}{.25in}{}
 		Top scholarship offered. Full cost of 4-year tuition, room, and board. \newline
