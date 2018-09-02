@@ -11,10 +11,10 @@
 ##### Location: Richmond, VA, USA
 
 ##### Other profiles:
-  - [Twitter](https://twitter.com/JustinYirka) <img src="./logos/twitter.jpg" width="16">
-  - [LinkedIn](https://www.linkedin.com/in/yirkajk/) <img src="./logos/linkedin.png" width="16">
-  - [ArXiv](https://arxiv.org/a/yirka_j_1.html) <img src="./logos/arxiv.jpg" width="16">
-  - [GitHub](https://github.com/yirkajk) <img src="./logos/github.png" width="16">
+  - <img src="./logos/twitter.jpg" width="16"> [Twitter](https://twitter.com/JustinYirka)
+  - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/yirkajk/)
+  - <img src="./logos/arxiv.jpg" width="16"> [ArXiv](https://arxiv.org/a/yirka_j_1.html)
+  - <img src="./logos/github.png" width="16"> [GitHub](https://github.com/yirkajk)
 
 ***
 
