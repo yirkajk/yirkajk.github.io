@@ -6,7 +6,8 @@ Virginia Commonwealth University - May 2018
 
 <img src="./Headshot1.jpg" width="180">
 
-#### My CV: [Curriculum Vitae](./CV_JYirka.pdf)
+#### My CV: [Curriculum Vitae](./CV_JYirka.pdf)  
+Abbreviated resumes for [theory positions](./quantTheoryResume_JYirka.pdf) / [software positions](./quantSoftwareResume_JYirka.pdf) available.
 
 #### Contact: [Yirkajk@vcu.edu](mailto:Yirkajk@vcu.edu)
 
