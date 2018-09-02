@@ -32,6 +32,8 @@ In fall 2018, I am presenting my work at AQIS 2018 in Japan, applying to graduat
 
 Please see [my CV](./CV_JYirka.pdf) for details on my past research and education.
 
+***
+
 ### News:
   * 10 August: My summer position with the Graph Theory Computational Discovery Lab at VCU has ended. I'll now be working on my AQIS 2018 presentation, applying for graduate school, and on more quantum computing research.
   * 25 July: I will be giving a talk in September at the Asian Conference on Quantum Information Science (AQIS 2018) in Nagoya, Japan on recent work with Sevag Gharibian and Stephen Piddock entitled *Oracle complexity classes and local measurements on physical Hamiltonians* (preprint available soon).
