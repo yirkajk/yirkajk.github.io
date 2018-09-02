@@ -11,8 +11,8 @@ Abbreviated resumes for [theory positions](./quantTheoryResume_JYirka.pdf) / [so
 
 #### Contact: [Yirkajk@vcu.edu](mailto:Yirkajk@vcu.edu)
 
-##### Location: Richmond, VA, USA  
-##### Other profiles:
+#### Location: Richmond, VA, USA  
+#### Other profiles:
   - <img src="./logos/twitter.jpg" width="16"> [Twitter](https://twitter.com/JustinYirka)
   - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/yirkajk/)
   - <img src="./logos/arxiv.jpg" width="16"> [ArXiv](https://arxiv.org/a/yirka_j_1.html)
@@ -26,15 +26,15 @@ I am also seeking research positions with industry or academic groups for the ti
 See [ArXiv](https://arxiv.org/a/yirka_j_1.html) for a list of my currently available preprints.  
 Please **see [My CV](./CV_JYirka.pdf) for full details** on my research experience, research presentations, education, service, and more.
 
-##### Research Interests
+#### Research Interests
 My past research experience is with quantum computational complexity and quantum tomography.  
 I am interested in working with more application-oriented areas of quantum computing like approximation algorithms and optimization, while continuing to develop on my previous theory and complexity research.
 
-##### Education
+#### Education
 I graduated in May 2018 with a B.S. in Computer Science and a B.S. in Mathematical Sciences from Virginia Commonwealth University in Richmond, VA.  
 I was fully funded by a VCU Presidential Scholarship.
 
-##### Research Experience
+#### Research Experience
   - **Research Assistant**  
   Graph Theory Computational Discovery Lab, VCU  
   Summer 2018  
@@ -53,7 +53,7 @@ I was fully funded by a VCU Presidential Scholarship.
   Supervisor: Sevag Gharibian, Ph.D.  
   Topic: Quantum computational complexity. Studied quantum oracle classes characterized by local physical problems (e.g. P^QMA[log]) and partially developed “quantum Toda’s Theorem” QCPH ⊆ P^PP.
 
-##### Preprints
+#### Preprints
   - Sevag Gharibian, Stephen Piddock, and **Justin Yirka**. "Local measurements on physical Hamiltonians and oracle complexity classes”. Preprint available soon.
 
   - Sevag Gharibian, Miklos Santha, Aarthi Sundaram, and **Justin Yirka**. "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)”. Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). Apr. 2018.
