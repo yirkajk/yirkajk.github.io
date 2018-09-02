@@ -21,7 +21,7 @@
 I am an aspiring quantum computing researcher actively seeking Ph.D. positions.
 I am also seeking research positions with industry or academic groups for the time until my graduate studies begin (planned fall '19).
 
-My past research experience is in quantum computational complexity and in quantum tomography. I am interested in working more with applications of quantum computing and with related topics like algorithms and optimization while still continuing to develop on my previous theory experience.
+My past research experience is in quantum computational complexity and in quantum tomography. I am interested in working more with application-oriented areas of quantum computing like approximation algorithms and optimization while continuing to develop on my previous theory and complexity experience.
 
 I graduated in May 2018 with a B.S. in Computer Science and a B.S. in Mathematics from Virginia Commonwealth University in Richmond, VA. I was fully funded by a VCU Presidential Scholarship.
 
