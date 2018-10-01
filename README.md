@@ -1,9 +1,9 @@
-# <img src="./Headshot1.jpg" style="height: 150px;" />&nbsp; Justin Yirka  
+# <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
 Quantum computing researcher and student  
 
 B.S. in Computer Science and B.S. in Mathematical Sciences  
-Virginia Commonwealth University - May 2018
+Virginia Commonwealth University, May 2018
 
 #### My CV: [Curriculum Vitae](./CV_JYirka.pdf)  
 Abbreviated resumes for [theory positions](./quantTheoryResume_JYirka.pdf) / [software positions](./quantSoftwareResume_JYirka.pdf) available.
@@ -70,4 +70,4 @@ I was fully funded by a VCU Presidential Scholarship.
 
   * June 12: Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors Sevag Gharibian, Miklos Santha, Jamie Sikora, and Aarthi Sundaram has been accepted for a talk at the International Symposium on Mathematical Foundations of Computer Science (MFCS 2018) in Liverpool in August. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
 
-*Last updated: September 2, 2018*
+*Last updated: October 1, 2018*
