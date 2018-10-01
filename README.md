@@ -26,8 +26,9 @@ See [ArXiv](https://arxiv.org/a/yirka_j_1.html) for a list of my currently avail
 Please **see [My CV](./CV_JYirka.pdf) for full details** on my research experience, research presentations, education, service, and more.
 
 #### Research Interests
-My past research experience is with quantum computational complexity and quantum tomography.  
-I am interested in working with more application-oriented areas of quantum computing like approximation algorithms and optimization, while continuing to develop on my previous theory and complexity research.
+My past research experience is with quantum computational complexity (esp. classes like P^QMA[log]) and quantum tomography.  
+I am interested in working more with topics like quantum algorithms (esp. approximation algorithms) and optimization, continuing to study quantum complexity theory, and understanding these topics' connections with applications.  
+I'm very interested in learning more about various potential research topics, so if you have a question or suggestion, please contact me!
 
 #### Education
 I graduated in May 2018 with a B.S. in Computer Science and a B.S. in Mathematical Sciences from Virginia Commonwealth University in Richmond, VA.  
