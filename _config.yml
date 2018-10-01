@@ -1,0 +1,16 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  source:
+    branch: "master"
+    path: "/"
+
+title: Justin Yirka
