@@ -22,13 +22,14 @@ Abbreviated resumes for [theory positions](./quantTheoryResume_JYirka.pdf) / [so
 I am an aspiring quantum computing researcher, **actively seeking Ph.D. positions related to quantum computing.  
 I am also seeking research positions with industry or academic groups for the time until my graduate studies begin (planned fall '19).**
 
-See [ArXiv](https://arxiv.org/a/yirka_j_1.html) for a list of my currently available preprints.  
-Please **see [My CV](./CV_JYirka.pdf) for full details** on my research experience, research presentations, education, service, and more.
+Please **see [My CV](./CV_JYirka.pdf) for full details** on my research experience, presentations, education, service, and more.
 
 #### Research Interests
-My past research experience is with quantum computational complexity (esp. classes like P^QMA[log]) and quantum tomography.  
-I am interested in working more with topics like quantum algorithms (esp. approximation algorithms) and optimization, continuing to study quantum complexity theory, and understanding these topics' connections with applications.  
-I'm very interested in learning more about various potential research topics, so if you have a question or suggestion, please contact me!
+I'm interested generally in theoretical quantum computing.  
+My past experience is primarily with quantum computational complexity.  
+I want to continue work with complexity theory, while also learning more about how to apply theory to application-motivated problems.  
+Following these interests, I would also like to work more with topics such as algorithms, cryptography, or optimization.  
+I'm open to learning about a variety of research areas as I continue to refine my interests.
 
 #### Education
 I graduated in May 2018 with a B.S. in Computer Science and a B.S. in Mathematical Sciences from Virginia Commonwealth University in Richmond, VA.  
@@ -51,10 +52,10 @@ I was fully funded by a VCU Presidential Scholarship.
   Quantum Computing Lab, VCU  
   2015 - 2016  
   Supervisor: Sevag Gharibian, Ph.D.  
-  Topic: Quantum computational complexity. Studied quantum oracle classes characterized by local physical problems (e.g. P^QMA[log]) and partially developed “quantum Toda’s Theorem” QCPH ⊆ P^PP.
+  Topic: Quantum computational complexity. Studied quantum oracle classes characterized by local physical problems (e.g. P^QMA[log]) and partially developed “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Preprints
-  - Sevag Gharibian, Stephen Piddock, and **Justin Yirka**. "Local measurements on physical Hamiltonians and oracle complexity classes”. Preprint available soon.
+  - Sevag Gharibian, Stephen Piddock, and **Justin Yirka**. "Oracle complexity classes and local measurements on physical Hamiltonians”. Preprint available soon.
 
   - Sevag Gharibian, Miklos Santha, Aarthi Sundaram, and **Justin Yirka**. "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)”. Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). Apr. 2018.
 
@@ -71,4 +72,4 @@ I was fully funded by a VCU Presidential Scholarship.
 
   * June 12: Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors Sevag Gharibian, Miklos Santha, Jamie Sikora, and Aarthi Sundaram has been accepted for a talk at the International Symposium on Mathematical Foundations of Computer Science (MFCS 2018) in Liverpool in August. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
 
-*Last updated: October 1, 2018*
+*Last updated: October 16, 2018*
