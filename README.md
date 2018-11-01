@@ -64,6 +64,8 @@ I was fully funded by a VCU Presidential Scholarship.
 ***
 
 ### News:
+  * November 1: I will be visiting the University of Paderborn in Paderborn, Germany from November 12th to 30th to work with Prof. Sevag Gharibian. Looking forward to starting a new project studying quantum algorithms for k-QSAT.
+
   * August 10: My summer position with the Graph Theory Computational Discovery Lab at VCU has ended. I'll now be working on my AQIS 2018 presentation, applying for graduate school, and on more quantum computing research.  
 
   * July 25: I will be giving a talk in September at the Asian Quantum Information Science Conference (AQIS 2018) in Nagoya, Japan on recent work with Sevag Gharibian and Stephen Piddock entitled "Oracle complexity classes and local measurements on physical Hamiltonians" (preprint available soon).
@@ -72,4 +74,4 @@ I was fully funded by a VCU Presidential Scholarship.
 
   * June 12: Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors Sevag Gharibian, Miklos Santha, Jamie Sikora, and Aarthi Sundaram has been accepted for a talk at the International Symposium on Mathematical Foundations of Computer Science (MFCS 2018) in Liverpool in August. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
 
-*Last updated: October 16, 2018*
+*Last updated: November 1, 2018*
