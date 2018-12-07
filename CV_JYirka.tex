@@ -1,5 +1,5 @@
 \documentclass[11pt,letterpaper,serif]{moderncv}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=0.8in]{geometry}
 \moderncvstyle{banking}
 \moderncvcolor{black}
 
@@ -8,7 +8,7 @@
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
 
-\usepackage[sorting=yd, style=authortitle,dashed=false, maxnames=99, backend=bibtex]{biblatex} % sort is below. maxnames avoids et al.
+\usepackage[sorting=yd, style=authortitle, dashed=false, maxnames=99, backend=bibtex]{biblatex} % sort is below. maxnames avoids et al.
 \DeclareNameAlias{author}{first-last} % Forces all names to appear in that order. Default of style=authortitle is first author printed surname,name.
 \DeclareSortingTemplate{yd}{ % Reverse chronological order, and then whatever order as listed in the .bib file
 	\sort{
@@ -27,6 +27,7 @@
 \addbibresource{CV_conferences.bib}
 \addbibresource{CV_seminars.bib}
 \addbibresource{CV_public.bib}
+\addbibresource{CV_publications.bib}
 \nocite{*} % Cite everything in the bib files
 
 \name{Justin}{Yirka} % Unused, since we make our own header
@@ -48,9 +49,7 @@
 
 \begin{center}
 	{\huge\textbf{Justin Yirka}}
-	
-	\textit{Curriculum Vitae}
-	
+		
 	B.S. in Computer Science and B.S. in Mathematics
 	
 	Virginia Commonwealth University, Richmond, VA, USA
@@ -100,11 +99,19 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 \section{Research}
 %==========  Experience  =======================================================
 \subsection{Experience}
+\cventry{(3 weeks) November 2018}{Visiting Researcher}{University of Paderborn, Germany}{}{}
+{	
+	\begin{adjustwidth}{.25in}{}
+		Collaboration with Sevag Gharibian, Ph.D. \newline
+		\textbf{Topic:} Complexity theory and algorithms. Worked to show $\textup{QMA}_{1}$-hardness of the quantum satisfcation problem ($k$-QSAT) for input of lower dimensions (i.e. improving on current necessary dimensions).
+	\end{adjustwidth}
+}
+
 \cventry{Summer 2018}{Research Assistant}{Graph Theory Computational Discovery Lab, VCU}{}{}
 {	
 	\begin{adjustwidth}{.25in}{}
 		\textbf{Supervisor:} Craig Larson, Ph.D. \newline
-		\textbf{Topic:} Automated conjecturing and graph Hamiltonicity. Implemented algorithms for graph properties, improved open-source project structure for future use, and evaluated graph Hamiltonicity conjectures.
+		\textbf{Topic:} Automated conjecturing and graph Hamiltonicity. \textit{Sage, Python}, and \textit{GitHub}. Implemented algorithms for graph properties, improved open-source project structure, and tested graph conjectures.
 	\end{adjustwidth}
 }
 
@@ -120,7 +127,7 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 	\begin{adjustwidth}{.25in}{}
 		\textbf{Supervisor:} Andrew Childs, Ph.D. \newline
 		\textbf{Support:} NSF Research Experience for Undergraduates (REU). P.I.: William Gasarch, Ph.D. \newline
-		\textbf{Topic:} Quantum pure-state tomography. Investigated Pauli observables using group theory (e.g. Clifford group) and bounds from study of hypergraphs.
+		\textbf{Topic:} Quantum tomography. Investigated minimum number of Pauli observables to identify a pure state. Used numerical results, group theory, and hypergraph theory.
 	\end{adjustwidth}
 }
 
@@ -128,12 +135,15 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 {
 	\begin{adjustwidth}{.25in}{}
 		\textbf{Supervisor:} Sevag Gharibian, Ph.D. \newline
-		\textbf{Topic:} Quantum computational complexity. Studied quantum oracle classes  (e.g. \href{https://complexityzoo.uwaterloo.ca/Complexity_Zoo:P\#pqmalog}{\scriptsize $\textup{P}^{\textup{QMA[log]}}$}) characterized by local physical problems and partially developed ``quantum Toda's Theorem'' ({\scriptsize $\textup{QCPH}\subseteq \textup{P}^{\textup{PP}^{\textup{PP}}}$}).
+		\textbf{Topic:} Quantum computational complexity. Studied quantum oracle classes  (e.g. {\scriptsize $\textup{P}^{\textup{QMA[log]}}$}) characterized by local physical problems and partially developed ``quantum Toda's Theorem'' ({\scriptsize $\textup{QCPH}\subseteq \textup{P}^{\textup{PP}^{\textup{PP}}}$}).
 	\end{adjustwidth}
 }
 
 %==========  Preprints  =======================================================
 \printbibliography[heading=subbibliography, title={Preprints}, keyword=preprint]
+
+%==========  Journal Publications  =======================================================
+\printbibliography[heading=subbibliography, title={Journal Publications}, keyword=publication]
 
 %%==========  Conference Presentations  =======================================================
 \printbibliography[heading=subbibliography, title={Conference Presentations}, keyword=conference]
@@ -141,16 +151,12 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 %%==========  Departmental Seminars  =======================================================
 \printbibliography[heading=subbibliography, title={Department Seminars}, keyword=seminar]
 
-%%==========  Public-Audience Talks  =======================================================
-\printbibliography[heading=subbibliography, title={Public-Audience Talks}, keyword=public]
-
 %==========  Independent Studies  =======================================================
 \subsection{Independent Studies}
 \cventry{Fall 2017}{VCU}{Convex Optimization {\footnotesize (CMSC 601)}}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Independently studied material for graduate optimization course as an undergraduate. \newline
-		\textbf{Only undergraduate granted independent study approval in computer science in Fall 2017.}
+		Studied material for graduate optimization course as an undergraduate. Supervised by S. Gharibian.
 	\end{adjustwidth}
 }
 
@@ -175,6 +181,8 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 %  SECTION: Funding
 %=========================================================================================
 \section{Funding}
+\cventry{January 2019}{\$400}{Travel grant for attendance at QIP 2019}{}{QIP student support / NSF}{}
+
 \cventry{2016--May 2018}{\$1,900}{Event grants for seminar series by VCU RamDev software development club}{}{VCU Student Government Association}{}
 
 \cventry{2017}{\$500}{Travel grant for presentation at QIP 2017}{}{VCU Honors College}{}
@@ -193,9 +201,7 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 	\end{adjustwidth}
 }
 
-\cventry{2017}{VCU School of Engineering}
-{\href{https://egr.vcu.edu/capstone/sternheimer-awards/}{Mark A. Sternheimer Capstone Design Award}}
-{}{}
+\cventry{2017}{VCU School of Engineering}{Mark A. Sternheimer Capstone Design Award}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		For ``innovation and entrepreneurship'' of senior project developing mobile app. \newline
@@ -225,18 +231,13 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 {
 	\begin{adjustwidth}{.25in}{}
 		Assisted with in-class work, offered tutorials, graded assignments. \newline
-		Average student evaluation scores --- Fall 2016: 4.78 / 5.0, Spring 2017: 4.36 / 5.0.
+		Average student evaluation scores --- Fall 2016: 4.78 / 5.0; Spring 2017: 4.36 / 5.0.
 	\end{adjustwidth}
 }
 
 \cventry{Fall 2016}{Honors College freshman mentorship program}{Mentor for 1\textsuperscript{st} year student}{}{}{}
 
-\cventry{Fall 2015}{Honors Rhetoric {\footnotesize (HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Assisted with in-class work and critiqued student papers.
-	\end{adjustwidth}
-}
+\cventry{Fall 2015}{Honors Rhetoric {\footnotesize (HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{}{}{}
 
 %==========  Other  =======================================================
 \subsection{Other}
@@ -248,46 +249,41 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 %  SECTION: Service
 %=========================================================================================
 \section{Service}
-%==========  University Service (VCU)  =======================================================
-\subsection{University Service (VCU)}
-\cventry{2016--May 2018}{Department of Computer Science}{Student Advisory Board member}{}{}
+%==========  University Service  =======================================================
+\subsection{University Service}
+\cventry{2016--May 2018}{VCU Department of Computer Science}{Student Advisory Board member}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		\begin{itemize}%
-			\item Invited to School of Engineering strategic planning retreat, 2017 (only C.S. undergraduate).
 			\item Participated in hiring interviews for new faculty, 2017 (one of two students to participate).
+			\item Invited to School of Engineering strategic planning retreat, 2017 (only C.S. undergraduate).
 		\end{itemize}
 	\end{adjustwidth}
 }
 
-\cventry{(2 academic years) 2016--2017}{Honors College}{Senior Reader for Honors graduation dossiers}{}{}
+\cventry{(2 academic years) 2016--2017}{VCU Honors College}{Senior Reader for Honors graduation dossiers}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		Assessed papers submitted in fulfillment of University Honors. Coordinated other readers.
 	\end{adjustwidth}
 }
 
-\cventry{2017}{Department of Computer Science}{Panelist --- Career workshop for freshman mentorship program}{}{}{}
+\cventry{2017}{VCU Department of Computer Science}{Panelist --- Career workshop for freshman mentorship program}{}{}{}
 
-\cventry{2017}{Honors College}{Panelist --- Undergraduate conference preparation workshops}{}{}{}
+\cventry{2017}{VCU Honors College}{Panelist --- Undergraduate conference preparation workshops}{}{}{}
 
 \cventry{2016}{VCU Symposium for Undergraduate Research and Creativity}{Judge --- Launch Award for Outstanding Research Poster}{}{}{}
 
-\cventry{2016}{Major League Hacking (MLH) and VCU Department of Computer Science}
-{\href{https://localhackday.mlh.io/}{Organizer --- Local Hack Day of Richmond, VA}}
-{}{}
+\cventry{2016}{Major League Hacking (MLH) and VCU Department of Computer Science}{Organizer --- Local Hack Day of Richmond, VA}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Hosted event for 30 students including 12 high school students.
+		Hosted event for 30 students, including 12 high school students.
 	\end{adjustwidth}
 }
 
 %==========  Extracurricular service  =======================================================
 \subsection{Extracurricular Service}
-\cventry{2016--May 2018}
-{\href{https://vcuramdev.github.io/}{RamDev: Software Development at VCU}}
-{\href{https://vcuramdev.github.io/}{Founder and President}}
-{}{}
+\cventry{2016--May 2018}{RamDev: Software Development at VCU}{Founder and President}{}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		\begin{itemize}
@@ -299,9 +295,17 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 }
 
 %==========  Community involvement  =======================================================
-\subsection{Community Service}
+\subsection{Community Service and Outreach}
+\cventry{November 2018}
+{\upshape{Answered questions about my observations from AQIS 2018.}}
+{Asked to meet with U.S. Army Operations Group}{}{}{}
+
+\cventry{April 2018}{VCU RamDev software development club}{Talk --- Computer Science theory \emph{is} fun}{}{}{}
+
+\cventry{2017}{VCU RamDev software development club}{Talk --- Quantum programming (e.g. IBM Q, LIQ$Ui|\rangle$}{}{}{}
+
 \cventry{2011--2015}{Prince William County Schools, VA}
-{Volunteer for grade school \textup{\href{https://www.firstinspires.org/robotics/ftc}{FIRST} \& \href{https://www.vexrobotics.com/vexedr/competition}{Vex}} robotics competitions}
+{Volunteer for grade school robotics competitions (FIRST, Vex robotics)}
 {}{}
 {
 	\begin{adjustwidth}{.25in}{}
@@ -309,21 +313,6 @@ Quantum computing: algorithms, complexity theory, and connections with applicati
 	\end{adjustwidth}
 }
 
-\cventry{2014}{Wilder Middle School, Richmond, VA}{Mentor to middle school \textup{\href{https://www.firstinspires.org/robotics/ftc}{FIRST}} robotics team}{}{}{}
-
-
-%=========================================================================================
-%  SECTION: Programming Experience
-%=========================================================================================
-\section{Programming Experience}
-\cvitem{Languages}{Java, C, Python, Sage, Perl, Wolfram Language, Lua}
-
-\cvitem{Software}{LaTeX, git and GitHub, Unix, Android, Mathematica, Weka, AutoCAD}
-
-\cvitem{Software Engineering coursework}{Software Engineering (Agile, Android), Algorithm Analysis, Programming Languages (C, Python, Racket), Introduction to Operating Systems, Object Oriented Programming (Java)}
-
-\cvitem{Applications coursework}{Introduction to Natural Language Processing (assignments in Perl), Introduction to Data Science (Weka), Artificial Intelligence (neural networks), Graphs and Algorithms, Visualization of Physics with Mathematica}
-
-\textbf{Portolio:} Resume with descriptions of software projects available at \href{https://www.justinyirka.com/quantSoftwareResume_JYirka.pdf}{www.JustinYirka.com}.
+\cventry{2014}{Wilder Middle School, Richmond, VA}{Mentor to middle school robotics team (FIRST robotics)}{}{}{}
 
 \end{document}
