@@ -69,7 +69,7 @@ I was supported by a **VCU Presidential Scholarship ($110,000)**.
   Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) characterized by local physical problems and helped develop "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Journal Publications
-  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). May 2016.
+  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). 2016.
 
 #### Preprints
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Preprint available on arXiv soon.
