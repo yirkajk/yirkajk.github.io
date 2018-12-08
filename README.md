@@ -30,7 +30,7 @@ I'm open to learning about a variety of topics, such as algorithms, cryptography
 ***
 
 #### Education
-**Virginia Commonwealth University**, May 2018 (Simultaneous / Dual degrees)  
+**Virginia Commonwealth University**, May 2018 (Concurrent / Dual degrees)  
 B.S. in Computer Science  
 B.S. in Mathematical Sciences, GPA: 3.98 / 4.0  
 \-- Specialization in Data Science  
