@@ -73,13 +73,13 @@ I was supported by a **VCU Presidential Scholarship ($110,000)**.
 
 #### Preprints
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Preprint available on arXiv soon.
-  - S. Gharibian, M. Santha, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). Apr. 2018.
+  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). Apr. 2018.
 
 #### Conference Presentations
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
       - **Poster by J. Yirka** at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, Jan. 2019.
       - **Contributed talk by J. Yirka** at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, Sept. 2018.  
-  - S. Gharibian, M. Santha, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
+  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
       - Poster by A. Sundaram at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, Jan. 2019.
       - Contributed talk by A. Sundaram at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, Sept. 2018. -- **"Long"/plenary talk: top 7% of submissions**.
       - Contributed talk by A. Sundaram at 43rd International Symposium on Mathematical Foundations of Computer Science (MFCS). Liverpool, UK, Aug. 2018.
