@@ -28,11 +28,10 @@ I'm also seeking either industry or academic positions for spring and summer of 
 Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.
 
 Specific areas I'm interested in include: quantum computational complexity, algorithms, optimization, and connections to applications.  
-My past experience is primarily with complexity theory.  
-For now, I'm open to a wide variety of topics. I hope to refine my research interests with guidance during grad school.      
 
-My interests are mostly theoretical, but I also find motivation in efforts to develop and apply quantum computers.  
-I would be interested in gaining more experience with this type of work during the spring and summer of 2019.
+I'm still open to learning about a wide variety of topics. I hope to refine my research interests as I pursue a Ph.D.      
+
+While my interests are mostly theoretical, I also find motivation in efforts to develop and apply quantum computers. I would be interested in gaining experience with this type of work during the spring and summer of 2019.
 
 ***
 
