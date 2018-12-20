@@ -1,5 +1,7 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
+[Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
+
 Quantum computing researcher and student  
 
 B.S. in Computer Science and B.S. in Mathematics  
@@ -23,9 +25,14 @@ I am an aspiring quantum computing researcher currently applying to Ph.D. positi
 I'm also seeking either industry or academic positions for spring and summer of 2019.
 
 #### Research Interests
-My interests are in quantum computing, including computational complexity theory, algorithms, and connections to applications.  
+Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.
+
+Specific areas I'm interested in include: quantum computational complexity, algorithms, optimization, and connections to applications.  
 My past experience is primarily with complexity theory.  
-I'm open to learning about a variety of topics, such as algorithms, cryptography, optimization, or verification of near-term devices. I hope to find some inspiration/guidance to refine my research interests as I pursue a Ph.D.
+For now, I'm open to a wide variety of topics. I hope to refine my research interests with guidance during grad school.      
+
+My interests are mostly theoretical, but I also find motivation in efforts to develop and apply quantum computers.  
+I would be interested in gaining more experience with this type of work during the spring and summer of 2019.
 
 ***
 
@@ -103,4 +110,4 @@ I was supported by a **VCU Presidential Scholarship ($110,000)**.
   * July 17 -- Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors S. Gharibian, M. Santha, J. Sikora, and A. Sundaram has been accepted for a **long / plenary** talk at the Asian Quantum Information Science Conference (AQIS 2018) in Nagoya, Japan in September. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
   * June 12 -- Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors S. Gharibian, M. Santha, J. Sikora, and A. Sundaram has been accepted for a talk at the International Symposium on Mathematical Foundations of Computer Science (MFCS 2018) in Liverpool, UK in August. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
 
-*Last updated: December 7, 2018*
+*Last updated: December 20, 2018*
