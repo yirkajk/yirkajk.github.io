@@ -99,12 +99,12 @@ I was supported by a **VCU Presidential Scholarship ($110,000)**.
 ***
 
 ### News:
+  * January 29 -- Very excited to have received my first **acceptance to a Ph.D. program!!**
+  * January 24 -- I am now volunteering 3 hours per week as a tutor/teaching assistant with remedial math classes at a local high school.
   * November 17 -- I will be attending the Conference on Quantum Information Processing (QIP) in Boulder, Colorado from January 12 to 18. My coauthors and I will present posters for both our recent papers.  
-  Thank you to the organizers/NSF **for awarding me a $400 travel grant!**.
+  Thank you to the organizers/NSF for awarding me a $400 travel grant!.
   * November 1 -- I will be visiting the University of Paderborn in Germany from November 12th to 30th to work with Prof. Sevag Gharibian. Looking forward to starting a new project studying quantum algorithms for k-QSAT.
   * August 10 -- My summer position with the Graph Theory Computational Discovery Lab at VCU has ended.  
-  * July 25 -- I will be giving a talk in September at the Asian Quantum Information Science Conference (AQIS 2018) in Nagoya, Japan on recent work with S. Gharibian and S. Piddock entitled "Oracle complexity classes and local measurements on physical Hamiltonians" (preprint available soon).
-  * July 17 -- Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors S. Gharibian, M. Santha, J. Sikora, and A. Sundaram has been accepted for a **long / plenary** talk at the Asian Quantum Information Science Conference (AQIS 2018) in Nagoya, Japan in September. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
-  * June 12 -- Recent paper "Quantum generalizations of the polynomial hierarchy with applications to QMA(2)" with coauthors S. Gharibian, M. Santha, J. Sikora, and A. Sundaram has been accepted for a talk at the International Symposium on Mathematical Foundations of Computer Science (MFCS 2018) in Liverpool, UK in August. Preprint: [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139)
+
 
 *Last updated: February 1, 2018*
