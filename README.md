@@ -3,9 +3,7 @@
 [Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
 
 Quantum Computing Researcher and Student  
-
-B.S. in Computer Science and B.S. in Mathematics  
-Virginia Commonwealth University, Richmond, VA, USA
+Future Ph.D. student at the University of Texas at Austin (beginning Fall 2019)
 
 ##### My CV (academic resume): [Curriculum Vitae](./CV_JYirka.pdf)
 
@@ -21,19 +19,21 @@ Virginia Commonwealth University, Richmond, VA, USA
 
 ***
 
-I am an aspiring quantum computing researcher currently applying to Ph.D. positions.  
-I'm also interested industry or academic positions for between now and June.
+I am an aspiring quantum computing researcher.
 
 #### Research Interests
 Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.
 
 Specific areas I'm interested in include quantum computational complexity, algorithms, optimization, and connections to applications.  
 
-While my interests are mostly theoretical, I also find motivation in efforts to develop and apply quantum computers. I would be interested in gaining experience with this type of work during the spring and summer of 2019.
+While my interests are mostly theoretical, I also find motivation in efforts to develop and apply quantum computers.
 
 ***
 
 #### Education
+**The University of Texas at Austin**, beginning Fall 2019  
+Ph.D. in Computer Science
+
 **Virginia Commonwealth University**, May 2018 (Concurrent / Dual degrees)  
 B.S. in Computer Science  
 B.S. in Mathematical Sciences, GPA: 3.98 / 4.0  
@@ -99,12 +99,12 @@ I was supported by a **VCU Presidential Scholarship ($110,000)**.
 ***
 
 ### News:
+  * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
   * January 29 -- Very excited to have received my first **acceptance to a Ph.D. program!!**
   * January 24 -- I am now volunteering 3 hours per week as a tutor/teaching assistant with remedial math classes at a local high school.
   * November 17 -- I will be attending the Conference on Quantum Information Processing (QIP) in Boulder, Colorado from January 12 to 18. My coauthors and I will present posters for both our recent papers.  
   Thank you to the organizers/NSF for awarding me a $400 travel grant!.
-  * November 1 -- I will be visiting the University of Paderborn in Germany from November 12th to 30th to work with Prof. Sevag Gharibian. Looking forward to starting a new project studying quantum algorithms for k-QSAT.  
 
 
-*Last updated: February 5, 2018*
+*Last updated: April 20, 2019*
