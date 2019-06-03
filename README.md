@@ -18,6 +18,7 @@ Future Ph.D. student at The University of Texas at Austin (beginning Fall 2019)
   - <img src="./logos/twitter.jpg" width="16"> [Twitter @JustinYirka](https://twitter.com/JustinYirka)
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
+
 ***
 
 #### Research Interests
