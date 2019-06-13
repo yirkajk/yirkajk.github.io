@@ -69,14 +69,15 @@ I was supported by a VCU Presidential Scholarship ($110,000).
   Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Journal Publications
-  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Accepted to *Quantum* pending revisions to presentation. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). 2016.
+  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Accepted to *Quantum* in 2019. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). 2016.  
 
 #### Preprints
-  - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. In preparation.
-  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). Apr. 2018.
+  - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. In preparation.  
+  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018.
 
 #### Conference Presentations
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
+      - Poster by S. Piddock at 14th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, June 2019.  
       - Poster by S. Piddock at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, April 2019.  
       - **Poster by J. Yirka** at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, Jan. 2019.
       - **Contributed talk by J. Yirka** at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, Sept. 2018.  
@@ -104,4 +105,4 @@ I was supported by a VCU Presidential Scholarship ($110,000).
   Thank you to the organizers/NSF for awarding me a $400 travel grant!.
 
 
-*Last updated: April 24, 2019*
+*Last updated: June 12, 2019*
