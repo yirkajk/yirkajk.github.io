@@ -2,12 +2,13 @@
 
 [Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
 
-Quantum Computing Researcher  
-Future Ph.D. student at The University of Texas at Austin (beginning Fall 2019)
+Ph.D. Student in Computer Science - studying Quantum Computing  
+Advisor: Scott Aaronson, Ph.D.  
+The University of Texas at Austin, USA
 
-##### My CV (resume): [Curriculum Vitae](./CV_JYirka.pdf)
+##### My CV: [Curriculum Vitae](./CV_JYirka.pdf)
 
-##### Contact: [Yirkajk@vcu.edu](mailto:Yirkajk@vcu.edu)
+##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
 
 ##### Other profiles:
 
@@ -26,27 +27,26 @@ Quantum computing: what can quantum computers do, what can't they do, and the st
 
 Specific areas I'm interested in include quantum computational complexity, algorithms, optimization, and connections to applications.  
 
-Many of my interests are theoretical, but I also find motivation in efforts to develop and apply quantum computers.
-
 ***
 
 #### Education
-**The University of Texas at Austin**, beginning Fall 2019  
-Ph.D. in Computer Science
+**The University of Texas at Austin**, 2019 - present  
+Ph.D. in Computer Science  
+Advisor: Scott Aaronson, Ph.D.
 
 **Virginia Commonwealth University**, May 2018 (Concurrent / Dual degrees)  
 B.S. in Computer Science  
 B.S. in Mathematical Sciences  
-\-- Minor in Physics  
-I was supported by a VCU Presidential Scholarship ($110,000).  
+\-- Minor in Physics    
 
 ***
 
 #### Research Experience
   - **Summer school / Research Assistant**  
-  Los Alamos National Laboratory (LANL)  
+  Los Alamos National Laboratory (LANL) Quantum Computing Summer School  
   Summer 2019  
-  Quantum computing summer school program: 2 weeks of courses and 8 weeks of research assistantship.  
+  Supervisor: Yigit Subasi, Ph.D.  
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct noise-resilient low-width circuits for entanglement spectroscopy.   
   - **Visiting Researcher**  
   University of Paderborn, Germany  
   (3 weeks) November 2018  
@@ -105,4 +105,4 @@ I was supported by a VCU Presidential Scholarship ($110,000).
   Thank you to the organizers/NSF for awarding me a $400 travel grant!.
 
 
-*Last updated: June 12, 2019*
+*Last updated: August 28, 2019*
