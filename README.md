@@ -72,7 +72,7 @@ B.S. in Mathematical Sciences
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Accepted to *Quantum* in 2019. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). 2016.  
 
 #### Preprints
-  - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. In preparation.  
+  - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.
   - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018.
 
 #### Conference Presentations
@@ -97,6 +97,7 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. https://arxiv.org/abs/1909.05981
   * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
@@ -105,4 +106,4 @@ B.S. in Mathematical Sciences
   Thank you to the organizers/NSF for awarding me a $400 travel grant!.
 
 
-*Last updated: August 28, 2019*
+*Last updated: September 17, 2019*
