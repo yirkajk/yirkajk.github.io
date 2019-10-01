@@ -69,7 +69,7 @@ B.S. in Mathematical Sciences
   Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Journal Publications
-  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. Accepted to *Quantum* in 2019. Available at [https://arxiv.org/abs/1606.05626](https://arxiv.org/abs/1606.05626). 2016.  
+  - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, September 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
 
 #### Preprints
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.
@@ -97,13 +97,10 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*.  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. https://arxiv.org/abs/1909.05981
   * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
-  * January 24 -- I'm now volunteering 3 hours per week as a tutor for remedial Algebra students at a local high school.
-  * November 17 -- I will be attending the Conference on Quantum Information Processing (QIP) in Boulder, Colorado from January 12 to 18. My coauthors and I will present posters for both our recent papers.  
-  Thank you to the organizers/NSF for awarding me a $400 travel grant!.
 
-
-*Last updated: September 17, 2019*
+*Last updated: October 1, 2019*
