@@ -56,12 +56,12 @@ B.S. in Mathematical Sciences
   Graph Theory Computational Discovery Lab, VCU  
   Summer 2018  
   Supervisor: Craig Larson, Ph.D.  
-  Topic: Automated conjecturing and graph theory. Assisted with programming and open-source project management.
+  Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
   - **NSF Research Experience for Undergraduates / Undergraduate Researcher**  
   Joint Center for Quantum Information and Computer Science (QuICS), University of Maryland  
   Summer 2017  
   Supervisor: Andrew Childs, Ph.D.  
-  Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a pure state.
+  Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
   - **Undergraduate Research Assistant**  
   Quantum Computing Lab, VCU  
   2015 - 2016  
@@ -100,6 +100,7 @@ B.S. in Mathematical Sciences
 ### News:
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
+  * August 1 -- A paper describing my graph theory work from summer 2018 is now under review: "Automated conjecturing and the Hamiltonian problem".  
   * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
