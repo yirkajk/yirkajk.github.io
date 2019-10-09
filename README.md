@@ -1,8 +1,8 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
-[Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
+[Research Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
 
-Ph.D. Student in Computer Science - studying Quantum Computing  
+Ph.D. Student in Computer Science, studying Quantum Computing  
 Advisor: Scott Aaronson, Ph.D.  
 The University of Texas at Austin, USA
 
@@ -25,7 +25,7 @@ The University of Texas at Austin, USA
 #### Research Interests
 Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.  
 
-Specific areas I'm interested in include quantum computational complexity, algorithms, optimization, and connections to applications.  
+Specific areas I'm interested in include quantum computational complexity, algorithms, and connections to applications.  
 
 ***
 
@@ -46,12 +46,12 @@ B.S. in Mathematical Sciences
   Los Alamos National Laboratory (LANL) Quantum Computing Summer School  
   Summer 2019  
   Supervisor: Yigit Subasi, Ph.D.  
-  Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct noise-resilient low-width circuits for entanglement spectroscopy.   
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.    
   - **Visiting Researcher**  
   University of Paderborn, Germany  
   (3 weeks) November 2018  
   Collaboration with Sevag Gharibian, Ph.D.  
-  Topic: Complexity theory and algorithms. Studied QMA_1-hardness of the quantum satisfaction problem (k-QSAT) given qudits of lower dimensions (i.e. improving on current necessary dimensions).
+  Topic: Complexity theory and algorithms. Studied QMA_1-hardness of the quantum satisfaction problem (k-QSAT) given qudits of lower dimensions (i.e. improving on current necessary dimension).
   - **Research Assistant**  
   Graph Theory Computational Discovery Lab, VCU  
   Summer 2018  
@@ -66,13 +66,14 @@ B.S. in Mathematical Sciences
   Quantum Computing Lab, VCU  
   2015 - 2016  
   Supervisor: Sevag Gharibian, Ph.D.  
-  Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
+  Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Journal Publications
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, September 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
 
 #### Preprints
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.
+  - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  
   - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018.
 
 #### Conference Presentations
@@ -97,10 +98,10 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
-  * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*.  
-  * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. https://arxiv.org/abs/1909.05981
+  * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
+  * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
   * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
 
-*Last updated: October 1, 2019*
+*Last updated: October 8, 2019*
