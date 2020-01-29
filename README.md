@@ -78,6 +78,7 @@ B.S. in Mathematical Sciences
 
 #### Conference Presentations
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
+      - **Contributed talk by J. Yirka** at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, Jan. 2020.  
       - Poster by S. Piddock at 14th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, June 2019.  
       - Poster by S. Piddock at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, April 2019.  
       - **Poster by J. Yirka** at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, Jan. 2019.
@@ -98,6 +99,7 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * December 23 -- Our paper "Oracle complexity classes and local measurements on physical Hamiltonians" has been accepted for a talk at STACS 2020!  
   * November 3 -- Recent paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock has been accepted for a talk at QIP 2020!
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
@@ -105,4 +107,4 @@ B.S. in Mathematical Sciences
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
 
-*Last updated: November 3, 2019*
+*Last updated: January 28, 2020*
