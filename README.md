@@ -68,16 +68,17 @@ B.S. in Mathematical Sciences
   Supervisor: Sevag Gharibian, Ph.D.  
   Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
+#### Preprints
+    - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.
+    - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  
+    - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018.
+
 #### Journal Publications
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, September 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
 
-#### Preprints
-  - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.
-  - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  
-  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018.
-
 #### Conference Presentations
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
+      - Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, March 2020.  
       - **Contributed talk by J. Yirka** at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, Jan. 2020.  
       - Poster by S. Piddock at 14th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, June 2019.  
       - Poster by S. Piddock at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, April 2019.  
@@ -99,6 +100,8 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * March 30 -- I was awarded an Honorable Mention by the 2020 NSF Graduate Research Fellowship program.   
+  * February 4 -- I will be serving on the committee for UT CS's GradFest visit weekend.  
   * December 23 -- Our paper "Oracle complexity classes and local measurements on physical Hamiltonians" has been accepted for a talk at STACS 2020!  
   * November 3 -- Recent paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock has been accepted for a talk at QIP 2020!
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
@@ -107,4 +110,4 @@ B.S. in Mathematical Sciences
   * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
   * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
 
-*Last updated: January 28, 2020*
+*Last updated: May 15, 2020*
