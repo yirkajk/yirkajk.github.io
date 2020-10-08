@@ -25,7 +25,7 @@ The University of Texas at Austin, USA
 #### Research Interests
 Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.  
 
-Specific areas I'm interested in include quantum computational complexity, algorithms, and connections to applications.  
+I'm especially interested in quantum computational complexity, algorithms, and connections to applications.  
 
 ***
 
@@ -69,6 +69,7 @@ B.S. in Mathematical Sciences
   Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 #### Preprints  
+  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. Available at [https://arxiv.org/abs/2010.03080](https://arxiv.org/abs/2010.03080). October 2020.  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). September 2019.  
   - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  
   - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). April 2018  
@@ -100,6 +101,7 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * October 8 -- New preprint posted on arXiv: "Qubit-efficient entanglement spectroscopy using qubit resets" with Yigit Subasi at Los Alamos. [https://arxiv.org/abs/2010.03080](https://arxiv.org/abs/2010.03080).  
   * March 30 -- I was awarded an Honorable Mention by the 2020 NSF Graduate Research Fellowship program.   
   * February 4 -- I will be serving on the committee for UT CS's GradFest visit weekend.  
   * December 23 -- Our paper "Oracle complexity classes and local measurements on physical Hamiltonians" has been accepted for a talk at STACS 2020!  
@@ -107,7 +109,5 @@ B.S. in Mathematical Sciences
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
   * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
-  * April 9 -- I've been awarded an Honorable Mention by the NSF Graduate Research Fellowship program.
-  * February 5 -- I've accepted a position with the Quantum Computing Summer School at Los Alamos National Labs for this June to August.
 
-*Last updated: May 15, 2020*
+*Last updated: October 8, 2020*
