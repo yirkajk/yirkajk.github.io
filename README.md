@@ -78,6 +78,8 @@ B.S. in Mathematical Sciences
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, September 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
 
 #### Conference Presentations
+  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
+      - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, Dec. 2020.  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
       - Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, March 2020.  
       - **Contributed talk by J. Yirka** at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, Jan. 2020.  
@@ -101,13 +103,18 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * December 4 -- The video of my talk for AQIS 2020 is now available: https://youtu.be/J9AnuKkgrIk.  
+  * December 4 -- I've been asked to participate as part of the CS Department's Graduate Admissions Committee.   
+  * October 28 -- GRACS is launching the Graduate Application Assistance Program (GAAP) to mentor underrepresented applicants to the PhD program. I'll be helping organize this.
+  * October -- I was asked to referee a paper for *Quantum*: my first journal review.
+  * October 15 -- I've been elected to the CS Department's Graduate Representative Association (GRACS). I'll be serving as chair.  
   * October 8 -- New preprint posted on arXiv: "Qubit-efficient entanglement spectroscopy using qubit resets" with Yigit Subasi at Los Alamos. [https://arxiv.org/abs/2010.03080](https://arxiv.org/abs/2010.03080).  
   * March 30 -- I was awarded an Honorable Mention by the 2020 NSF Graduate Research Fellowship program.   
   * February 4 -- I will be serving on the committee for UT CS's GradFest visit weekend.  
   * December 23 -- Our paper "Oracle complexity classes and local measurements on physical Hamiltonians" has been accepted for a talk at STACS 2020!  
+  * December 5 -- I'll be on the Program Committee for the Young Quantum Information Science (YQIS 2020), to be hosted at Michigan State.
   * November 3 -- Recent paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock has been accepted for a talk at QIP 2020!
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
-  * April 20 -- Beginning in the fall, I will be joining the Ph.D. program in Computer Science at the University of Texas at Austin!
 
-*Last updated: October 8, 2020*
+*Last updated: December 4, 2020*
