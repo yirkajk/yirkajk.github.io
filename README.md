@@ -78,8 +78,9 @@ B.S. in Mathematical Sciences
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, September 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
 
 #### Conference Presentations
-  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
-      - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, Dec. 2020.  
+  - J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
+      - Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.  
+      - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, Dec. 2020. Video available [here](https://youtu.be/J9AnuKkgrIk).  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
       - Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, March 2020.  
       - **Contributed talk by J. Yirka** at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, Jan. 2020.  
@@ -117,4 +118,4 @@ B.S. in Mathematical Sciences
   * September 30 -- Journal version of "The complexity of simulating local measurements on quantum systems" has been published in *Quantum*. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
   * September 16 -- New preprint posted on arXiv! Paper "Oracle complexity classes and local measurements on physical Hamiltonians" with coauthors Sevag Gharibian and Stephen Piddock. [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981).
 
-*Last updated: December 4, 2020*
+*Last updated: January 14, 2021*
