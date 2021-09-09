@@ -74,13 +74,13 @@ B.S. in Mathematical Sciences
   Topic: Complexity theory and algorithms. Studied QMA_1-hardness of the quantum satisfaction problem (k-QSAT) given qudits of lower dimensions (i.e. improving on current necessary dimension).
 
 #### Preprints  
-  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. Available at [https://arxiv.org/abs/2010.03080](https://arxiv.org/abs/2010.03080). October 2020.  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). 2019.  
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=i8hLbBpS7Qk).  
 <!---  - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  --->
   - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). 2018.  
 
 #### Journal Publications
+  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. *Quantum*, 5:535, September 2021. [DOI: 10.22331/q-2021-09-02-535](https://doi.org/10.22331/q-2021-09-02-535).  
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=nCCVg4OOuYM).  
 
@@ -112,12 +112,12 @@ B.S. in Mathematical Sciences
 ***
 
 ### News:
+  * September 2 -- Our paper "Qubit-efficient entanglement spectroscopy" has been published in *Quantum*.
   * June 27 -- I will be spending this week participating in the invitation-only Dagstuhl workshop on Quantum Complexity: Theory and Application.  
   * December 4 -- The video of my talk for AQIS 2020 is now available: https://youtu.be/J9AnuKkgrIk.  
   * December 4 -- I've been asked to participate as part of the CS Department's Graduate Admissions Committee.   
   * October 28 -- GRACS is launching the Graduate Application Assistance Program (GAAP) to mentor underrepresented applicants to the PhD program. I'll be helping organize this.
   * October -- I was asked to referee a paper for *Quantum*: my first journal review.
-  * October 15 -- I've been elected to the CS Department's Graduate Representative Association (GRACS). I'll be serving as chair.  
-  * October 8 -- New preprint posted on arXiv: "Qubit-efficient entanglement spectroscopy using qubit resets" with Yigit Subasi at Los Alamos. [https://arxiv.org/abs/2010.03080](https://arxiv.org/abs/2010.03080).  
+  * October 15 -- I've been elected to the CS Department's Graduate Representative Association (GRACS). I'll be serving as chair.
 
-*Last updated: July 6, 2021*
+*Last updated: September 9, 2021*
