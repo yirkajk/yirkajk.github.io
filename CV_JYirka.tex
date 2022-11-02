@@ -14,7 +14,7 @@
 
 \renewcommand*{\subsectionfont}{\large\upshape\fontseries{b}\selectfont} % Overrides font for subsection headers. Make them bold.
 
-\usepackage{xpatch} % Remove auto formatting from cventry. 
+\usepackage{xpatch} % Remove auto formatting from cventry.
 % This is for moderncvbodyiii.sty.
 \xpatchcmd{\cventry}{\itshape #2}{#2}{}{} % year
 \xpatchcmd{\cventry}{\itshape #3}{#3}{}{} % "title"
@@ -32,24 +32,24 @@
 %  BEGIN DOCUMENT
 %=========================================================================================
 \begin{document}
-	
+
 \hypersetup{pdftitle={Justin Yirka --- CV}, pdfauthor={Justin Yirka}}
-	
+
 \thispagestyle{firstpage}
 
 \begin{center}
 	{\huge\textbf{Justin Yirka}}
-	
+
 	Ph.D. Student in Computer Science
-	
+
 	The University of Texas at Austin, USA
-	
+
 	\vspace{\baselineskip}
-	
+
 	\href{mailto:yirka@utexas.edu}{yirka@utexas.edu}
-	
-	
-	\url{www.JustinYirka.com}	
+
+
+	\url{www.JustinYirka.com}
 
 	(703) 229-7956
 \end{center}
@@ -63,7 +63,7 @@
 %  SECTION: Research Interests
 %=========================================================================================
 \section{Research Interests}
-Quantum computing \& Theoretical computer science: 
+Quantum computing \& Theoretical computer science:
 
 \hspace{.25in} Complexity theory, algorithms, and connections to applications
 
@@ -76,9 +76,14 @@ Quantum computing \& Theoretical computer science:
 {
 	\normalsize
 	\begin{adjustwidth}{.25in}{}
-		 Advisor: Scott Aaronson, Ph.D.
+		Advisor: Scott Aaronson, Ph.D.
 	\end{adjustwidth}
 }
+\vspace{-\baselineskip}\vspace{-\parskip}
+\cventry{2022}{M.S. in Computer Science}{}{}
+{%
+}
+{}
 
 \cventry{2018}{B.S. in Computer Science}{\bfseries Virginia Commonwealth University (VCU)}{}{}{}
 \vspace{-\baselineskip}\vspace{-2\parskip}
@@ -88,7 +93,7 @@ Quantum computing \& Theoretical computer science:
 {
 	\begin{adjustwidth}{.25in}{}
 		% Specialization in Data Science \newline
-		% Concentration in Pure Math \newline 
+		% Concentration in Pure Math \newline
 		Minor in Physics % \newline
 		% University Honors
 	\end{adjustwidth}
@@ -102,14 +107,14 @@ Quantum computing \& Theoretical computer science:
 \subsection{Experience}
 \cventry{}{Los Alamos National Laboratory Quantum Computing Summer School}{Summer school / Research Assistant}{Summer 2019}{}
 {
-	\begin{adjustwidth}{.25in}{}		
+	\begin{adjustwidth}{.25in}{}
 		Supervisor: Yi\u{g}it Suba\c{s}\i, Ph.D. \newline
-		Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct for entanglement spectroscopy which were noise-resilient \textit{and} low-width.
+		Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient \textit{and} low-width.
 	\end{adjustwidth}
 }
 
 \cventry{}{Graph Theory Computational Discovery Lab, VCU}{Research Assistant}{Summer 2018}{}
-{	
+{
 	\begin{adjustwidth}{.25in}{}
 		Supervisor: Craig Larson, Ph.D. \newline
 		Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
@@ -119,7 +124,7 @@ Quantum computing \& Theoretical computer science:
 \cventry{}
 {\small Joint Center for Quantum Inform. and Computer Science (QuICS), University of Maryland}
 {Undergraduate Researcher (NSF REU C.A.A.R.)}{Summer 2017}{}
-{	
+{
 	\begin{adjustwidth}{.25in}{}
 		Supervisor: Andrew Childs, Ph.D. \newline
 		Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
@@ -143,7 +148,7 @@ Quantum computing \& Theoretical computer science:
 }
 
 \cventry{}{University of Paderborn, Germany}{Visiting Researcher}{November 2018}{}
-{	
+{
 	\begin{adjustwidth}{.25in}{}
 		Collaboration with Sevag Gharibian, Ph.D. \newline
 		Topic: Complexity theory and algorithms. Studied $\textup{QMA}_{1}$-hardness of the quantum satisfaction problem ($k$-QSAT) given qudits of lower dimensions.
@@ -157,11 +162,7 @@ Quantum computing \& Theoretical computer science:
 
 S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at \url{https://arxiv.org/abs/1909.05981}. 2019.
 
-% (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  
-
-S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the
-polynomial hierarchy with applications to QMA(2). Available at \url{https://arxiv.org/abs/1805.11139}.
-2018.
+% (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.
 
 } % End hanging indent
 
@@ -170,31 +171,34 @@ polynomial hierarchy with applications to QMA(2). Available at \url{https://arxi
 \subsection{Journal Publications}
 { \leftskip 0.2in \parindent -0.2in % Hanging indent
 
+S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the
+polynomial hierarchy with applications to QMA(2). \textit{Computational Complexity}, 31:12, 2022. \href{https://doi.org/10.1007/s00037-022-00231-8}{DOI: 10.1007/s00037-022-00231-8}.
+
 J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. \textit{Quantum}, 5:535, September 2021. \href{https://doi.org/10.22331/q-2021-09-02-535}{DOI: 10.22331/q-2021-09-02-535}.
 
-S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. 
+S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.
 \textit{Quantum}, 3:189, 2019. \href{https://doi.org/10.22331/q-2019-09-30-189}{DOI: 10.22331/q-2019-09-30-189}.
 
 }
 
 
 %%==========  Conference Presentations  =======================================================
-\subsection{Conference Presentations \parbox[b][][b]{2em}{\subsectionrule}{\footnotesize (grouped by paper)} } 
+\subsection{Conference Presentations \parbox[b][][b]{2em}{\subsectionrule}{\footnotesize (grouped by paper)} }
 % No hanging indent
 
 J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
 \begin{adjustwidth}{.25in}{}
 	\begin{itemize}[itemsep=\pubItemSep]
-		\item \textbf{Contributed talk by J. Yirka} at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, April 2021.
+		\item \textbf{Contributed talk by J. Yirka} at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021.
 		\item Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.
-		\item \textbf{Contributed talk by J. Yirka} at 20th Asian Quantum Information Science Conference (AQIS). Virtual, Dec. 2020.
+		\item \textbf{Contributed talk by J. Yirka} at 20th Asian Quantum Information Science Conference (AQIS). Virtual, 2020.
 	\end{itemize}
 \end{adjustwidth}
 
 S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
 \begin{adjustwidth}{.25in}{}
 	\begin{itemize}[itemsep=\pubItemSep]
-		\item Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, March 2020.
+		\item Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, 2020.
 		\item \textbf{Contributed talk by J. Yirka} at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, 2020.
 		\item Poster by S. Piddock at 14th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, 2019.
 		\item Poster by S. Piddock at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, 2019.
@@ -204,7 +208,7 @@ S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local meas
 \end{adjustwidth}
 
 S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
-\begin{adjustwidth}{.25in}{} 
+\begin{adjustwidth}{.25in}{}
 	\begin{itemize}[itemsep=\pubItemSep]
 		\item Poster by A. Sundaram at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, 2019.
 		\item Contributed talk by A. Sundaram at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, 2018. --- \textbf{``Long''/plenary talk: top 7\% of submissions}.
@@ -225,7 +229,7 @@ J. Yirka. Evaluation of TCP header fields for data overhead efficiency.
 \begin{adjustwidth}{.25in}{}
 	\begin{itemize}[itemsep=\pubItemSep]
 		\item \textbf{Poster by J. Yirka} at 30th National Conference on Undergraduate Research (NCUR). Asheville, NC, USA, 2016.
-		\item \textbf{Poster by J. Yirka} at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. --- \textbf{Awarded ``Launch Award for Outstanding Research Poster''}.	
+		\item \textbf{Poster by J. Yirka} at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. --- \textbf{Awarded ``Launch Award for Outstanding Research Poster''}.
 	\end{itemize}
 \end{adjustwidth}
 
@@ -233,7 +237,7 @@ J. Yirka. Evaluation of TCP header fields for data overhead efficiency.
 %%==========  Departmental Seminars  =======================================================
 \subsection{Departmental Seminars}
 { \leftskip 0.2in \parindent -0.2in % Hanging indent
-	
+
 Pure state tomography with Pauli observables. QuICS, University of Maryland. 2017.
 
 Quantum complexity of estimating local physical quantities. Department of Computer Science, VCU. 2016.
@@ -247,9 +251,9 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 %=========================================================================================
 \section{Scholarships and Funding \hspace{2em}{\footnotesize (all dollar amounts in USD)}}
 \cventry{}{\$110,000}{VCU Presidential Scholarship}{2014--2018}{Virginia Commonwealth University}
-{	
+{
 	\begin{adjustwidth}{.25in}{}
-		Awarded to 0.6\% of admitted students. 
+		Awarded to 0.6\% of admitted students.
 		% Full cost of 4-year tuition, room, and board.
 	\end{adjustwidth}
 }
@@ -260,7 +264,7 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 
 \cventry{}{\$400}{Travel grant to attend QIP 2019 in Boulder, CO, USA}{2019}{QIP student support / NSF}{}
 
-\cventry{}{\$1,900}{Grants for seminar series by VCU RamDev software development club}{2016--May 2018}{VCU Student Government Association}{}
+\cventry{}{\$1,900}{Grants for seminar series by VCU RamDev software development club}{2016--2018}{VCU Student Government Association}{}
 
 \cventry{}{\$660}{Mark A. Sternheimer Capstone Design Award}{2017}{VCU School of Engineering}
 {
@@ -280,7 +284,7 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 %=========================================================================================
 \section{Awards and Honors}
 
-\cventry{}{NSF Graduate Research Fellowship Program (NSF GRFP)}{Honorable Mention \emph{(Awarded twice)}}{April 2019, 2020}{}
+\cventry{}{NSF Graduate Research Fellowship Program (NSF GRFP)}{Honorable Mention}{(Awarded twice) 2019, 2020}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		Awarded to top 30\% of over 12,000 applicants.
@@ -316,7 +320,21 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 \section{Teaching Experience}
 %==========  UT  =======================================================
 \subsection{UT}
-\cventry{}{Introduction to Quantum Information Science (HONR)}{Teaching Assistant}{Fall 2021}{}
+\cventry{}{Quantum Information Science (Web-based for M.S. program)}{Head Teaching Assistant}{Spring 2022, 2023}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		QIS course for students in online M.S. program.\\
+		All lecture content was pre-recorded by S. Aaronson. I was responsible for all other content and logistics, including modifying the homework, exams, and grading for the online format.
+		I handled student concerns, academic integrity, and final grades nearly autonomously, with S. Aaronson as instructor of record.\\
+		Supervised 4 other teaching assistants.\\
+		~\\
+		I was tasked with ensuring a successful first iteration of the course for the growing MSCS program at UT. \\
+		Spring 2022 course: 200 students, course evaluation 4.1~/~5
+	\end{adjustwidth}
+}
+
+
+\cventry{}{Introduction to Quantum Information Science (Honors course)}{Teaching Assistant}{Fall 2021}{}
 {
 	\begin{adjustwidth}{.25in}{}
 	With Scott Aaronson. Taught recitation and graded assignments.
@@ -357,16 +375,16 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 %==========  Refereeing  =======================================================
 \subsection{Refereeing}
 
-\cvitem{Journal reviewer:}{\textit{Quantum}}
-
+\cvitem{Journal reviewer:}{\textit{Quantum} (2022, 2020)}
 
 \cvitem{PC Member}{YQIS 2021 --- 6th Conference for Young Quantum Information Scientists}
-\vspace{2\parskip}
+
+\cvitem{Conference subreviewer}{ITCS 2023, TQC 2022, CCC 2022, QIP 2022}
 
 %==========  Professional Service  =======================================================
 \subsection{Professional Service}
 
-\cventry{}{UT Graduate Representative Association of Computer Science (GRACS)}{Representative and Chair}{Spring 2020--present}{}
+\cventry{}{UT Graduate Representative Association of Computer Science (GRACS)}{Representative and Chair}{Spring 2020--Fall 2021}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		\begin{itemize}

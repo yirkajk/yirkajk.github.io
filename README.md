@@ -1,6 +1,6 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
-[Research Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations) / [News](#news)
+[Research Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations)
 
 Ph.D. Student in Computer Science studying Quantum Computing  
 Advisor: Scott Aaronson, Ph.D.  
@@ -30,11 +30,13 @@ I'm especially interested in quantum computational complexity, algorithms, and c
 ***
 
 #### Education
-**The University of Texas at Austin**, 2019 - present  
-Ph.D. in Computer Science  
-Advisor: Scott Aaronson, Ph.D.
+**The University of Texas at Austin**  
+Ph.D. in Computer Science, 2019 - present  
+\-- Advisor: Scott Aaronson, Ph.D.  
 
-**Virginia Commonwealth University**, May 2018 (Concurrent / Dual degrees)  
+M.S. in Computer Science, 2022
+
+**Virginia Commonwealth University**, 2018 (Concurrent / Dual degrees)  
 B.S. in Computer Science  
 B.S. in Mathematical Sciences  
 \-- Minor in Physics    
@@ -77,9 +79,10 @@ B.S. in Mathematical Sciences
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). 2019.  
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=i8hLbBpS7Qk).  
 <!---  - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  --->
-  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). Available at [https://arxiv.org/abs/1805.11139](https://arxiv.org/abs/1805.11139). 2018.  
+
 
 #### Journal Publications
+  - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). *Computational Complexity*, 31:12, 2022. [DOI: 10.1007/s00037-022-00231-8](https://doi.org/10.1007/s00037-022-00231-8).
   - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. *Quantum*, 5:535, September 2021. [DOI: 10.22331/q-2021-09-02-535](https://doi.org/10.22331/q-2021-09-02-535).  
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=nCCVg4OOuYM).  
@@ -111,13 +114,4 @@ B.S. in Mathematical Sciences
 
 ***
 
-### News:
-  * September 2 -- Our paper "Qubit-efficient entanglement spectroscopy" has been published in *Quantum*.
-  * June 27 -- I will be spending this week participating in the invitation-only Dagstuhl workshop on Quantum Complexity: Theory and Application.  
-  * December 4 -- The video of my talk for AQIS 2020 is now available: https://youtu.be/J9AnuKkgrIk.  
-  * December 4 -- I've been asked to participate as part of the CS Department's Graduate Admissions Committee.   
-  * October 28 -- GRACS is launching the Graduate Application Assistance Program (GAAP) to mentor underrepresented applicants to the PhD program. I'll be helping organize this.
-  * October -- I was asked to referee a paper for *Quantum*: my first journal review.
-  * October 15 -- I've been elected to the CS Department's Graduate Representative Association (GRACS). I'll be serving as chair.
-
-*Last updated: September 9, 2021*
+*Last updated: November 11, 2022*
