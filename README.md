@@ -77,42 +77,42 @@ B.S. in Mathematical Sciences
       - **Poster by J. Yirka** at 30th National Conference on Undergraduate Research (NCUR). Asheville, NC, USA, 2016.
       - **Poster by J. Yirka** at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. -- **Awarded “Launch Award for Outstanding Research Poster”**.
 
-      #### Research Experience
-        - **R&D Intern**
-        Sandia National Laboratories
-        Summer 2023 - present
-        Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.
-        Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.
-        - **Summer school / Research Assistant**  
-        Los Alamos National Laboratories (LANL) Quantum Computing Summer School  
-        Summer 2019  
-        Supervisor: Yigit Subasi, Ph.D.  
-        Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.    
-        - **Research Assistant**  
-        Graph Theory Computational Discovery Lab, VCU  
-        Summer 2018  
-        Supervisor: Craig Larson, Ph.D.  
-        Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
-        - **Undergraduate Researcher (NSF REU [C.A.A.R.](http://www.cs.umd.edu/projects/reucaar/))**  
-        Joint Center for Quantum Information and Computer Science (QuICS), University of Maryland  
-        Summer 2017  
-        Supervisor: Andrew Childs, Ph.D.  
-        Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
-        - **Undergraduate Research Assistant**  
-        Quantum Computing Lab, VCU  
-        2015 - 2016  
-        Supervisor: Sevag Gharibian, Ph.D.  
-        Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
+#### Research Experience
+  - **R&D Intern**
+  Sandia National Laboratories
+  Summer 2023 - present
+  Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.
+  - **Summer school / Research Assistant**  
+  Los Alamos National Laboratories (LANL) Quantum Computing Summer School  
+  Summer 2019  
+  Supervisor: Yigit Subasi, Ph.D.  
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.    
+  - **Research Assistant**  
+  Graph Theory Computational Discovery Lab, VCU  
+  Summer 2018  
+  Supervisor: Craig Larson, Ph.D.  
+  Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
+  - **Undergraduate Researcher (NSF REU [C.A.A.R.](http://www.cs.umd.edu/projects/reucaar/))**  
+  Joint Center for Quantum Information and Computer Science (QuICS), University of Maryland  
+  Summer 2017  
+  Supervisor: Andrew Childs, Ph.D.  
+  Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
+  - **Undergraduate Research Assistant**  
+  Quantum Computing Lab, VCU  
+  2015 - 2016  
+  Supervisor: Sevag Gharibian, Ph.D.  
+  Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
-      #### Invited positions & Workshops
-        - **Invitation-only workshop**  
-        Schloss Dagstuhl - Quantum Complexity: Theory and Application  
-        June 2021      
-        - **Visiting Researcher**  
-        University of Paderborn, Germany  
-        November 2018  
-        Collaboration with Sevag Gharibian, Ph.D.  
-        Topic: Complexity theory and algorithms. Studied QMA_1-hardness of the quantum satisfaction problem (k-QSAT) given qudits of lower dimensions (i.e. improving on current necessary dimension).
+#### Invited positions & Workshops
+  - **Invitation-only workshop**  
+  Schloss Dagstuhl - Quantum Complexity: Theory and Application  
+  June 2021      
+  - **Visiting Researcher**  
+  University of Paderborn, Germany  
+  November 2018  
+  Collaboration with Sevag Gharibian, Ph.D.  
+  Topic: Complexity theory and algorithms. Studied QMA_1-hardness of the quantum satisfaction problem (k-QSAT) given qudits of lower dimensions (i.e. improving on current necessary dimension).
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
