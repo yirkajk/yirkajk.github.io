@@ -16,7 +16,6 @@ The University of Texas at Austin, USA
   - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/yirkajk/)
   - <img src="./logos/github.png" width="16"> [GitHub](https://github.com/yirkajk)
   - <img src="./logos/googlescholar.png" width="16"> [Google Scholar](https://scholar.google.com/citations?user=UxIpR_UAAAAJ)
-  - <img src="./logos/twitter.jpg" width="16"> [Twitter @JustinYirka](https://twitter.com/JustinYirka)
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
@@ -44,8 +43,13 @@ B.S. in Mathematical Sciences
 ***
 
 #### Research Experience
+  - **R&D Intern**
+  Sandia National Laboratories
+  Summer 2023 - present
+  Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.
   - **Summer school / Research Assistant**  
-  Los Alamos National Laboratory (LANL) Quantum Computing Summer School  
+  Los Alamos National Laboratories (LANL) Quantum Computing Summer School  
   Summer 2019  
   Supervisor: Yigit Subasi, Ph.D.  
   Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.    
@@ -83,15 +87,15 @@ B.S. in Mathematical Sciences
 
 #### Journal Publications
   - S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2). *Computational Complexity*, 31:12, 2022. [DOI: 10.1007/s00037-022-00231-8](https://doi.org/10.1007/s00037-022-00231-8).
-  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. *Quantum*, 5:535, September 2021. [DOI: 10.22331/q-2021-09-02-535](https://doi.org/10.22331/q-2021-09-02-535).  
+  - J. Yirka, Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. *Quantum*, 5:535, 2021. [DOI: 10.22331/q-2021-09-02-535](https://doi.org/10.22331/q-2021-09-02-535).  
   - S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems. *Quantum*, 3:189, 2019. [DOI: 10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=nCCVg4OOuYM).  
 
 #### Conference Presentations
   - J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
-      - **Contributed talk by J. Yirka** at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, April 2021. Slides available [here](./slides_and_posters/YS_YQIS2021_slides.pdf).  
+      - **Contributed talk by J. Yirka** at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021. Slides available [here](./slides_and_posters/YS_YQIS2021_slides.pdf).  
       - Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.  
-      - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, Dec. 2020. Video available [here](https://youtu.be/J9AnuKkgrIk). Slides available [here](./slides_and_posters/YS_AQIS2020_slides_final.pdf).  
+      - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, 2020. Video available [here](https://youtu.be/J9AnuKkgrIk). Slides available [here](./slides_and_posters/YS_AQIS2020_slides_final.pdf).  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
       - Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, 2020.  
       - **Contributed talk by J. Yirka** at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, 2020. Video available [here](https://www.koushare.com/video/videodetail/4234). Slides available [here](./slides_and_posters/GPY_QIP20_slides.pdf).  
@@ -114,4 +118,4 @@ B.S. in Mathematical Sciences
 
 ***
 
-*Last updated: November 11, 2022*
+*Last updated: September 20, 2023*
