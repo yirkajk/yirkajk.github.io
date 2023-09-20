@@ -78,11 +78,11 @@ B.S. in Mathematical Sciences
       - **Poster by J. Yirka** at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. -- **Awarded “Launch Award for Outstanding Research Poster”**.
 
 #### Research Experience
-  - **R&D Intern**
-  Sandia National Laboratories
-  Summer 2023 - present
-  Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.
-  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.
+  - **R&D Intern**  
+  Sandia National Laboratories  
+  Summer 2023 - present  
+  Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.  
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.  
   - **Summer school / Research Assistant**  
   Los Alamos National Laboratories (LANL) Quantum Computing Summer School  
   Summer 2019  
