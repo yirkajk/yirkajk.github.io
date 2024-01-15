@@ -43,6 +43,7 @@ B.S. in Mathematical Sciences
 ***
 
 #### Preprints  
+  - J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians. Available at [https://arxiv.org/abs/2401.06725](https://arxiv.org/abs/2401.06725). January 2024.  
   - S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses. Available at [https://arxiv.org/abs/2401.01453](https://arxiv.org/abs/2401.01453). January 2024.  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). 2019.  
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=i8hLbBpS7Qk).  
@@ -56,6 +57,10 @@ B.S. in Mathematical Sciences
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=nCCVg4OOuYM).  
 
 #### Conference Presentations
+  - J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.
+    - **Contributed talk by J. Yirka** at 27th Conference on Quantum Information Processing (QIP). Taiwan, January 2024.  
+  - S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
+    - **Poster by J. Yirka** at 27th Conference on Quantum Information Processing (QIP). Taiwan, January 2024. (Merged with another submission.)  
   - J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
       - **Contributed talk by J. Yirka** at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021. Slides available [here](./slides_and_posters/YS_YQIS2021_slides.pdf).  
       - Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.  
