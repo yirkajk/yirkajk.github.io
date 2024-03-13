@@ -62,7 +62,7 @@ B.S. in Mathematical Sciences
   - S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
     - **Poster by J. Yirka** at 27th Conference on Quantum Information Processing (QIP). Taiwan, January 2024. (Merged with another submission.)  
   - J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
-      - **Contributed talk by J. Yirka** at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021. Slides available [here](./slides_and_posters/YS_YQIS2021_slides.pdf).  
+      - **Contributed talk by J. Yirka** at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021. Video available [here](https://www.youtube.com/watch?v=J9AnuKkgrIk). Slides available [here](./slides_and_posters/YS_YQIS2021_slides.pdf).  
       - Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.  
       - **Contributed talk by J. Yirka** at 20th Asian Quantum Information Science Conference (AQIS). Virtual, 2020. Video available [here](https://youtu.be/J9AnuKkgrIk). Slides available [here](./slides_and_posters/YS_AQIS2020_slides_final.pdf).  
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
