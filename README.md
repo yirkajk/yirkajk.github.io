@@ -45,6 +45,7 @@ B.S. in Mathematical Sciences
 #### Preprints  
   - J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians. Available at [https://arxiv.org/abs/2401.06725](https://arxiv.org/abs/2401.06725). January 2024.  
   - S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses. Available at [https://arxiv.org/abs/2401.01453](https://arxiv.org/abs/2401.01453). January 2024.  
+  Also at https://eccc.weizmann.ac.il/report/2024/006/.
   - S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at [https://arxiv.org/abs/1909.05981](https://arxiv.org/abs/1909.05981). 2019.  
     - Related seminar talk by Sev available [here](https://www.youtube.com/watch?v=i8hLbBpS7Qk).  
 <!---  - (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.  --->
