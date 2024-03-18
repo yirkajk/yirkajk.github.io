@@ -43,6 +43,7 @@ B.S. in Mathematical Sciences
 ***
 
 #### Preprints  
+  - J. Yirka. Even quantum advice is unlikely to solve PP. Availalbe at [https://arxiv.org/abs/2403.09994](https://arxiv.org/abs/2403.09994). Also at [https://eccc.weizmann.ac.il/report/2024/052/](https://eccc.weizmann.ac.il/report/2024/052/). March 2024.  
   - J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians. Available at [https://arxiv.org/abs/2401.06725](https://arxiv.org/abs/2401.06725). January 2024.  
   - S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses. Available at [https://arxiv.org/abs/2401.01453](https://arxiv.org/abs/2401.01453). January 2024.  
   Also at https://eccc.weizmann.ac.il/report/2024/006/.
