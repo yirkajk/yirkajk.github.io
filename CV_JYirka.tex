@@ -3,14 +3,17 @@
 \moderncvstyle{banking}
 \moderncvcolor{black}
 
+\usepackage[T1]{fontenc}
+
 \urlstyle{same} % Forces URLs to use same font, rather than a monospace font
 \usepackage{changepage} % For indenting blocks of text
 
 \name{Justin}{Yirka} % Unused, since we make our own header
 
-\usepackage{lastpage} % Footer
-\fancypagestyle{firstpage}{\rfoot{\today \quad \thepage / \pageref{LastPage}}}
-\rfoot{Justin Yirka \quad \thepage / \pageref{LastPage}} % Any pages without special style will just get this
+\usepackage{lastpage} % for the Footer
+\fancypagestyle{firstpage}{\lfoot{Curriculum vitae}\rfoot{\today \quad \thepage / \pageref{LastPage}}}
+\fancypagestyle{normal}{\rfoot{J. Yirka \quad \thepage / \pageref{LastPage}}}
+
 
 \renewcommand*{\subsectionfont}{\large\upshape\fontseries{b}\selectfont} % Overrides font for subsection headers. Make them bold.
 
@@ -24,93 +27,190 @@
 
 \usepackage{enumitem} % for defining itemsep as needed. Default is 0.
 \setlist{itemsep=0em} % default
-\newcommand{\pubItemSep}{0.3em}
-
-\newcommand{\todo}[1]{\textcolor{red}{\textbf{(To Do: } #1\textbf{)}}}
+\newcommand{\pubItemSep}{0em}
 
 %=========================================================================================
 %  BEGIN DOCUMENT
 %=========================================================================================
 \begin{document}
 
-\hypersetup{pdftitle={Justin Yirka --- CV}, pdfauthor={Justin Yirka}}
+\pagestyle{normal}
+
+\hypersetup{pdftitle={CV Justin Yirka}, pdfauthor={Justin Yirka}}
 
 \thispagestyle{firstpage}
 
 \begin{center}
-	{\huge\textbf{Justin Yirka}}
+	{\LARGE\textbf{Justin Yirka}}
 
-	Ph.D. Student in Computer Science
+	**Graduating in 2025**~~ Ph.D. Student in Computer Science
 
-	The University of Texas at Austin, USA
+	\vspace{0.5\baselineskip}
 
-	\vspace{\baselineskip}
+	703-229-7956 | 	\href{mailto:yirka@utexas.edu}{yirka@utexas.edu}
 
-	\href{mailto:yirka@utexas.edu}{yirka@utexas.edu}
-
-
-	\url{www.JustinYirka.com}
-
-	(703) 229-7956
+	\href{www.justinyirka.com}{JustinYirka.com}
+	~~|~~
+	\href{https://www.linkedin.com/in/yirkajk/}{linkedin.com/in/yirkajk}
+	~~|~~
+	\href{https://scholar.google.com/citations?user=UxIpR_UAAAAJ}{Google Scholar profile (link)}
 \end{center}
 
 
 %%% Increase vertical spacing after paragraphs in remainder of document (default parskip in moderncv is 0em) %%%
-\setlength{\parskip}{0.4em}
+\setlength{\parskip}{0em}
 % itemsep is defined separately
 
 %=========================================================================================
 %  SECTION: Research Interests
 %=========================================================================================
 \section{Research Interests}
-Quantum computing \& Theoretical computer science:
-
-\hspace{.25in} Complexity theory, algorithms, and connections to applications
+Quantum computing, Theoretical computer science, Complexity theory and Hamiltonian complexity
 
 
 %=========================================================================================
 %  SECTION: Education
 %=========================================================================================
 \section{Education}
-\cventry{2019 -- present}{Ph.D. in Computer Science}{\bfseries University of Texas at Austin (UT)}{}{}
+\cventry{Expected graduation: May 2025}{Ph.D. in Computer Science}{\bfseries University of Texas at Austin (UT)}{}{}
 {
 	\normalsize
 	\begin{adjustwidth}{.25in}{}
-		Advisor: Scott Aaronson, Ph.D.
+		Adviser: Scott Aaronson
 	\end{adjustwidth}
 }
 %\vspace{-\baselineskip}
-\vspace{-\parskip}
 \cventry{2022}{M.S. in Computer Science}{}{}
 {%
 }
 {}
+\vspace{\parsep}
 
-\cventry{2018}{B.S. in Computer Science}{\bfseries Virginia Commonwealth University (VCU)}{}{}{}
+\cventry{2018}{B.S. in Computer Science --- Specialization in Data Science}{\bfseries Virginia Commonwealth University (VCU)}{}{}{}
 %\vspace{-\baselineskip}
-\vspace{-2\parskip}
-\cventry{Concurrent/Dual degrees}{B.S. in Mathematical Sciences}{}{}
+\vspace{-\parsep}
+\cventry{Concurrent degrees}{B.S. in Mathematical Sciences --- Concentration in Pure Mathematics}{}{}
 {% GPA: 3.98 out of 4.0
 }
 {
 	\begin{adjustwidth}{.25in}{}
 		% Specialization in Data Science \newline
 		% Concentration in Pure Math \newline
-		Minor in Physics % \newline
-		% University Honors
+		Minor in Physics, University Honors College
 	\end{adjustwidth}
 }
 
 %=========================================================================================
-%  SECTION: Research
+%  SECTION: Research papers
 %=========================================================================================
-\section{Research}
+\section{Research Papers\hfill{\footnotesize Authors listed alphabetically. Filled labels $\bullet$ indicate I gave the presentation.}}
+
+
+S. Grewal and J. Yirka.
+\\The Entangled Quantum Polynomial Hierarchy Collapses.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item To appear in \textit{Proceedings of the Computational Complexity Conference (CCC).} Ann Arbor, MI, USA, July 2024.
+		\item[$\bullet$] Poster at Conference on Quantum Information Processing (QIP). Taiwan, January 2024.
+		\item[--] \href{https://arxiv.org/abs/2401.01453}{arXiv:2401.01453}. January 2024.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+J. Yirka.
+\\Even quantum advice is unlikely to solve \textup{PP}.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item[--] \href{https://arxiv.org/abs/2403.09994}{arXiv:2403.09994} and \href{https://eccc.weizmann.ac.il/report/2024/052/}{ECCC:TR24-052}. March 2024.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka.
+\\Complexity Classification of Product State Problems for Local Hamiltonians.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		%\item[$\bullet$] Poster at DOE Quantum Systems Accelerator All-Hands meeting. Albuquerque, NM, June 2024.
+		\item[$\bullet$] Contributed talk at Conference on Quantum Information Processing (QIP). Taiwan, January 2024.
+		\item[--] \href{https://arxiv.org/abs/2401.06725}{arXiv:2401.06725}. January 2024.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+J. Yirka and Y. Subasi.
+\\Qubit-efficient entanglement spectroscopy using qubit resets.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item[--] \textit{Quantum}, 5:535. \href{https://doi.org/10.22331/q-2021-09-02-535}{doi:10.22331/q-2021-09-02-535}. 2021.
+		\item Contributed talk by J. Yirka at Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021.
+		\item Contributed talk at APS March Meeting 2021. Virtual.
+		\item[$\bullet$] Contributed talk at 20th Asian Quantum Information Science Conference (AQIS). Virtual, 2020.
+		\item[--] \href{https://arxiv.org/abs/2010.03080}{arXiv:2010.03080}. 2020.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+S. Gharibian, S. Piddock, J. Yirka.
+\\Oracle complexity classes and local measurements on physical Hamiltonians.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item In \textit{Proceedings of Symposium on Theoretical Aspects of Computer Science (STACS)}. Montpellier, France. \href{https://doi.org/10.4230/LIPIcs.STACS.2020.20}{doi:10.4230/LIPIcs.STACS.2020.20}. 2020
+		\item[$\bullet$] Contributed talk at Conference on Quantum Information Processing (QIP). Shenzhen, China, 2020.
+		\item Poster at Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, 2019.
+		\item Poster at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, 2019.
+		\item[$\bullet$] Poster at Conference on Quantum Information Processing (QIP). Boulder, CO, USA, 2019.
+		\item[$\bullet$] Contributed talk at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, 2018.
+		\item[--]  \href{https://arxiv.org/abs/1909.05981}{arXiv:1909.05981}. 2019.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka.
+\\Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item[--] \textit{Computational Complexity}, 31:12. \href{https://doi.org/10.1007/s00037-022-00231-8}{DOI: 10.1007/s00037-022-00231-8}. 2022.
+		\item Poster at Conference on Quantum Information Processing (QIP). Boulder, CO, USA, 2019.
+		\item Contributed talk at Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, 2018. --- \textbf{``Long''/plenary talk: top 7\% of submissions}.
+		\item Contributed talk at Symposium on Mathematical Foundations of Computer Science (MFCS). Liverpool, UK, 2018.
+		\item[--] \href{https://arxiv.org/abs/1805.11139}{arXiv:1805.11139}. 2018.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+S. Gharibian and J. Yirka.
+\\The complexity of simulating local measurements on quantum systems.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item[--] \textit{Quantum}, 3:189. \href{https://doi.org/10.22331/q-2019-09-30-189}{DOI: 10.22331/q-2019-09-30-189}. 2019.
+		\item Contributed talk at Conference on the Theory of Quantum Computation, Communication,
+		and Cryptography (TQC). Paris, France, 2017.
+		\item[$\bullet$] Poster at Conference on Quantum Information Processing (QIP). Seattle, USA, 2017.
+		\item[--] \href{https://arxiv.org/abs/1606.05626}{arXiv:1606.05626}. 2016.
+	\end{itemize}
+\end{adjustwidth}
+\vspace{\parsep}
+
+J. Yirka.
+\\Evaluation of TCP header fields for data overhead efficiency.
+\begin{adjustwidth}{.1in}{}
+	\begin{itemize}[itemsep=\pubItemSep]
+		\item[$\bullet$] Poster at National Conference on Undergraduate Research (NCUR). Asheville, NC, USA, 2016.
+		\item[$\bullet$] Poster at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. --- \textbf{Awarded ``Launch Award for Outstanding Research Poster''}.
+	\end{itemize}
+\end{adjustwidth}
+
+
+%=========================================================================================
+%  SECTION: Research Experience
+%=========================================================================================
+\section{Research Experience}
 %==========  Experience  =======================================================
-\subsection{Experience}
-\cventry{}{Sandia National Laboratories}{R\&D Intern}{Summer 2023--present}{}
+\subsection{Positions}
+\cventry{}{Sandia National Laboratories}{R\&D Intern}{June 2023--present}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D. \newline
+		Supervisors: Ojas Parekh and John Kallaugher \newline
 		Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.
 	\end{adjustwidth}
 }
@@ -118,40 +218,50 @@ Quantum computing \& Theoretical computer science:
 \cventry{}{Los Alamos National Laboratories Quantum Computing Summer School}{Summer school / Research Assistant}{Summer 2019}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Supervisor: Yi\u{g}it Suba\c{s}\i, Ph.D. \newline
+		Supervisor: Yi\u{g}it Suba\c{s}\i \newline
 		Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient \textit{and} low-width.
 	\end{adjustwidth}
 }
 
-\cventry{}{Graph Theory Computational Discovery Lab, VCU}{Research Assistant}{Summer 2018}{}
+\cventry{}{Graph Theory Computational Discovery Lab, Virginia Commonwealth University}{Research Assistant}{Summer 2018}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Supervisor: Craig Larson, Ph.D. \newline
+		Supervisor: Craig Larson \newline
 		Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
 	\end{adjustwidth}
 }
 
 \cventry{}
 {\small Joint Center for Quantum Inform. and Computer Science (QuICS), University of Maryland}
-{Undergraduate Researcher (NSF REU C.A.A.R.)}{Summer 2017}{}
+{Undergraduate Researcher {\small(NSF REU C.A.A.R.)}}{Summer 2017}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Supervisor: Andrew Childs, Ph.D. \newline
+		Supervisor: Andrew Childs \newline
 		Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
 	\end{adjustwidth}
 }
 
-\cventry{}{Quantum Computing Lab, VCU}{Undergraduate Research Assistant}{2015--2016}{}
+\cventry{}{Quantum Computing Lab, Virginia Commonwealth University}{Undergraduate Research Assistant}{2015--2016}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Supervisor: Sevag Gharibian, Ph.D. \newline
+		Supervisor: Sevag Gharibian \newline
 		Topic: Complexity theory. Studied quantum oracle classes  (e.g. {\scriptsize $\textup{P}^{\textup{QMA[log]}}$}) and complexity of simulating local measurements. Helped develop a ``quantum PH'' and ``quantum Toda's Theorem'' ({\scriptsize $\textup{QCPH}\subseteq \textup{P}^{\textup{PP}^{\textup{PP}}}$}).
 	\end{adjustwidth}
 }
 
 
 %==========  Workshops  =======================================================
-\subsection{Invited positions \& Workshops}
+\subsection{Workshops and Visits}
+
+\cventry{}{Quantum Systems Accelerator (a Dept. of Energy Quantum Research Center)}{All-hands meeting}{June 2024}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Attended on behalf of my advisor at UT Austin
+	\end{adjustwidth}
+}
+
+\cventry{}{Simons Institute for the Theory of Computing}{Workshop on Quantum Complexity: Quantum PCP, Area Laws, and Quantum Gravity}{Mar. 2024}{}
+{}
 
 \cventry{}{Schloss Dagstuhl --- Quantum Complexity: Theory and Application}{Invitation-only workshop}{June 2021}{}
 {
@@ -160,139 +270,96 @@ Quantum computing \& Theoretical computer science:
 \cventry{}{University of Paderborn, Germany}{Visiting Researcher}{November 2018}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Collaboration with Sevag Gharibian, Ph.D. \newline
+		Collaboration with Sevag Gharibian \newline
 		Topic: Complexity theory and algorithms. Studied $\textup{QMA}_{1}$-hardness of the quantum satisfaction problem ($k$-QSAT) given qudits of lower dimensions.
 	\end{adjustwidth}
 }
 
 
-%==========  Preprints  =======================================================
-\subsection{Preprints}
-{ \leftskip 0.2in \parindent -0.2in % Hanging indent
-
-J. Yirka. Even quantum advice is unlikely to solve \textup{PP}. Available at \url{https://arxiv.org/abs/2403.09994}. Also at \url{https://eccc.weizmann.ac.il/report/2024/052/}. March 2024.
-
-J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians. Available at \url{https://arxiv.org/abs/2401.06725}. January 2024.
-
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses. Available at \url{https://arxiv.org/abs/2401.01453}. January 2024.
-
-S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians. Available at \url{https://arxiv.org/abs/1909.05981}. 2019.
-
-% (Graph theory) N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, J. Yirka, and G. Yu. Automated conjecturing and the Hamiltonian problem. In submission. August 2019.
-
-} % End hanging indent
-
-
-%==========  Journal Publications  =======================================================
-\subsection{Journal Publications}
-{ \leftskip 0.2in \parindent -0.2in % Hanging indent
-
-S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the
-polynomial hierarchy with applications to QMA(2). \textit{Computational Complexity}, 31:12, 2022. \href{https://doi.org/10.1007/s00037-022-00231-8}{DOI: 10.1007/s00037-022-00231-8}.
-
-J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets. \textit{Quantum}, 5:535, 2021. \href{https://doi.org/10.22331/q-2021-09-02-535}{DOI: 10.22331/q-2021-09-02-535}.
-
-S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.
-\textit{Quantum}, 3:189, 2019. \href{https://doi.org/10.22331/q-2019-09-30-189}{DOI: 10.22331/q-2019-09-30-189}.
-
-}
-
-
-%%==========  Conference Presentations  =======================================================
-\subsection{Conference Presentations \parbox[b][][b]{2em}{\subsectionrule}{\footnotesize (grouped by paper)} }
-% No hanging indent
-
-J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, and J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item \textbf{Contributed talk by J. Yirka} at 27th Conference on Quantum Information Processing (QIP). Taiwan, January 2024.
-	\end{itemize}
-\end{adjustwidth}
-
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item \textbf{Poster by J. Yirka} at 27th Conference on Quantum Information Processing (QIP). Taiwan, January 2024.
-	\end{itemize}
-\end{adjustwidth}
-
-J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item \textbf{Contributed talk by J. Yirka} at 6th Conference for Young Quantum Information Scientists (YQIS). Virtual, 2021.
-		\item Contributed talk by Y. Subasi at APS March Meeting 2021. Virtual.
-		\item \textbf{Contributed talk by J. Yirka} at 20th Asian Quantum Information Science Conference (AQIS). Virtual, 2020.
-	\end{itemize}
-\end{adjustwidth}
-
-S. Gharibian, S. Piddock, and J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item Contributed talk by S. Piddock at 37th Symposium on Theoretical Aspects of Computer Science (STACS). Montpellier, France, 2020.
-		\item \textbf{Contributed talk by J. Yirka} at 23rd Conference on Quantum Information Processing (QIP). Shenzhen, China, 2020.
-		\item Poster by S. Piddock at 14th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC). College Park, MD, USA, 2019.
-		\item Poster by S. Piddock at Workshop on Quantum Computing Theory in Practice (QCTIP). Bristol, UK, 2019.
-		\item \textbf{Poster by J. Yirka} at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, 2019.
-		\item \textbf{Contributed talk by J. Yirka} at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, 2018.
-	\end{itemize}
-\end{adjustwidth}
-
-S. Gharibian, M. Santha, J. Sikora, A. Sundaram, and J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item Poster by A. Sundaram at 22nd Conference on Quantum Information Processing (QIP). Boulder, CO, USA, 2019.
-		\item Contributed talk by A. Sundaram at 18th Asian Quantum Information Science Conference (AQIS). Nagoya, Japan, 2018. --- \textbf{``Long''/plenary talk: top 7\% of submissions}.
-		\item Contributed talk by A. Sundaram at 43rd International	Symposium on Mathematical Foundations of Computer Science (MFCS). Liverpool, UK, 2018.
-	\end{itemize}
-\end{adjustwidth}
-
-S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item Contributed talk by S. Gharibian at 12th Conference on the Theory of Quantum Computation, Communication,
-		and Cryptography (TQC). Paris, France, 2017.
-		\item \textbf{Poster by J. Yirka} at 20th Conference on Quantum Information Processing (QIP). Seattle, USA, 2017. Presented under a different title.
-	\end{itemize}
-\end{adjustwidth}
-
-J. Yirka. Evaluation of TCP header fields for data overhead efficiency.
-\begin{adjustwidth}{.25in}{}
-	\begin{itemize}[itemsep=\pubItemSep]
-		\item \textbf{Poster by J. Yirka} at 30th National Conference on Undergraduate Research (NCUR). Asheville, NC, USA, 2016.
-		\item \textbf{Poster by J. Yirka} at VCU Symposium for Undergraduate Research and Creativity. Richmond, VA, USA, 2015. --- \textbf{Awarded ``Launch Award for Outstanding Research Poster''}.
-	\end{itemize}
-\end{adjustwidth}
 
 
 %%==========  Departmental Seminars  =======================================================
-\subsection{Departmental Seminars}
-{ \leftskip 0.2in \parindent -0.2in % Hanging indent
+\subsection{Research Seminars}
 
-Pure state tomography with Pauli observables. QuICS, University of Maryland. 2017.
+\setlength{\parskip}{0.5em}
 
-Quantum complexity of estimating local physical quantities. Department of Computer Science, VCU. 2016.
-% \textbf{Only undergraduate invited in previous 5 years}
+Research Preparation Exam on ``Complexity Classification of Product State Problems for Local Hamiltonians''.
+\\ UT Computer Science department. 2024.
 
+Intro to Quantum Hamiltonians with old, new classical, and open questions.
+\\UT theory student seminar. 2023.
+
+Pure state tomography with Pauli observables.
+\\QuICS, University of Maryland. 2017.
+
+Quantum complexity of estimating local physical quantities.
+\\ Department of Computer Science, VCU. 2016.
+(Only undergraduate invited in previous 5 years.)
+
+\setlength{\parskip}{0em}
+
+
+%=========================================================================================
+%  SECTION: Teaching Experience
+%=========================================================================================
+\section{Teaching Experience}
+%==========  UT  =======================================================
+\subsection{The University of Texas at Austin (UT)}
+
+\cventry{}{Quantum Information Science (Web-based for online M.S. program)}{Head Teaching Assistant}{Spring 2022, 2023, 2024}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		All lecture content was pre-recorded by S. Aaronson. I was responsible for all other content and logistics, handling office hours, student concerns, academic integrity, and final grades nearly autonomously, with S. Aaronson as instructor of record.
+		Supervised 4 other teaching assistants.\\
+		For the first run of the course,
+		I was fully responsible for modifying the homework, exams, and grading for the online format and for ensuring a successful addition to the growing MSCS program at UT.\\
+		Spring 2022: 200 students, over 1500 discussion board posts. Course evaluation 4.1~/~5.
+		\\ Spring 2024: Course evaluation 4.91~/~5.
+	\end{adjustwidth}
 }
+
+
+\cventry{}{Introduction to Quantum Information Science (Honors course)}{Teaching Assistant}{Fall 2021}{}
+{
+	\begin{adjustwidth}{.25in}{}
+	With Scott Aaronson. Taught recitation and graded assignments.
+	\end{adjustwidth}
+}
+
+\cventry{}{UT International Academy: Software Engineering}{Instructor}{Summer 2021}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Virtual. Introductory course for international undergraduate students. I independently designed the entire course.
+		Course evaluation 4.88~/~5.
+	\end{adjustwidth}
+}
+
+%==========  VCU  =======================================================
+\subsection{Virginia Commonwealth University (VCU)}
+\cventry{}{Algebra with Applications {\footnotesize (MATH 141)}}{Teaching Assistant}{(2 semesters) 2016--2017}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		Assisted with daily in-class exercises, offered tutorials, graded assignments. \newline
+		Average student evaluation scores --- Fall 2016: 4.78 / 5.0; Spring 2017: 4.36 / 5.0.
+	\end{adjustwidth}
+}
+
+\cventry{}{Honors College freshman mentorship program}{Mentor for first-year student}{Fall 2016}{}{}
+
+\cventry{}{Honors Rhetoric {\footnotesize (HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{Fall 2015}{}{}
+
+%==========  Other  =======================================================
+\subsection{Other}
+
+\cventry{}{CPR and first-aid courses for lifeguards}{Instructor}{2016--2018}{}{Department of Parks and Recreation, Prince William County, VA}
 
 
 %=========================================================================================
 %  SECTION: Funding
 %=========================================================================================
-\section{Scholarships and Funding \hspace{2em}{\footnotesize (all dollar amounts in USD)}}
-\cventry{}{\$110,000}{VCU Presidential Scholarship}{2014--2018}{Virginia Commonwealth University}
-{
-	\begin{adjustwidth}{.25in}{}
-		Awarded to 0.6\% of admitted students.
-		% Full cost of 4-year tuition, room, and board.
-	\end{adjustwidth}
-}
+\section{Scholarships and Funding \hfill{\footnotesize (all dollar amounts in USD)}}
 
-\vspace{4\parskip}
-
-\cventry{}{\$1100}{Travel grant to attend QIP 2020 in Shenzhen, China}{2020}{QIP student support / NSF}{}
-
-\cventry{}{\$400}{Travel grant to attend QIP 2019 in Boulder, CO, USA}{2019}{QIP student support / NSF}{}
+\cventry{}{approx. \$10,000}{Co-PI: quantum computing seminar series at UT with invited speakers}{Expected fall 2024}{CIQC (an NSF Quantum Challenge Institute)}{}
 
 \cventry{}{\$1,900}{Grants for seminar series by VCU RamDev software development club}{2016--2018}{VCU Student Government Association}{}
 
@@ -304,15 +371,39 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 	\end{adjustwidth}
 }
 
-\cventry{}{\$500}{Travel grant to present at QIP 2017 in Seattle, USA}{2017}{VCU Honors College}{}
+\cventry{}{\$110,000}{VCU Presidential Scholarship}{2014--2018}{Virginia Commonwealth University}
+{
+	\begin{adjustwidth}{.25in}{}
+		Awarded to 0.6\% of admitted students.
+		% Full cost of 4-year tuition, room, and board.
+	\end{adjustwidth}
+}
 
-\cventry{}{\$550}{Travel grant to present at NCUR 2016 in Asheville, NC, USA}{2016}{VCU Honors College}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Travel grants}
+
+\cventry{}{\$600}{Travel grant to CCC 2024 in Ann Arbor, MI, USA}{2024}{CCC travel allowance / NSF}{}
+
+\cventry{}{\$1,425}{Travel grant to a Simons Institute workshop in Berkeley, CA, USA}{2024}{CIQC (an NSF Quantum Challenge Institute)}{}
+
+\cventry{}{\$500}{Travel grant to QIP 2024 in Taipei, Taiwan}{2024}{UT Graduate School}{}
+
+\cventry{}{\$1,600}{Travel grant to QIP 2024 in Taipei, Taiwan}{2024}{QIP student stipend}{}
+
+\cventry{}{\$1,100}{Travel grant to QIP 2020 in Shenzhen, China}{2020}{QIP student support / NSF}{}
+
+\cventry{}{\$400}{Travel grant to QIP 2019 in Boulder, CO, USA}{2019}{QIP student support / NSF}{}
+
+\cventry{}{\$500}{Travel grant to QIP 2017 in Seattle, USA}{2017}{VCU Honors College}{}
+
+%\cventry{}{\$550}{Travel grant to present at NCUR 2016 in Asheville, NC, USA}{2016}{VCU Honors College}{}
+
 
 
 %=========================================================================================
 %  SECTION: Awards and Honors
 %=========================================================================================
-\section{Awards and Honors}
+\section{Awards}
 
 \cventry{}{NSF Graduate Research Fellowship Program (NSF GRFP)}{Honorable Mention}{(Awarded twice) 2019, 2020}{}
 {
@@ -344,58 +435,6 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 \cventry{}{Grade-school robotics program, Prince William County Schools, VA}{Volunteer of the Year}{2014}{}{}
 
 
-%=========================================================================================
-%  SECTION: Teaching Experience
-%=========================================================================================
-\section{Teaching Experience}
-%==========  UT  =======================================================
-\subsection{UT}
-\cventry{}{Quantum Information Science (Web-based for M.S. program)}{Head Teaching Assistant}{Spring 2022, 2023}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		QIS course for students in online M.S. program.\\
-		All lecture content was pre-recorded by S. Aaronson. I was responsible for all other content and logistics, including modifying the homework, exams, and grading for the online format.
-		I handled student concerns, academic integrity, and final grades nearly autonomously, with S. Aaronson as instructor of record.\\
-		Supervised 4 other teaching assistants.\\
-		~\\
-		I was tasked with ensuring a successful first iteration of the course for the growing MSCS program at UT. \\
-		Spring 2022 course: 200 students, course evaluation 4.1~/~5
-	\end{adjustwidth}
-}
-
-
-\cventry{}{Introduction to Quantum Information Science (Honors course)}{Teaching Assistant}{Fall 2021}{}
-{
-	\begin{adjustwidth}{.25in}{}
-	With Scott Aaronson. Taught recitation and graded assignments.
-	\end{adjustwidth}
-}
-
-\cventry{}{UT International Academy: Software Engineering}{Instructor}{Summer 2021}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Virtual. Introductory software engineering course for international undergraduate students.
-	\end{adjustwidth}
-}
-
-%==========  VCU  =======================================================
-\subsection{VCU}
-\cventry{}{Algebra with Applications {\footnotesize (MATH 141)}}{Teaching Assistant}{(2 semesters) 2016--2017}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Assisted with daily in-class exercises, offered tutorials, graded assignments. \newline
-		Average student evaluation scores --- Fall 2016: 4.78 / 5.0; Spring 2017: 4.36 / 5.0.
-	\end{adjustwidth}
-}
-
-\cventry{}{Honors College freshman mentorship program}{Mentor for first-year student}{Fall 2016}{}{}
-
-\cventry{}{Honors Rhetoric {\footnotesize (HONR 200)} --- first-year honors writing and research course}{Teaching Assistant}{Fall 2015}{}{}
-
-%==========  Other  =======================================================
-\subsection{Other}
-\cventry{}{CPR and first-aid courses for lifeguards}{Instructor}{2016--2018}{}{Department of Parks and Recreation, Prince William County, VA}
-
 
 %=========================================================================================
 %  SECTION: Service
@@ -403,22 +442,21 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 \section{Service}
 
 %==========  Refereeing  =======================================================
-\subsection{Refereeing}
 
 \cvitem{Journal reviewer:}{\textit{Quantum} (2022, 2020)}
 
-\cvitem{PC Member}{YQIS 2021 --- 6th Conference for Young Quantum Information Scientists}
+\cvitem{PC Member}{YQIS 2021}
 
 \cvitem{Conference subreviewer}{QIP (2024, 2022), TQC (2023, 2022), ITCS 2023, RANDOM 2023, CCC 2022}
 
-%==========  Professional Service  =======================================================
-\subsection{Professional Service}
+\vspace{\parsep}
 
-\cventry{}{UT Graduate Representative Association of Computer Science (GRACS)}{Representative and Chair}{Spring 2020--Fall 2021}{}
+\cventry{}{UT Graduate Representative Association of Computer Science (GRACS)}{Chair}{Spring 2020--Fall 2021}{}
 {
 	\begin{adjustwidth}{.25in}{}
 		\begin{itemize}
-			\item GRACS representative to UTCS Diversity, Equity, and Inclusion (DEI) Council, 2020--2021.
+			\item GRACS representative to UTCS Diversity, Equity, and Inclusion (DEI) Council.
+			\item Co-Organized Graduate Application Assistance Program mentoring under-represented applicants to Ph.D. program. Managed the volunteer mentors. Fall 2020.
 		\end{itemize}
 	\end{adjustwidth}
 }
@@ -426,30 +464,41 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 \cventry{}{UT CS Graduate Admissions Committee}{Ph.D. application reviewer}{Fall 2020}{}
 {}
 
-\cventry{}{Graduate Application Assistance Program (GAAP) for UTCS by GRACS}{Lead Mentor}{Fall 2020}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Student-led program for mentoring under-represented applicants to Ph.D. program. As part of GRACS, I helped organize the first year of this program, managed volunteer mentors, and mentored prospective students.
-	\end{adjustwidth}
-}
-
 \cventry{}{UT CS student organizations}{Panelist --- Grad school discussion for underrepresented undergraduates}{August 2020}{}{}
 
-\cventry{}{UT Department of Computer Science}{GradFest committee member}{Spring 2020}{}
+\cventry{}{UT Department of Computer Science}{GradFest (admitted Ph.D. visit day) committee member}{Spring 2020}{}
+{}
+
+\cventry{}{Manchester High School, Midlothian, VA}{Tutor for remedial math students at local high school}{Spring 2019}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Helped plan visit weekend for admitted Ph.D. students.
+		Up to 4.5 hours per week with several groups of students.
 	\end{adjustwidth}
 }
 
-\cventry{}{\hspace{.25in}I was asked to share my observations from AQIS 2018.}{Met with U.S. Army Operations Group}{November 2018}{}{}
+\cventry{}{\hspace{.25in}I was asked to share my observations from AQIS 2018.}{Meeting with U.S. Army Operations Group}{November 2018}{}{}
 
 \cventry{}{VCU Department of Computer Science}{Student Advisory Board member}{(2 academic years) 2016--2018}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Met with department faculty. Participated in hiring interviews for new faculty in 2017.
+		\begin{itemize}
+			\item Participated in hiring interviews for new faculty in 2017.
+		\end{itemize}
 	\end{adjustwidth}
 }
+
+\cventry{}{RamDev: Software Development at VCU}{Founder and President}{(2.5 academic years) 2016--2018}{}
+{
+	\begin{adjustwidth}{.25in}{}
+		\begin{itemize}
+			\item Coordinated 46 weekly seminars including 9 corporate speakers and several hackathon trips.
+			\item Secured and managed \$2400 in funding and resources.
+			\item Increased weekly attendance to 20 students, becoming largest C.S. organization at VCU.
+		\end{itemize}
+	\end{adjustwidth}
+}
+
+\cventry{}{VCU RamDev software development club}{Talk --- Computer Science theory \emph{is} fun}{April 2018}{}{}
 
 \cventry{}{VCU Honors College}{Senior Reader for Honors program graduation dossiers}{(2 academic years) 2016--2017}{}
 {
@@ -462,39 +511,14 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 
 \cventry{}{VCU Honors College}{Panelist --- Undergraduate conference preparation workshops}{2017}{}{}
 
-\cventry{}{VCU Symposium for Undergraduate Research and Creativity}{Judge --- Launch Award for Outstanding Research Poster}{2016}{}{}
-
-%==========  Extracurricular service  =======================================================
-\subsection{Extracurricular Service}
-\cventry{}{RamDev: Software Development at VCU}{Founder and President}{(2.5 academic years) 2016--2018}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		\begin{itemize}
-			\item Coordinated 46 weekly seminars including 9 corporate speakers and several hackathon trips.
-			\item Secured and managed \$2400 in funding and resources.
-			\item Increased weekly attendance to 20 students, becoming largest C.S. organization at VCU.
-		\end{itemize}
-	\end{adjustwidth}
-}
-
-%==========  Community involvement  =======================================================
-\subsection{Outreach and Community Service}
-
-\cventry{}{Manchester High School, Midlothian, VA}{Tutor for remedial math students at local high school}{Spring 2019}{}
-{
-	\begin{adjustwidth}{.25in}{}
-		Up to 4.5 hours per week with several groups of students.
-	\end{adjustwidth}
-}
-
-\cventry{}{VCU RamDev software development club}{Talk --- Computer Science theory \emph{is} fun}{April 2018}{}{}
-
 \cventry{}{VCU RamDev software development club}{Talk --- Quantum programming (e.g. IBM Q, LIQ$Ui|\rangle$)}{2017}{}{}
+
+\cventry{}{VCU Symposium for Undergraduate Research and Creativity}{Judge --- Launch Award for Outstanding Research Poster}{2016}{}{}
 
 \cventry{}{Major League Hacking (MLH) and VCU Department of Computer Science}{Organizer --- Local Hack Day of Richmond, VA}{2016}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Organized event for 30 students including 12 high school students.
+		Co-organized event for 30 students including 12 high school students.
 	\end{adjustwidth}
 }
 
@@ -503,7 +527,9 @@ Quantum complexity of estimating local physical quantities. Department of Comput
 {2011--2015}{}
 {
 	\begin{adjustwidth}{.25in}{}
-		Awarded ``Volunteer of the Year'', 2014.
+		\begin{itemize}
+			\item Awarded ``Volunteer of the Year'', 2014.
+		\end{itemize}
 	\end{adjustwidth}
 }
 
