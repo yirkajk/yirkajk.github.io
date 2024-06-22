@@ -257,7 +257,7 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 -->
 
 
-#### Research Experience
+### Research Experience
   - **R&D Intern**  
   Sandia National Laboratories  
   Summer 2023 - present  
