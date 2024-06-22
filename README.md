@@ -48,11 +48,13 @@ B.S. in Mathematical Sciences
   S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
 
   [arXiv:2401.01453](https://arxiv.org/abs/2401.01453), January 2024.
+
   </summary>
 
   - To appear in Proceedings of *39th Computational Complexity Conference (CCC)*, Ann Arbor, MI, USA, July 2024.  
   - Poster at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024.  
   - [arXiv:2401.01453](https://arxiv.org/abs/2401.01453) and [ECCC:TR24-006](https://eccc.weizmann.ac.il/report/2024/006/), January 2024.  
+
 </details>
 
 <details>
