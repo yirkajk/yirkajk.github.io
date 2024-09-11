@@ -103,7 +103,7 @@ Video <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">h
 <li>Poster at Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), College Park, MD, USA, 2019.</li>
 <li>Poster at Workshop on Quantum Computing Theory in Practice (QCTIP), Bristol, UK, 2019.</li>
 <li>Poster at Conference on Quantum Information Processing (QIP), Boulder, CO, USA, 2019. Available <a href="./slides_and_posters/GPY_QIP19_poster_final.pdf" rel="nofollow">here</a>.</li>
-<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018. Slides <a href="./slides_and_posters/GPY_AQIS18_slides.pdf" rel="nofollow">here</a>.</li>
+<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018. Slides <a href="./slides_and_posters/GPY18_AQIS_slides.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</li>
 <li>Additional videos:<br>
 Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
@@ -162,7 +162,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
   Topic: Investigated minimum number of measurements for pure state quantum tomography.  
   - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
   Advised by Sevag Gharibian, Ph.D.  
-  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. $P^{QMA[log]}$), quantum polynomial hierarchy and “quantum Toda’s Theorem” ($QCPH ⊆ P^{PP^{PP}}$).  
+  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).  
 
 ***
 
