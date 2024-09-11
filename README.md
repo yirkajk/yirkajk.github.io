@@ -2,47 +2,49 @@
 
 [Research Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations)
 
-Ph.D. Student in Computer Science studying Quantum Computing  
-Advisor: Scott Aaronson, Ph.D.  
-The University of Texas at Austin, USA
+Ph.D. Student in Computer Science  
+Quantum computing and theoretical computer science  
+Advised by Scott Aaronson  
 
-##### My CV: [Curriculum Vitae](./CV_JYirka.pdf)
+📢 Graduating in 2025. **Looking for post-graduation jobs / opportunities**.
 
-##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
+##### My CV: [Curriculum Vitae](./CV_JYirka.pdf) ⸻ My Resume: [Resume](./Resume_JYirka.pdf)  
+
+##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)  
 
 ##### Other profiles:
 
   - <img src="./logos/arxiv.jpg" width="16"> [arXiv](https://arxiv.org/a/yirka_j_1.html)
   - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/justinyirka/)
-  - <img src="./logos/github.png" width="16"> [GitHub](https://github.com/yirkajk)
   - <img src="./logos/googlescholar.png" width="16"> [Google Scholar](https://scholar.google.com/citations?user=UxIpR_UAAAAJ)
-
-**See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
 ***
 
 #### Research Interests
-Quantum computing: what can quantum computers do, what can't they do, and the structure that creates those differences.  
+Basically, I am interested in what can quantum computers do, what they cannot do, and the structure that creates those differences.
 
-I'm especially interested in quantum computational complexity, algorithms, and connections to applications.  
+My research focuses on quantum computation and theoretical computer science.
+This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms. See my publications below for details.
+
+📢 I plan to graduate in 2025 and I am looking for a new position outside of academia. I'm primarily looking for a position continuing in quantum computation. But I enjoy learning about other opportunities for people with strong quantitative backgrounds.  
+Please reach out if you're interested in my research or have a suggestion for post-graduation roles.
 
 ***
 
 #### Education
-**The University of Texas at Austin**  
-Ph.D. in Computer Science, 2019 - present  
-\-- Advisor: Scott Aaronson, Ph.D.  
+**Ph.D. in Computer Science** | The University of Texas at Austin (UT) | Expected 2025  
+Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
-M.S. in Computer Science, 2022
+**M.S. in Computer Science** | The University of Texas at Austin | 2022
 
-**Virginia Commonwealth University**, 2018 (Concurrent / Dual degrees)  
-B.S. in Computer Science  
-B.S. in Mathematical Sciences  
-\-- Minor in Physics    
+**B.S. in Computer Science**  | Virginia Commonwealth University (VCU) | 2018  
+**B.S. in Mathematical Sciences** | concurrent degrees  
 
 ***
 
 ### Research Papers
+Click on a paper to expand and see the abstract, publication history, and any relevant links.
+
 <details>
 <summary>
 S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
@@ -50,7 +52,7 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 </summary>
 <ul dir="auto">
 <li>In Proceedings of <em>39th Computational Complexity Conference (CCC)</em>, Ann Arbor, MI, USA, July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
-<li>Poster at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024.</li>
+<li>Poster at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024. Available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
 </ul>
 </details>
@@ -60,7 +62,7 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 <p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, March 2024.</p>
   </summary>
 <ul dir="auto">
-<li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, March 2024.</li>
+<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, March 2024.</li>
 </ul>
 </details>
 <details>
@@ -70,8 +72,10 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
   </summary>
 <ul dir="auto">
 <li>Contributed talk at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024.<br>
-Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>.</li>
+Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
+<li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</li>
+<li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
 </ul>
 </details>
 <details>
@@ -81,9 +85,9 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
   </summary>
 <ul dir="auto">
 <li><em>Quantum</em>, 5:535, 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
-<li>Contributed talk by J. Yirka at Conference for Young Quantum Information Scientists (YQIS), Virtual, 2021.</li>
+<li>Contributed talk by J. Yirka at Conference for Young Quantum Information Scientists (YQIS), Virtual, 2021. Slides <a href="./slides_and_posters/YS_YQIS2021_slides.pdf">here</a>.</li>
 <li>Contributed talk at APS March Meeting, Virtual, 2021.</li>
-<li>Contributed talk at 20th Asian Quantum Information Science Conference (AQIS), Virtual, 2020.  Video available <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
+<li>Contributed talk at 20th Asian Quantum Information Science Conference (AQIS), Virtual, 2020.  Video <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</li>
 </ul>
 </details>
@@ -95,11 +99,11 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <ul dir="auto">
 <li>In Proceedings of <em>37th Symposium on Theoretical Aspects of Computer Science (STACS)</em>, Montpellier, France, 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
 <li>Contributed talk at Conference on Quantum Information Processing (QIP), Shenzhen, China, 2020.<br>
-Video available <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">here</a>.</li>
+Video <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/GPY_QIP20_slides.pdf" rel="nofollow">here</a>.</li>
 <li>Poster at Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), College Park, MD, USA, 2019.</li>
 <li>Poster at Workshop on Quantum Computing Theory in Practice (QCTIP), Bristol, UK, 2019.</li>
-<li>Poster at Conference on Quantum Information Processing (QIP), Boulder, CO, USA, 2019.</li>
-<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018.</li>
+<li>Poster at Conference on Quantum Information Processing (QIP), Boulder, CO, USA, 2019. Available <a href="./slides_and_posters/GPY_QIP19_poster_final.pdf" rel="nofollow">here</a>.</li>
+<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018. Slides <a href="./slides_and_posters/GPY_AQIS18_slides.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</li>
 <li>Additional videos:<br>
 Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
@@ -126,7 +130,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <ul dir="auto">
 <li><em>Quantum</em>, 3:189, 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
 <li>In Proceedings of <em>12th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)</em>, Paris, France, 2017. <a href="https://doi.org/10.4230/LIPIcs.TQC.2017.2" rel="nofollow">doi:10.4230/LIPIcs.TQC.2017.2</a>.</li>
-<li>Poster at Conference on Quantum Information Processing (QIP). Seattle, USA, 2017.</li>
+<li>Poster at Conference on Quantum Information Processing (QIP). Seattle, USA, 2017. Available <a href="./slides_and_posters/GY_QIP2017_Poster_final.pdf" rel="nofollow">here</a></li>
 <li><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.</li>
 <li>Additional videos:<br>
 Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.youtube.com/watch?v=nCCVg4OOuYM" rel="nofollow">here</a>.</li>
@@ -143,150 +147,25 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 </ul>
 </details>
 
-
-<!--
-<details>
-<summary>
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
-
-[arXiv:2401.01453](https://arxiv.org/abs/2401.01453), January 2024.
-
-</summary>
-
-- To appear in Proceedings of *39th Computational Complexity Conference (CCC)*, Ann Arbor, MI, USA, July 2024.  
-- Poster at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024.  
-- [arXiv:2401.01453](https://arxiv.org/abs/2401.01453) and [ECCC:TR24-006](https://eccc.weizmann.ac.il/report/2024/006/), January 2024.  
-
-</details>
-
-<details>
-  <summary>
-  J. Yirka. Even quantum advice is unlikely to solve PP.  
-
-  [arXiv:2403.09994](https://arxiv.org/abs/2403.09994), March 2024.
-  </summary>
-
-  - [arXiv:2403.09994](https://arxiv.org/abs/2403.09994) and [ECCC:TR24-052](https://eccc.weizmann.ac.il/report/2024/052/), March 2024.  
-</details>
-
-<details>
-  <summary>
-  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.  
-
-  [arXiv:2401.06725](https://arxiv.org/abs/2401.06725), January 2024.  
-  </summary>
-
-  - Contributed talk at Conference on Quantum Information Processing (QIP), Taipei, Taiwan, January 2024.  
-  Video available [here](https://www.youtube.com/watch?v=k8Rsm4ihNlw).
-  - [arXiv:2401.06725](https://arxiv.org/abs/2401.06725), January 2024.  
-</details>
-
-<details>
-  <summary>
-  J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.  
-
-  [arXiv:2010.03080](https://arxiv.org/abs/2010.03080), 2020.
-  </summary>
-
-  - *Quantum*, 5:535, 2021. [doi:10.22331/q-2021-09-02-535](https://doi.org/10.22331/q-2021-09-02-535).  
-  - Contributed talk by J. Yirka at Conference for Young Quantum Information Scientists (YQIS), Virtual, 2021.     
-  - Contributed talk at APS March Meeting, Virtual, 2021.  
-  - Contributed talk at 20th Asian Quantum Information Science Conference (AQIS), Virtual, 2020.  Video available [here](https://youtu.be/J9AnuKkgrIk).  
-  - [arXiv:2010.03080](https://arxiv.org/abs/2010.03080), 2020.  
-</details>
-
-<details>
-  <summary>
-  S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
-
-  [arXiv:1909.05981](https://arxiv.org/abs/1909.05981), 2019.
-  </summary>  
-
-  - In Proceedings of *37th Symposium on Theoretical Aspects of Computer Science (STACS)*, Montpellier, France, 2020. [doi:10.4230/LIPIcs.STACS.2020.20](https://doi.org/10.4230/LIPIcs.STACS.2020.20).  
-  - Contributed talk at Conference on Quantum Information Processing (QIP), Shenzhen, China, 2020.  
-  Video available [here](https://www.koushare.com/video/videodetail/4234).   
-  - Poster at Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), College Park, MD, USA, 2019.  
-  - Poster at Workshop on Quantum Computing Theory in Practice (QCTIP), Bristol, UK, 2019.  
-  - Poster at Conference on Quantum Information Processing (QIP), Boulder, CO, USA, 2019.  
-  - Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018.  
-  - [arXiv:1909.05981](https://arxiv.org/abs/1909.05981), 2019.  
-  - Additional videos:  
-  Seminar by Sev in "Quantum computing in isolation" series available [here](https://www.youtube.com/watch?v=i8hLbBpS7Qk).  
-</details>
-
-<details>
-  <summary>
-  S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).  
-
-  [arXiv:1805.11139](https://arxiv.org/abs/1805.11139), 2018.
-  </summary>
-
-  - *Computational Complexity*, 31:12, 2022. [doi:10.1007/s00037-022-00231-8](https://doi.org/10.1007/s00037-022-00231-8).  
-  - Poster at Conference on Quantum Information Processing (QIP), Boulder, CO, USA, 2019.  
-  - Contributed talk at Asian Quantum Information Science Conference (AQIS), Nagoya, Japan, 2018. — “Long”/plenary talk: top 7% of submissions.  
-  - In Proceedings of *43rd Symposium on Mathematical Foundations of Computer Science (MFCS)*, Liverpool, UK, 2018. [doi:10.4230/LIPIcs.MFCS.2018.58](https://doi.org/10.4230/LIPIcs.MFCS.2018.58).  
-  - [arXiv:1805.11139](https://arxiv.org/abs/1805.11139), 2018.  
-</details>
-
-<details>
-  <summary>
-  S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.  
-
-  [arXiv:1606.05626](https://arxiv.org/abs/1606.05626), 2016.
-  </summary>
-
-  - *Quantum*, 3:189, 2019. [doi:10.22331/q-2019-09-30-189](https://doi.org/10.22331/q-2019-09-30-189).  
-  - In Proceedings of *12th Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC)*, Paris, France, 2017. [doi:10.4230/LIPIcs.TQC.2017.2](https://doi.org/10.4230/LIPIcs.TQC.2017.2).    
-  - Poster at Conference on Quantum Information Processing (QIP). Seattle, USA, 2017.  
-  - [arXiv:1606.05626](https://arxiv.org/abs/1606.05626), 2016.  
-  - Additional videos:  
-  Seminar by Sev at Leibniz Universität Hannover available [here](https://www.youtube.com/watch?v=nCCVg4OOuYM).  
-</details>  
-
-<details>
-  <summary>
-  J. Yirka. Evaluation of TCP header fields for data overhead efficiency.  
-
-  Poster, 2015.
-  </summary>
-
-  - Poster at National Conference on Undergraduate Research (NCUR), Asheville, NC, USA, 2016.  
-  - Poster at VCU Symposium for Undergraduate Research and Creativity, Richmond, VA, USA, 2015. — **Awarded "Launch Award for Outstanding Research Poster"**  
-</details>
-
--->
-
-
-### Research Experience
-  - **R&D Intern**  
-  Sandia National Laboratories  
-  Summer 2023 - present  
-  Supervisors: Ojas Parekh, Ph.D. and John Kallaugher, Ph.D.  
-  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum constrained optimization problems.  
-  - **Summer school / Research Assistant**  
-  Los Alamos National Laboratories (LANL) Quantum Computing Summer School  
-  Summer 2019  
-  Supervisor: Yigit Subasi, Ph.D.  
-  Topic: Near-term (NISQ) quantum algorithms. Studied use of qubit resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.    
-  - **Research Assistant**  
-  Graph Theory Computational Discovery Lab, VCU  
-  Summer 2018  
-  Supervisor: Craig Larson, Ph.D.  
-  Topic: Automated conjecturing and graph theory. Studied conditions for graph Hamiltonicity. Assisted with programming and open-source project management.
-  - **Undergraduate Researcher (NSF REU [C.A.A.R.](http://www.cs.umd.edu/projects/reucaar/))**  
-  Joint Center for Quantum Information and Computer Science (QuICS), University of Maryland  
-  Summer 2017  
-  Supervisor: Andrew Childs, Ph.D.  
-  Topic: Quantum tomography. Investigated minimum number of Pauli observables necessary to identify a quantum pure state.
-  - **Undergraduate Research Assistant**  
-  Quantum Computing Lab, VCU  
-  2015 - 2016  
-  Supervisor: Sevag Gharibian, Ph.D.  
-  Topic: Quantum computational complexity. Studied quantum oracle classes (e.g. P^QMA[log]) and complexity of local physical problems. Helped develop a "quantum PH" and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
-
-
-**See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
+### Research Positions
+  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
+  Advised by Ojas Parekh and John Kallaugher  
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut and Vector Max-Cut. Quantum constrained optimization problems.  
+  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
+  Advised by Yigit Subasi  
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width. Tested using Qiskit Python and Honeywell quantum hardware.  
+  - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
+  Supervisor: Craig Larson  
+  Topic: Automated conjecturing software applied to graph theory. Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.  
+  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017      
+  Advised by Andrew Childs, Jianxin Chen, and Amir Kalev    
+  Topic: Investigated minimum number of measurements for pure state quantum tomography.  
+  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
+  Advised by Sevag Gharibian, Ph.D.  
+  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. $P^{QMA[log]}$), quantum polynomial hierarchy and “quantum Toda’s Theorem” ($QCPH ⊆ P^{PP^{PP}}$).  
 
 ***
 
-*Last updated: September 20, 2023*
+**See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
+
+*Last updated: September 10, 2024*
