@@ -1,6 +1,6 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
-[Research Interests](#research-interests) / [Education](#education) / [Publications](#research-papers) / [Experience](#research-positions)
+[Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
 Ph.D. Student in Computer Science  
 Quantum computing and theoretical computer science  
@@ -32,13 +32,13 @@ Please reach out if you're interested in my research or have a suggestion for po
 ***
 
 #### Education
-**Ph.D. in Computer Science** | The University of Texas at Austin (UT) | Expected 2025  
+**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected 2025  
 Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
-**M.S. in Computer Science** | The University of Texas at Austin | 2022
+**M.S. in Computer Science** \| The University of Texas at Austin \| 2022  
 
-**B.S. in Computer Science**  | Virginia Commonwealth University (VCU) | 2018  
-**B.S. in Mathematical Sciences** | concurrent degrees  
+**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018  
+**B.S. in Mathematical Sciences** \| concurrent degrees  
 
 ***
 
@@ -147,7 +147,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 </ul>
 </details>
 
-### Research Positions
+### Research Experience
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
   Advised by Ojas Parekh and John Kallaugher  
   Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut and Vector Max-Cut. Quantum constrained optimization problems.  
