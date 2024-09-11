@@ -1,6 +1,6 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
 
-[Research Interests](#research-interests) / [Education](#education) / [Experience](#research-experience) / [Publications](#journal-publications) / [Presentations](#conference-presentations)
+[Research Interests](#research-interests) / [Education](#education) / [Publications](#research-papers) / [Experience](#research-positions)
 
 Ph.D. Student in Computer Science  
 Quantum computing and theoretical computer science  
