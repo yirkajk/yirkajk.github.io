@@ -21,12 +21,13 @@ Advised by Scott Aaronson
 ***
 
 #### Research Interests
-Basically, I am interested in what can quantum computers do, what they cannot do, and the structure that creates those differences.
+I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
 My research focuses on quantum computation and theoretical computer science.
-This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms. See my publications below for details.
+This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms.  
+See my publications below for details.
 
-📢 I plan to graduate in 2025 and I am looking for a new position outside of academia. I'm primarily looking for a position continuing in quantum computation. But I enjoy learning about other opportunities for people with strong quantitative backgrounds.  
+📢 I plan to graduate in 2025 and I am looking for a new position outside of academia. I'm primarily looking for a position continuing in quantum computation, but I'm happy to learn about other opportunities for people with strong quantitative backgrounds.  
 Please reach out if you're interested in my research or have a suggestion for post-graduation roles.
 
 ***
@@ -150,13 +151,15 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 ### Research Experience
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
   Advised by Ojas Parekh and John Kallaugher  
-  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut and Vector Max-Cut. Quantum constrained optimization problems.  
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.  
   - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
   Advised by Yigit Subasi  
-  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width. Tested using Qiskit Python and Honeywell quantum hardware.  
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.  
+  Implemented noisy simulations with Qiskit, Python, Unix, Jupyter. Managed project with git. Tested algorithms on Honeywell quantum hardware.  
   - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
   Supervisor: Craig Larson  
-  Topic: Automated conjecturing software applied to graph theory. Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.  
+  Topic: Automated conjecturing software applied to graph theory.  
+  Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.  
   - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017      
   Advised by Andrew Childs, Jianxin Chen, and Amir Kalev    
   Topic: Investigated minimum number of measurements for pure state quantum tomography.  
