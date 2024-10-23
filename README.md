@@ -2,7 +2,7 @@
 
 [Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
-Ph.D. Student in Computer Science  
+Ph.D. Candidate in Computer Science  
 Quantum computing and theoretical computer science  
 Advised by Scott Aaronson  
 
@@ -26,7 +26,9 @@ I am interested in what quantum computers can do, what they cannot do, and the s
 My research focuses on quantum computation and theoretical computer science
 This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms.
 
-📢 I plan to graduate in 2025 and I am looking for a new position outside of academia. I'm primarily looking for a position continuing in quantum computation, but I'm happy to learn about other opportunities for people with strong quantitative backgrounds.  
+📢 I plan to graduate in 2025 and I am looking for a new position outside of academia.  
+I am primarily seeking roles in quantum computation, though I'm open to learning about other opportunities for leveraging strong quantitative and problem-solving skills.  
+Please reach out if you're interested in my research or would like to learn more!  
 
 ***
 
