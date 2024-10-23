@@ -8,7 +8,7 @@ Advised by Scott Aaronson
 
 📢 Graduating in 2025. **Looking for post-graduation jobs / opportunities**.
 
-##### My CV: [Curriculum Vitae](./CV_JYirka.pdf) ⸻ My Resume: [Resume](./Resume_JYirka.pdf)  
+##### My CV: [Curriculum Vitae](./CV_JYirka.pdf) ⸻ My Resume: [Resume](./resume_quantumGeneral.pdf)  
 
 ##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)  
 
