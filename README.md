@@ -6,7 +6,7 @@ Ph.D. Student in Computer Science
 Quantum computing and theoretical computer science  
 Advised by Scott Aaronson  
 
-📢 Graduating in 2025. **Looking for post-graduation jobs / opportunities**.
+📢 Graduating in 2025. **Looking for an industry position**.
 
 ##### My CV: [Curriculum Vitae](./CV_JYirka.pdf) ⸻ My Resume: [Resume](./resume_quantumGeneral.pdf)  
 
@@ -23,12 +23,10 @@ Advised by Scott Aaronson
 #### Research Interests
 I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-My research focuses on quantum computation and theoretical computer science.
-This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms.  
-See my publications below for details.
+My research focuses on quantum computation and theoretical computer science
+This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms.
 
 📢 I plan to graduate in 2025 and I am looking for a new position outside of academia. I'm primarily looking for a position continuing in quantum computation, but I'm happy to learn about other opportunities for people with strong quantitative backgrounds.  
-Please reach out if you're interested in my research or have a suggestion for post-graduation roles.
 
 ***
 
@@ -44,7 +42,7 @@ Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 ***
 
 ### Research Papers
-Click on a paper to expand and see the abstract, publication history, and any relevant links.
+Click on a paper to expand and see the publication history and any relevant links.
 
 <details>
 <summary>
@@ -171,4 +169,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: September 10, 2024*
+*Last updated: October 23, 2024*
