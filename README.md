@@ -49,7 +49,7 @@ Click on a paper to expand and see the publication history and any relevant link
 <details>
 <summary>
 S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
-<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, January 2024.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, January 2024. <i>CCC</i>.</p>
 </summary>
 <ul dir="auto">
 <li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
@@ -69,7 +69,7 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 <details>
   <summary>
   J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.  
-<p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. <i>QIP</i> and <i>ITCS</i>.</p>
   </summary>
 <ul dir="auto">
 <li>Innovations in Theoretical Computer Science (ITCS), January 2025.</li>
@@ -83,7 +83,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <details>
   <summary>
   J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.  
-<p dir="auto"><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020. <i>Quantum</i>.</p>
   </summary>
 <ul dir="auto">
 <li><em>Quantum</em>, 5:535, 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
@@ -96,7 +96,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <details>
   <summary>
   S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
-<p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019. <i>QIP</i> and <i>STACS</i>.</p>
   </summary>  
 <ul dir="auto">
 <li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
@@ -114,7 +114,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <details>
   <summary>
   S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).  
-<p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i>.</p>
   </summary>
 <ul dir="auto">
 <li><em>Computational Complexity</em>, 31:12, 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
@@ -127,7 +127,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <details>
   <summary>
   S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.  
-<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>TQC</i> and <i>Quantum</i>.</p>
   </summary>
 <ul dir="auto">
 <li><em>Quantum</em>, 3:189, 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
