@@ -72,7 +72,8 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 <p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. <i>QIP</i> and <i>ITCS</i>.</p>
   </summary>
 <ul dir="auto">
-<li>Innovations in Theoretical Computer Science (ITCS), January 2025.</li>
+<li>Innovations in Theoretical Computer Science (ITCS), January 2025.<br>
+Video available <a href="https://www.youtube.com/watch?v=xvb5q37X7cI" rel="nofollow">here</a>.</li>
 <li>Conference on Quantum Information Processing (QIP), January 2024.<br>
 Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
 <li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
