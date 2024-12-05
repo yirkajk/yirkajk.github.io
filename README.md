@@ -17,7 +17,7 @@ Advised by Scott Aaronson
   - <img src="./logos/arxiv.jpg" width="16"> [arXiv](https://arxiv.org/a/yirka_j_1.html)
   - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/justinyirka/)
   - <img src="./logos/googlescholar.png" width="16"> [Google Scholar](https://scholar.google.com/citations?user=UxIpR_UAAAAJ)  
-  - <img src="./logos/youtube.png" width="16" [YouTube](https://www.youtube.com/@JustinYirka/playlists)  
+  - <img src="./logos/youtube.png" width="16"> [YouTube](https://www.youtube.com/@JustinYirka/playlists)  
 
 ***
 
