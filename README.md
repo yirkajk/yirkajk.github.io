@@ -4,7 +4,7 @@
 
 Ph.D. Candidate in Computer Science  
 Quantum computing and theoretical computer science  
-Advised by Scott Aaronson  
+Advised by Scott Aaronson at UT Austin
 
 📢 Graduating in 2025. **Looking for an industry position**.
 
@@ -22,13 +22,14 @@ Advised by Scott Aaronson
 ***
 
 #### Research Interests
-I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
+My research focuses on quantum computation and theoretical computer science. Some particular areas I am interested in are complexity theory, Hamiltonian complexity, and quantum algorithms.  
+In other words, I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-My research focuses on quantum computation and theoretical computer science
-This includes computational complexity theory, Hamiltonian complexity, and quantum algorithms.
 
 📢 I plan to graduate in 2025 and I am looking for a new position outside of academia.  
-I am primarily seeking roles in quantum computation, though I'm open to learning about other opportunities for leveraging strong quantitative and problem-solving skills.  
+I am primarily seeking roles in quantum computation, though I am open to learning about other opportunities for leveraging strong quantitative and problem-solving skills.  
+My one-sentence summary: 10+ years in quantum computing, 7+ publications, 20+ presentations, 2 National Labs, 3 universities, 11+ co-authors, and 8+ semesters teaching.  
+
 Please reach out if you're interested in my research or would like to learn more!  
 
 ***
@@ -46,6 +47,9 @@ Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
 ### Research Papers
 Click on a paper to expand and see the publication history and any relevant links.
+
+There are 2 to 3 projects I expect to add to this list by mid-2025 (when I graduate).
+I'm happy to discuss ongoing projects one-on-one.  
 
 <details>
 <summary>
