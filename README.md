@@ -8,7 +8,7 @@ Advised by Scott Aaronson at UT Austin
 
 📢 Graduating in 2025. **Looking for an industry position**.
 
-##### My CV: [Curriculum Vitae](./CV_JYirka.pdf) ⸻ My Resume: [Resume](./resume_quantumGeneral.pdf)  
+##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JYirka_quantumGeneral.pdf) ⸻ [General Quantitative Resume](./resume_JYirka_general.pdf) 
 
 ##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)  
 
