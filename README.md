@@ -134,7 +134,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <details>
   <summary>
   S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.  
-<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and <i>TQC</i> 2017.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and TQC 2017.</p>
   </summary>
 <ul dir="auto">
 <li><em>Quantum</em>, 3:189, 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
