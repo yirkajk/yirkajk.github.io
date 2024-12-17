@@ -23,8 +23,10 @@ Advised by Scott Aaronson at UT Austin
 
 #### Research Interests
 My research focuses on quantum computation and theoretical computer science. Some particular areas I am interested in are complexity theory, Hamiltonian complexity, and quantum algorithms.    
-In other words, I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
+In other words, I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.  
+My work involves carefully formalizing computational resources and tasks as mathematical models. In the case of quantum computation, this involves the principles of quantum physics. Often, I develop or extend computational constructions, reductions, and algorithms. Analyzing these employs linear algebra, complex analysis, probability, game theory, algorithms, and modern techniques of theoretical computer science.  
+Much of my work has focused on studying computational tasks which compute properties of physical systems in low-energy states, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum speed-ups.  
 
 📢 I plan to graduate in 2025 and I am looking for a new position outside of academia.  
 My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with additional experience communicating and collaborating.  
