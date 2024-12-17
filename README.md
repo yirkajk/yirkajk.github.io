@@ -22,15 +22,14 @@ Advised by Scott Aaronson at UT Austin
 ***
 
 #### Research Interests
-My research focuses on quantum computation and theoretical computer science. Some particular areas I am interested in are complexity theory, Hamiltonian complexity, and quantum algorithms.  
+My research focuses on quantum computation and theoretical computer science. Some particular areas I am interested in are complexity theory, Hamiltonian complexity, and quantum algorithms.    
 In other words, I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
 
 📢 I plan to graduate in 2025 and I am looking for a new position outside of academia.  
-I am primarily seeking roles in quantum computation, though I am open to learning about other opportunities for leveraging strong quantitative and problem-solving skills.  
-My one-sentence summary: 10+ years in quantum computing, 7+ publications, 20+ presentations, 2 National Labs, 3 universities, 11+ co-authors, and 8+ semesters teaching.  
+My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with additional experience communicating and collaborating.  
 
-Please reach out if you're interested in my research or would like to learn more!  
+Please reach out if you're interested in my research or would like to discuss future opportunities!  
 
 ***
 
@@ -41,7 +40,7 @@ Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 **M.S. in Computer Science** \| The University of Texas at Austin \| 2022  
 
 **B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018  
-**B.S. in Mathematical Sciences** \| concurrent degrees  
+**B.S. in Mathematical Sciences**
 
 ***
 
@@ -52,17 +51,6 @@ There are 2 to 3 projects I expect to add to this list by mid-2025 (when I gradu
 I'm happy to discuss ongoing projects one-on-one.  
 
 <details>
-<summary>
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
-<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, January 2024. <i>CCC</i>.</p>
-</summary>
-<ul dir="auto">
-<li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
-<li>Poster at Conference on Quantum Information Processing (QIP), January 2024. Available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
-<li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
-</ul>
-</details>
-<details>
   <summary>
   J. Yirka. Even quantum advice is unlikely to solve PP.  
 <p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, March 2024.</p>
@@ -72,9 +60,20 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 </ul>
 </details>
 <details>
+<summary>
+S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
+<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, January 2024. <i>CCC</i> 2024.</p>
+</summary>
+<ul dir="auto">
+<li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
+<li>Poster at Conference on Quantum Information Processing (QIP), January 2024. Available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
+<li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
+</ul>
+</details>
+<details>
   <summary>
   J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.  
-<p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. <i>QIP</i> and <i>ITCS</i>.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. QIP 2024 and <i>ITCS</i> 2025.</p>
   </summary>
 <ul dir="auto">
 <li>Innovations in Theoretical Computer Science (ITCS), January 2025.<br>
@@ -102,7 +101,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <details>
   <summary>
   S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
-<p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019. <i>QIP</i> and <i>STACS</i>.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019. QIP 2020 and <i>STACS</i> 2020.</p>
   </summary>  
 <ul dir="auto">
 <li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
@@ -120,7 +119,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <details>
   <summary>
   S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).  
-<p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i>.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i> and <i>MFCS</i> 2018.</p>
   </summary>
 <ul dir="auto">
 <li><em>Computational Complexity</em>, 31:12, 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
@@ -133,7 +132,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <details>
   <summary>
   S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.  
-<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>TQC</i> and <i>Quantum</i>.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and <i>TQC</i> 2017.</p>
   </summary>
 <ul dir="auto">
 <li><em>Quantum</em>, 3:189, 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
@@ -147,7 +146,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 <details>
   <summary>
   J. Yirka. Evaluation of TCP header fields for data overhead efficiency.  
-<p dir="auto">Poster, 2015.</p>
+<p dir="auto">Poster only, 2015.</p>
   </summary>
 <ul dir="auto">
 <li>Poster at National Conference on Undergraduate Research (NCUR), 2016.</li>
@@ -178,4 +177,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: October 23, 2024*
+*Last updated: December 17, 2024*
