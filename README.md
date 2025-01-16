@@ -8,7 +8,7 @@ Advised by Scott Aaronson at UT Austin
 
 📢 Graduating in 2025. **Looking for an industry position**.
 
-##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JYirka_quantumGeneral.pdf) ⸻ [General Quantitative Resume](./resume_JYirka_general.pdf) 
+##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JYirka_quantumGeneral.pdf) ⸻ [General Quantitative Resume](./resume_JYirka_general.pdf)
 
 ##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)  
 
@@ -22,14 +22,15 @@ Advised by Scott Aaronson at UT Austin
 ***
 
 #### Research Interests
-My research focuses on quantum computation and theoretical computer science. Some particular areas I am interested in are complexity theory, Hamiltonian complexity, and quantum algorithms.    
+My research focuses on quantum computation and theoretical computer science.  
+Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
+Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups compared to classical algorithms.  
+My PhD dissertation (in preparation) focuses on my contributions developing new areas of complexity theory (QPH, Hamiltonian problems beyond ground state energy, ...) and new quantum algorithms.  
 
-In other words, I am interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.  
-My work involves carefully formalizing computational resources and tasks as mathematical models. In the case of quantum computation, this involves the principles of quantum physics. Often, I develop or extend computational constructions, reductions, and algorithms. Analyzing these employs linear algebra, complex analysis, probability, game theory, algorithms, and modern techniques of theoretical computer science.  
-Much of my work has focused on studying computational tasks which compute properties of physical systems in low-energy states, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum speed-ups.  
+In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.  
 
-📢 I plan to graduate in 2025 and I am looking for a new position outside of academia.  
-My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with additional experience communicating and collaborating.  
+📢 I plan to graduate in 2025 and am looking for a new position outside of academia.  
+My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with demonstrated experience identifying research questions and leading projects.  
 
 Please reach out if you're interested in my research or would like to discuss future opportunities!  
 
