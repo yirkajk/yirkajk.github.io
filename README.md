@@ -161,7 +161,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 <details>
   <summary>
   J. Yirka. Evaluation of TCP header fields for data overhead efficiency.  
-  <p dir="auto">Poster only, 2015.</p>
+  <p dir="auto">2015. Poster only.</p>
   </summary>
   <ul dir="auto">
   <li><strong>Awarded "Launch Award for Outstanding Research Poster"</strong> at VCU Symposium for Undergraduate Research and Creativity, 2015.</li>
