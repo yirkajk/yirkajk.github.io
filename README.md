@@ -1,48 +1,48 @@
-# <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka  
+# <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka
 
 [Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
-Ph.D. Candidate in Computer Science  
-Quantum computing and theoretical computer science  
+Ph.D. Candidate in Computer Science
+Quantum computing and theoretical computer science
 Advised by Scott Aaronson at UT Austin
 
 📢 Graduating in 2025. **Looking for an industry position**.
 
 ##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JYirka_quantumGeneral.pdf) ⸻ [General Quantitative Resume](./resume_JYirka_general.pdf)
 
-##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)  
+##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
 
 ##### Other profiles:
 
   - <img src="./logos/arxiv.jpg" width="16"> [arXiv](https://arxiv.org/a/yirka_j_1.html)
   - <img src="./logos/linkedin.png" width="16"> [LinkedIn](https://www.linkedin.com/in/justinyirka/)
-  - <img src="./logos/googlescholar.png" width="16"> [Google Scholar](https://scholar.google.com/citations?user=UxIpR_UAAAAJ)  
-  - <img src="./logos/youtube.png" width="16"> [YouTube](https://www.youtube.com/@JustinYirka/playlists)  
+  - <img src="./logos/googlescholar.png" width="16"> [Google Scholar](https://scholar.google.com/citations?user=UxIpR_UAAAAJ)
+  - <img src="./logos/youtube.png" width="16"> [YouTube](https://www.youtube.com/@JustinYirka/playlists)
 
 ***
 
 #### Research Interests
-My research focuses on quantum computation and theoretical computer science.  
-Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
-Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups compared to classical algorithms.  
-My PhD dissertation (in preparation) focuses on my contributions developing new areas of complexity theory (QPH, Hamiltonian problems beyond ground state energy, ...) and new quantum algorithms.  
+My research focuses on quantum computation and theoretical computer science.
+Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.
+Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups compared to classical algorithms.
+My PhD dissertation (in preparation) focuses on my contributions developing new areas of complexity theory (QPH, Hamiltonian problems beyond ground state energy, ...) and new quantum algorithms.
 
-In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.  
+In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-📢 I plan to graduate in 2025 and am looking for a new position outside of academia.  
-My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with demonstrated experience identifying research questions and leading projects.  
+📢 I plan to graduate in 2025 and am looking for a new position outside of academia.
+My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with demonstrated experience identifying research questions and leading projects.
 
-Please reach out if you're interested in my research or would like to discuss future opportunities!  
+Please reach out if you're interested in my research or would like to discuss future opportunities!
 
 ***
 
 #### Education
-**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected 2025  
+**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected 2025
 Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
-**M.S. in Computer Science** \| The University of Texas at Austin \| 2022  
+**M.S. in Computer Science** \| The University of Texas at Austin \| 2022
 
-**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018  
+**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018
 **B.S. in Mathematical Sciences**
 
 ***
@@ -50,22 +50,31 @@ Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 ### Research Papers
 Click on a paper to expand and see the publication history and any relevant links.
 
-There are 2 to 3 projects I expect to add to this list by mid-2025 (when I graduate).
-I'm happy to discuss ongoing projects one-on-one.  
+There are 1 to 2 projects I expect to add to this list by mid-2025 (when I graduate).
+I'm happy to discuss ongoing projects one-on-one.
 
 <details>
+<summary>
+J. Yirka. A Note on the Complexity of the Spectral Gap Problem.
+<p dir="auto"><a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</p>
+</summary>
+<ul dir="auto">
+<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, March 2025.</li>
+</ul>
+</details>
+<details>
   <summary>
-  J. Yirka. Even quantum advice is unlikely to solve PP.  
-<p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, March 2024.</p>
+  J. Yirka. Even quantum advice is unlikely to solve PP.
+<p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024.</p>
   </summary>
 <ul dir="auto">
-<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, March 2024.</li>
+<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
 </ul>
 </details>
 <details>
 <summary>
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.  
-<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, January 2024. <i>CCC</i> 2024.</p>
+S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
+<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, 2024. <i>CCC</i> 2024.</p>
 </summary>
 <ul dir="auto">
 <li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
@@ -75,13 +84,13 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 </details>
 <details>
   <summary>
-  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.  
+  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.
 <p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. QIP 2024 and <i>ITCS</i> 2025.</p>
   </summary>
 <ul dir="auto">
 <li>Innovations in Theoretical Computer Science (ITCS), January 2025. <a href="https://doi.org/10.4230/LIPIcs.ITCS.2025.63" rel="nofollow">doi:10.4230/LIPIcs.ITCS.2025.63</a>.<br>
 Video available <a href="https://www.youtube.com/watch?v=xvb5q37X7cI" rel="nofollow">here</a>.</li>
-<li>Conference on Quantum Information Processing (QIP), January 2024.<br>
+<li>Conference on Quantum Information Processing (QIP), 2024.<br>
 Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</li>
 <li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
@@ -90,7 +99,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 </details>
 <details>
   <summary>
-  J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.  
+  J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
 <p dir="auto"><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020. <i>Quantum</i>.</p>
   </summary>
 <ul dir="auto">
@@ -105,7 +114,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
   <summary>
   S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
 <p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019. QIP 2020 and <i>STACS</i> 2020.</p>
-  </summary>  
+  </summary>
 <ul dir="auto">
 <li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
 <li>Conference on Quantum Information Processing (QIP),  2020.<br>
@@ -119,7 +128,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 </details>
 <details>
   <summary>
-  S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).  
+  S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
 <p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i> and <i>MFCS</i> 2018.</p>
   </summary>
 <ul dir="auto">
@@ -131,7 +140,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 </details>
 <details>
   <summary>
-  S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.  
+  S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.
 <p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and TQC 2017.</p>
   </summary>
 <ul dir="auto">
@@ -160,7 +169,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 <details>
   <summary>
-  J. Yirka. Evaluation of TCP header fields for data overhead efficiency.  
+  J. Yirka. Evaluation of TCP header fields for data overhead efficiency.
   <p dir="auto">2015. Poster only.</p>
   </summary>
   <ul dir="auto">
@@ -169,26 +178,26 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 </details>
 
 ### Research Experience
-  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
-  Advised by Ojas Parekh and John Kallaugher  
-  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.  
-  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
-  Advised by Yigit Subasi  
-  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.  
-  Implemented noisy simulations with Qiskit, Python, Unix, Jupyter. Managed project with git. Tested algorithms on Honeywell quantum hardware.  
-  - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
-  Supervisor: Craig Larson  
-  Topic: Automated conjecturing software applied to graph theory.  
-  Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.  
-  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017      
-  Advised by Andrew Childs, Jianxin Chen, and Amir Kalev    
-  Topic: Investigated minimum number of measurements for pure state quantum tomography.  
-  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
-  Advised by Sevag Gharibian, Ph.D.  
-  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).  
+  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present
+  Advised by Ojas Parekh and John Kallaugher
+  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.
+  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019
+  Advised by Yigit Subasi
+  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.
+  Implemented noisy simulations with Qiskit, Python, Unix, Jupyter. Managed project with git. Tested algorithms on Honeywell quantum hardware.
+  - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018
+  Supervisor: Craig Larson
+  Topic: Automated conjecturing software applied to graph theory.
+  Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.
+  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017
+  Advised by Andrew Childs, Jianxin Chen, and Amir Kalev
+  Topic: Investigated minimum number of measurements for pure state quantum tomography.
+  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016
+  Advised by Sevag Gharibian, Ph.D.
+  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 ***
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: January 25, 2025*
+*Last updated: March 4, 2025*
