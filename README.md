@@ -2,13 +2,13 @@
 
 [Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
-Ph.D. Candidate in Computer Science
+PhD Candidate in Computer Science
 Quantum computing and theoretical computer science
 Advised by Scott Aaronson at UT Austin
 
-📢 Graduating in 2025. **Looking for an industry position**.
+📢 Graduating in May 2025. **Looking for an industry position**.
 
-##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JYirka_quantumGeneral.pdf) ⸻ [General Quantitative Resume](./resume_JYirka_general.pdf)
+##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JustinYirka_quantum.pdf)
 
 ##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
 
@@ -25,33 +25,29 @@ Advised by Scott Aaronson at UT Austin
 My research focuses on quantum computation and theoretical computer science.
 Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.
 Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups compared to classical algorithms.
-My PhD dissertation (in preparation) focuses on my contributions developing new areas of complexity theory (QPH, Hamiltonian problems beyond ground state energy, ...) and new quantum algorithms.
 
 In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-📢 I plan to graduate in 2025 and am looking for a new position outside of academia.
-My one-sentence summary: 10+ years in quantum computing, 7+ publications including *QIP/TQC/CCC*, 20+ presentations, 2 National Labs, and 8+ semesters teaching with demonstrated experience identifying research questions and leading projects.
+📢 I plan to graduate in May 2025 and am looking for a new position outside of academia.  
+In the next stage of my career, I'm excited about roles with new problems to solve. While I'm open to roles in quantum computing, I am also open to opportunities in other fields where my skills and experience can make an impact.
 
 Please reach out if you're interested in my research or would like to discuss future opportunities!
 
 ***
 
 #### Education
-**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected 2025
+**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected May 2025  
 Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
 **M.S. in Computer Science** \| The University of Texas at Austin \| 2022
 
 **B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018
-**B.S. in Mathematical Sciences**
+**B.S. in Mathematical Sciences**  
 
 ***
 
 ### Research Papers
 Click on a paper to expand and see the publication history and any relevant links.
-
-There are 1 to 2 projects I expect to add to this list by mid-2025 (when I graduate).
-I'm happy to discuss ongoing projects one-on-one.
 
 <details>
 <summary>
@@ -119,7 +115,8 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
 <li>Conference on Quantum Information Processing (QIP),  2020.<br>
 Video <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/GPY_QIP20_slides.pdf" rel="nofollow">here</a>.</li>
-<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), 2018. Slides <a href="./slides_and_posters/GPY18_AQIS_slides.pdf" rel="nofollow">here</a>.</li>
+<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), 2018.<br>
+Slides <a href="./slides_and_posters/GPY18_AQIS_slides.pdf" rel="nofollow">here</a>.</li>
 <li><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</li>
 <li>Poster available <a href="./slides_and_posters/GPY_QIP19_poster_final.pdf" rel="nofollow">here</a>.</li>
 <li>Additional videos:<br>
@@ -133,7 +130,8 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
   </summary>
 <ul dir="auto">
 <li><em>Computational Complexity</em>, 31:12, 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
-<li>Asian Quantum Information Science Conference (AQIS),  2018. — “Long”/plenary talk: top 7% of submissions.</li>
+<li>Asian Quantum Information Science Conference (AQIS),  2018.<br>
+“Long”/plenary talk: top 7% of submissions.</li>
 <li>Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2018.58" rel="nofollow">doi:10.4230/LIPIcs.MFCS.2018.58</a>.</li>
 <li><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</li>
 </ul>
@@ -178,26 +176,26 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 </details>
 
 ### Research Experience
-  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present
-  Advised by Ojas Parekh and John Kallaugher
+  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
+  Advised by Ojas Parekh and John Kallaugher  
   Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.
-  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019
-  Advised by Yigit Subasi
+  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
+  Advised by Yigit Subasi  
   Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.
   Implemented noisy simulations with Qiskit, Python, Unix, Jupyter. Managed project with git. Tested algorithms on Honeywell quantum hardware.
-  - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018
-  Supervisor: Craig Larson
-  Topic: Automated conjecturing software applied to graph theory.
+  - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
+  Supervisor: Craig Larson  
+  Topic: Automated conjecturing software applied to graph theory.  
   Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.
-  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017
-  Advised by Andrew Childs, Jianxin Chen, and Amir Kalev
-  Topic: Investigated minimum number of measurements for pure state quantum tomography.
-  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016
-  Advised by Sevag Gharibian, Ph.D.
+  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017  
+  Advised by Andrew Childs, Jianxin Chen, and Amir Kalev  
+  Topic: Investigated minimum number of measurements for pure-state quantum tomography.
+  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
+  Advised by Sevag Gharibian, Ph.D.  
   Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 ***
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: March 4, 2025*
+*Last updated: March 29, 2025*
