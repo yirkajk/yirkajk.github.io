@@ -4,7 +4,7 @@
 
 PhD Candidate in Computer Science  
 Quantum computing and theoretical computer science  
-Advised by Scott Aaronson  
+Advised by [Scott Aaronson](https://www.scottaaronson.com/)  
 The University of Texas at Austin
 
 📢 Graduating in May 2025. **Looking for an industry position**.
