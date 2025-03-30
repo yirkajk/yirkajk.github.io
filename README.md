@@ -9,7 +9,7 @@ The University of Texas at Austin
 
 📢 Graduating in May 2025. **Looking for an industry position**.
 
-##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Quantum Resume](./resume_JustinYirka_quantum.pdf)
+##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
 
 ##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
 
