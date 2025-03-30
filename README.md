@@ -2,9 +2,10 @@
 
 [Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
-PhD Candidate in Computer Science
-Quantum computing and theoretical computer science
-Advised by Scott Aaronson at UT Austin
+PhD Candidate in Computer Science  
+Quantum computing and theoretical computer science  
+Advised by Scott Aaronson  
+The University of Texas at Austin
 
 📢 Graduating in May 2025. **Looking for an industry position**.
 
@@ -22,14 +23,14 @@ Advised by Scott Aaronson at UT Austin
 ***
 
 #### Research Interests
-My research focuses on quantum computation and theoretical computer science.
-Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.
-Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups compared to classical algorithms.
+My research has focused on quantum computation and theoretical computer science.  
+Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
+Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups to changes in the query model.
 
 In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
 📢 I plan to graduate in May 2025 and am looking for a new position outside of academia.  
-In the next stage of my career, I'm excited about roles with new problems to solve. While I'm open to roles in quantum computing, I am also open to opportunities in other fields where my skills and experience can make an impact.
+While I'm open to roles in quantum computing, I am also open to opportunities in other fields where my skills and experience can make an impact.
 
 Please reach out if you're interested in my research or would like to discuss future opportunities!
 
@@ -41,7 +42,7 @@ Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
 **M.S. in Computer Science** \| The University of Texas at Austin \| 2022
 
-**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018
+**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018  
 **B.S. in Mathematical Sciences**  
 
 ***
