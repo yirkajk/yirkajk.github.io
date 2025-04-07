@@ -52,11 +52,20 @@ Click on a paper to expand and see the publication history and any relevant link
 
 <details>
 <summary>
-J. Yirka. A Note on the Complexity of the Spectral Gap Problem.
+B. Holman, R. Ramachandran, and J. Yirka. Quantum search with in-place queries.
+<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</p>
+</summary>
+<ul dir="auto">
+<li>Preprint <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
+</ul>
+</details>
+<details>
+<summary>
+J. Yirka. A note on the complexity of the spectral gap problem.
 <p dir="auto"><a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</p>
 </summary>
 <ul dir="auto">
-<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, March 2025.</li>
+<li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</li>
 </ul>
 </details>
 <details>
@@ -70,7 +79,7 @@ J. Yirka. A Note on the Complexity of the Spectral Gap Problem.
 </details>
 <details>
 <summary>
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
+S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy collapses.
 <p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, 2024. <i>CCC</i> 2024.</p>
 </summary>
 <ul dir="auto">
@@ -81,7 +90,7 @@ S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy Collapses.
 </details>
 <details>
   <summary>
-  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity Classification of Product State Problems for Local Hamiltonians.
+  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity classification of product state problems for local Hamiltonians.
 <p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. QIP 2024 and <i>ITCS</i> 2025.</p>
   </summary>
 <ul dir="auto">
@@ -199,4 +208,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: March 29, 2025*
+*Last updated: April 6, 2025*
