@@ -53,9 +53,10 @@ Click on a paper to expand and see the publication history and any relevant link
 <details>
 <summary>
 B. Holman, R. Ramachandran, and J. Yirka. Quantum search with in-place queries.
-<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025. <i>TQC</i> 2025.</p>
 </summary>
 <ul dir="auto">
+<li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025.</li>
 <li>Preprint <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
 </ul>
 </details>
@@ -208,4 +209,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: April 6, 2025*
+*Last updated: April 28, 2025*
