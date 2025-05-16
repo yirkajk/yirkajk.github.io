@@ -2,12 +2,10 @@
 
 [Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
 
-PhD Candidate in Computer Science  
+Ph.D. in Computer Science    
 Quantum computing and theoretical computer science  
-Advised by [Scott Aaronson](https://www.scottaaronson.com/)  
-The University of Texas at Austin
 
-📢 Graduating in May 2025. **Looking for an industry position**.
+📢 **Looking for an industry position**.
 
 ##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
 
@@ -29,7 +27,7 @@ Some of my work has focused on the difficulty of computing properties in low-ene
 
 In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-📢 I plan to graduate in May 2025 and am looking for a new position outside of academia.  
+📢 I recently graduated and am looking for a new position outside of academia.  
 While I'm open to roles in quantum computing, I am also open to opportunities in other fields where my skills and experience can make an impact.
 
 Please reach out if you're interested in my research or would like to discuss future opportunities!
@@ -37,7 +35,7 @@ Please reach out if you're interested in my research or would like to discuss fu
 ***
 
 #### Education
-**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| Expected May 2025  
+**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| May 2025  
 Advised by [Scott Aaronson](https://www.scottaaronson.com/).
 
 **M.S. in Computer Science** \| The University of Texas at Austin \| 2022
@@ -187,7 +185,7 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 </details>
 
 ### Research Experience
-  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - present  
+  - **R&D Intern** | Sandia National Laboratories | Summer 2023 - May 2025  
   Advised by Ojas Parekh and John Kallaugher  
   Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.
   - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
