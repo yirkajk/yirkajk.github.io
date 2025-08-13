@@ -1,15 +1,14 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka
 
-[Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#research-experience)
+[Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#experience)
 
+Quantum Computing Consultant at [Blanqet](https://blanqet.net/)    
 Ph.D. in Computer Science    
-Quantum computing and theoretical computer science  
-
-📢 **Looking for an industry position**.
+Quantum computing, Complexity, Algorithms, and Applications    
 
 ##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
 
-##### Contact: [yirka@utexas.edu](mailto:yirka@utexas.edu)
+##### Contact: [JustinYirka@gmail.com](mailto:justinyirka@gmail.com)
 
 ##### Other profiles:
 
@@ -23,14 +22,11 @@ Quantum computing and theoretical computer science
 #### Research Interests
 My research has focused on quantum computation and theoretical computer science.  
 Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
-Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups to changes in the query model.
-
+Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups to changes in the query model.  
 In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-📢 I recently graduated and am looking for a new position outside of academia.  
-While I'm open to roles in quantum computing, I am also open to opportunities in other fields where my skills and experience can make an impact.
-
-Please reach out if you're interested in my research or would like to discuss future opportunities!
+After earning my Ph.D., I am now working as a Quantum Computing Consultant at [Blanqet](https://blanqet.net/), a young startup founded by an amazing group of professors. To name a few team members: Bill Fefferman, Sean Hallgren, Liang Jiang, Yevgeniy Dodis, and my Ph.D. advisor Scott Aaronson.  
+I look forward to sharing more details when able.  
 
 ***
 
@@ -184,7 +180,9 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
   </ul>
 </details>
 
-### Research Experience
+### Experience
+  - **Quantum Computing Consultant** | Blanqet | August 2025 - Present    
+  Researcher and consultant for a new startup focused on quantum computing applications.  
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - May 2025  
   Advised by Ojas Parekh and John Kallaugher  
   Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.
