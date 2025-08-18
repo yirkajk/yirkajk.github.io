@@ -32,7 +32,8 @@ I look forward to sharing more details when able.
 
 #### Education
 **Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| May 2025  
-Advised by [Scott Aaronson](https://www.scottaaronson.com/).
+Advised by [Scott Aaronson](https://www.scottaaronson.com/).  
+Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157).  
 
 **M.S. in Computer Science** \| The University of Texas at Austin \| 2022
 
