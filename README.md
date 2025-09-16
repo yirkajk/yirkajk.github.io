@@ -51,8 +51,8 @@ B. Holman, R. Ramachandran, and J. Yirka. Quantum search with in-place queries.
 <p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025. <i>TQC</i> 2025.</p>
 </summary>
 <ul dir="auto">
-<li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025.</li>
-<li>Preprint <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
+<li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.</li>
+<li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
 </ul>
 </details>
 <details>
