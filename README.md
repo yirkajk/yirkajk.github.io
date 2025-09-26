@@ -206,4 +206,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: April 28, 2025*
+*Last updated: September 16, 2025*
