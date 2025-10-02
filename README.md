@@ -70,7 +70,7 @@ J. Yirka. A note on the complexity of the spectral gap problem.
 <p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024. <i>Theory of Computing</i>.</p>
   </summary>
 <ul dir="auto">
-<li><em>Theory of Computing</em>, 21:7, 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
+<li><em>Theory of Computing</em>, 21(7), 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
 <li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
 </ul>
 </details>
@@ -106,7 +106,7 @@ Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofol
 <p dir="auto"><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020. <i>Quantum</i>.</p>
   </summary>
 <ul dir="auto">
-<li><em>Quantum</em>, 5:535, 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
+<li><em>Quantum</em>, 5(535), 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
 <li>Conference for Young Quantum Information Scientists (YQIS), 2021. Slides <a href="./slides_and_posters/YS_YQIS2021_slides.pdf">here</a>.</li>
 <li>APS March Meeting, 2021.</li>
 <li>Asian Quantum Information Science Conference (AQIS), 2020.  Video <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
@@ -136,7 +136,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i> and <i>MFCS</i> 2018.</p>
   </summary>
 <ul dir="auto">
-<li><em>Computational Complexity</em>, 31:12, 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
+<li><em>Computational Complexity</em>, 31(12), 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
 <li>Asian Quantum Information Science Conference (AQIS),  2018.<br>
 “Long”/plenary talk: top 7% of submissions.</li>
 <li>Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2018.58" rel="nofollow">doi:10.4230/LIPIcs.MFCS.2018.58</a>.</li>
@@ -149,7 +149,7 @@ Seminar by Sev in "Quantum computing in isolation" series available <a href="htt
 <p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and TQC 2017.</p>
   </summary>
 <ul dir="auto">
-<li><em>Quantum</em>, 3:189, 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
+<li><em>Quantum</em>, 3(189), 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
 <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), 2017. <a href="https://doi.org/10.4230/LIPIcs.TQC.2017.2" rel="nofollow">doi:10.4230/LIPIcs.TQC.2017.2</a>.</li>
 <li><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.</li>
 <li>Poster available <a href="./slides_and_posters/GY_QIP2017_Poster_final.pdf" rel="nofollow">here</a>.</li>
