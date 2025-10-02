@@ -67,10 +67,11 @@ J. Yirka. A note on the complexity of the spectral gap problem.
 <details>
   <summary>
   J. Yirka. Even quantum advice is unlikely to solve PP.
-<p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024. <i>Theory of Computing</i>.</p>
   </summary>
 <ul dir="auto">
-<li>Preprint <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
+<li><em>Theory of Computing</em>, 21:7, 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
+<li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
 </ul>
 </details>
 <details>
@@ -206,4 +207,4 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 **See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
 
-*Last updated: September 16, 2025*
+*Last updated: October 2, 2025*
