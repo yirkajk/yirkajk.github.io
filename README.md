@@ -54,18 +54,19 @@ My deep background provides the foundation for adapting to new tools and techniq
 ***
 
 ### Research Papers
-Click on a paper to expand and see the publication history and any relevant links.
+Click on a paper to expand and see the publication history and relevant links.
 
 <details>
   <summary>
-    B. Holman, R. Ramachandran, and J. Yirka.  Quantum search with in-place queries.  
-    *TQC* 2025.  
-    [arXiv:2504.03620](https://arxiv.org/abs/2504.03620), April 2025.
+    B. Holman, R. Ramachandran, and J. Yirka.  Quantum search with in-place queries.<br>
+    <i>TQC</i> 2025.<br>
+    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.
   </summary>
-  
-  - Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. [doi:10.4230/LIPIcs.TQC.2025.1](https://doi.org/10.4230/LIPIcs.TQC.2025.1)  
-  Video available [here](https://www.youtube.com/watch?v=sKCdy3ZWLQA)  
-  - [arXiv:2504.03620](https://arxiv.org/abs/2504.03620), April 2025.  
+  <ul>
+  <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
+  Video available <a href="https://www.youtube.com/watch?v=sKCdy3ZWLQA" rel="nofollow">here</a>.</li>
+  <li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
+  </ul>
 </details>
 <details>
   <summary>
