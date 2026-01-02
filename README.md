@@ -57,118 +57,143 @@ My deep background provides the foundation for adapting to new tools and techniq
 Click on a paper to expand and see the publication history and any relevant links.
 
 <details>
-<summary>
-B. Holman, R. Ramachandran, and J. Yirka. Quantum search with in-place queries.
-<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025. <br>
-<i>TQC</i> 2025.</p>
-</summary>
-<ul dir="auto">
-<li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
-Video available <a href="https://www.youtube.com/watch?v=sKCdy3ZWLQA" rel="nofollow">here</a>.</li>
-<li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
-</ul>
-</details>
-<details>
-<summary>
-J. Yirka. A note on the complexity of the spectral gap problem.
-<p dir="auto"><a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</p>
-</summary>
-<ul dir="auto">
-<li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</li>
-</ul>
+  <summary>
+    <p>
+    B. Holman, R. Ramachandran, and J. Yirka.  Quantum search with in-place queries.<br>
+    <i>TQC</i> 2025.<br>
+    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.
+    </p>
+  </summary>
+  <ul>
+  <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
+  Video available <a href="https://www.youtube.com/watch?v=sKCdy3ZWLQA" rel="nofollow">here</a>.</li>
+  <li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  J. Yirka. Even quantum advice is unlikely to solve PP.
-<p dir="auto"><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024. <i>Theory of Computing</i>.</p>
+    <p>
+	J. Yirka.  A note on the complexity of the spectral gap problem.<br>
+    <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.
+	</p>
   </summary>
-<ul dir="auto">
-<li><em>Theory of Computing</em>, 21(7), 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
-<li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
-</ul>
-</details>
-<details>
-<summary>
-S. Grewal and J. Yirka. The Entangled Quantum Polynomial Hierarchy collapses.
-<p dir="auto"><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, 2024. <i>CCC</i> 2024.</p>
-</summary>
-<ul dir="auto">
-<li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
-<li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
-<li>Poster available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
-</ul>
+  <ul dir="auto">
+  <li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity classification of product state problems for local Hamiltonians.
-<p dir="auto"><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024. QIP 2024 and <i>ITCS</i> 2025.</p>
+    <p>
+	J. Yirka.  Even quantum advice is unlikely to solve PP.<br>
+    <i>Theory of Computing</i>.<br>
+    <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024.
+	</p>
   </summary>
-<ul dir="auto">
-<li>Innovations in Theoretical Computer Science (ITCS), January 2025. <a href="https://doi.org/10.4230/LIPIcs.ITCS.2025.63" rel="nofollow">doi:10.4230/LIPIcs.ITCS.2025.63</a>.<br>
-Video available <a href="https://www.youtube.com/watch?v=xvb5q37X7cI" rel="nofollow">here</a>.</li>
-<li>Conference on Quantum Information Processing (QIP), 2024.<br>
-Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
-<li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</li>
-<li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
-<li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
-</ul>
+  <ul>
+  <li><em>Theory of Computing</em>, 21(7), 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
+  <li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.
-<p dir="auto"><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020. <i>Quantum</i>.</p>
+    <p>
+	S. Grewal and J. Yirka.  The Entangled Quantum Polynomial Hierarchy collapses.<br>
+    <i>CCC</i> 2024.<br>
+	<a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, 2024.
+    </p>
   </summary>
-<ul dir="auto">
-<li><em>Quantum</em>, 5(535), 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
-<li>Conference for Young Quantum Information Scientists (YQIS), 2021. Slides <a href="./slides_and_posters/YS_YQIS2021_slides.pdf">here</a>.</li>
-<li>APS March Meeting, 2021.</li>
-<li>Asian Quantum Information Science Conference (AQIS), 2020.  Video <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
-<li><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</li>
-</ul>
+  <ul>
+  <li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
+  <li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
+  <li>Poster available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.
-<p dir="auto"><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019. QIP 2020 and <i>STACS</i> 2020.</p>
+    <p>
+	J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity classification of product state problems for local Hamiltonians.<br>
+	QIP 2024 and <i>ITCS</i> 2025.<br>
+    <a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.
+	</p>
   </summary>
-<ul dir="auto">
-<li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
-<li>Conference on Quantum Information Processing (QIP),  2020.<br>
-Video <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/GPY_QIP20_slides.pdf" rel="nofollow">here</a>.</li>
-<li>Contributed talk at Asian Quantum Information Science Conference (AQIS), 2018.<br>
-Slides <a href="./slides_and_posters/GPY18_AQIS_slides.pdf" rel="nofollow">here</a>.</li>
-<li><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</li>
-<li>Poster available <a href="./slides_and_posters/GPY_QIP19_poster_final.pdf" rel="nofollow">here</a>.</li>
-<li>Additional videos:<br>
-Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
-</ul>
+  <ul>
+  <li>Innovations in Theoretical Computer Science (ITCS), January 2025. <a href="https://doi.org/10.4230/LIPIcs.ITCS.2025.63" rel="nofollow">doi:10.4230/LIPIcs.ITCS.2025.63</a>.<br>
+  Video available <a href="https://www.youtube.com/watch?v=xvb5q37X7cI" rel="nofollow">here</a>.</li>
+  <li>Conference on Quantum Information Processing (QIP), 2024.<br>
+  Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
+  <li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</li>
+  <li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
+  <li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).
-<p dir="auto"><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018. <i>computational complexity</i> and <i>MFCS</i> 2018.</p>
+    <p>
+    J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.<br>
+    <i>Quantum</i>.<br>
+	<a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.
+    </p>
   </summary>
-<ul dir="auto">
-<li><em>Computational Complexity</em>, 31(12), 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
-<li>Asian Quantum Information Science Conference (AQIS),  2018.<br>
-“Long”/plenary talk: top 7% of submissions.</li>
-<li>Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2018.58" rel="nofollow">doi:10.4230/LIPIcs.MFCS.2018.58</a>.</li>
-<li><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</li>
-</ul>
+  <ul dir="auto">
+  <li><em>Quantum</em>, 5(535), 2021. <a href="https://doi.org/10.22331/q-2021-09-02-535" rel="nofollow">doi:10.22331/q-2021-09-02-535</a>.</li>
+  <li>Conference for Young Quantum Information Scientists (YQIS), 2021. Slides <a href="./slides_and_posters/YS_YQIS2021_slides.pdf">here</a>.</li>
+  <li>APS March Meeting, 2021.</li>
+  <li>Asian Quantum Information Science Conference (AQIS), 2020.  Video <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
+  <li><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</li>
+  </ul>
 </details>
 <details>
   <summary>
-  S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.
-<p dir="auto"><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016. <i>Quantum</i> and TQC 2017.</p>
+    <p>
+    S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.<br>
+    QIP 2020 and <i>STACS</i> 2020.<br>
+	<a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.
+    </p>
   </summary>
-<ul dir="auto">
-<li><em>Quantum</em>, 3(189), 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
-<li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), 2017. <a href="https://doi.org/10.4230/LIPIcs.TQC.2017.2" rel="nofollow">doi:10.4230/LIPIcs.TQC.2017.2</a>.</li>
-<li><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.</li>
-<li>Poster available <a href="./slides_and_posters/GY_QIP2017_Poster_final.pdf" rel="nofollow">here</a>.</li>
-<li>Additional videos:<br>
-Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.youtube.com/watch?v=nCCVg4OOuYM" rel="nofollow">here</a>.</li>
-</ul>
+  <ul>
+  <li>Symposium on Theoretical Aspects of Computer Science (STACS), 2020. <a href="https://doi.org/10.4230/LIPIcs.STACS.2020.20" rel="nofollow">doi:10.4230/LIPIcs.STACS.2020.20</a>.</li>
+  <li>Conference on Quantum Information Processing (QIP),  2020.<br>
+  Video <a href="https://www.koushare.com/video/videodetail/4234" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/GPY_QIP20_slides.pdf" rel="nofollow">here</a>.</li>
+  <li>Contributed talk at Asian Quantum Information Science Conference (AQIS), 2018.<br>
+  Slides <a href="./slides_and_posters/GPY18_AQIS_slides.pdf" rel="nofollow">here</a>.</li>
+  <li><a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.</li>
+  <li>Poster available <a href="./slides_and_posters/GPY_QIP19_poster_final.pdf" rel="nofollow">here</a>.</li>
+  <li>Additional videos:<br>
+  Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <p>
+    S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
+    <i>computational complexity</i> and <i>MFCS</i> 2018.<br>
+	<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
+    </p>
+  </summary>
+  <ul>
+  <li><em>Computational Complexity</em>, 31(12), 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
+  <li>Asian Quantum Information Science Conference (AQIS),  2018.<br>
+  “Long”/plenary talk: top 7% of submissions.</li>
+  <li>Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2018.58" rel="nofollow">doi:10.4230/LIPIcs.MFCS.2018.58</a>.</li>
+  <li><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <p>
+    S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.<br>
+    <i>Quantum</i> and TQC 2017.<br>
+	<a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.
+    </p>
+  </summary>
+  <ul dir="auto">
+  <li><em>Quantum</em>, 3(189), 2019. <a href="https://doi.org/10.22331/q-2019-09-30-189" rel="nofollow">doi:10.22331/q-2019-09-30-189</a>.</li>
+  <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), 2017. <a href="https://doi.org/10.4230/LIPIcs.TQC.2017.2" rel="nofollow">doi:10.4230/LIPIcs.TQC.2017.2</a>.</li>
+  <li><a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.</li>
+  <li>Poster available <a href="./slides_and_posters/GY_QIP2017_Poster_final.pdf" rel="nofollow">here</a>.</li>
+  <li>Additional videos:<br>
+  Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.youtube.com/watch?v=nCCVg4OOuYM" rel="nofollow">here</a>.</li>
+  </ul>
 </details>
 
 
@@ -176,19 +201,22 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
 
 <details>
   <summary>
-  N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, N. Van Cleemput, J. Yirka, and G. Wu.
-  New conditions for graph Hamiltonicity.
-  <p dir="auto">2025. <i> Involve</i>.</p>
+    <p>
+    N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, N. Van Cleemput, J. Yirka, and G. Wu.  New conditions for graph Hamiltonicity.<br>
+	<i> Involve</i>, 2025. 
+	</p>
   </summary>
-  <ul dir="auto">
+  <ul>
   <li><i>Involve, a Journal of Mathematics</i>, 18(1):79–89, 2025. <a href="https://doi.org/10.2140/involve.2025.18.79" rel="nofollow">doi:10.2140/involve.2025.18.79</a>.</li>
   </ul>
 </details>
 
 <details>
   <summary>
-  J. Yirka. Evaluation of TCP header fields for data overhead efficiency.
-  <p dir="auto">2015. Poster only.</p>
+    <p>
+	J. Yirka.  Evaluation of TCP header fields for data overhead efficiency.<br>
+	Poster only. 2015. 
+	</p>
   </summary>
   <ul dir="auto">
   <li><strong>Awarded "Launch Award for Outstanding Research Poster"</strong> at VCU Symposium for Undergraduate Research and Creativity, 2015.</li>
