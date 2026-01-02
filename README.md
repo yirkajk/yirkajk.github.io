@@ -22,7 +22,7 @@ Quantum computing, Complexity Theory, Algorithms, and Applications
 #### The University of Texas at Austin (UT)  
 
 - **Ph.D. in Computer Science** \| May 2025  
-- **M.S. in Computer Science** \| The University of Texas at Austin \| 2022  
+- **M.S. in Computer Science** \| 2022  
 Advised by [Scott Aaronson](https://www.scottaaronson.com/).  
 Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157).  
 
@@ -68,6 +68,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
   </ul>
 </details>
+
 <details>
   <summary>
 	J. Yirka.  A note on the complexity of the spectral gap problem.<br>
@@ -77,6 +78,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</li>
   </ul>
 </details>
+
 <details>
   <summary>
 	J. Yirka.  Even quantum advice is unlikely to solve PP.<br>
@@ -88,6 +90,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
   </ul>
 </details>
+
 <details>
   <summary>
 	S. Grewal and J. Yirka.  The Entangled Quantum Polynomial Hierarchy collapses.<br>
@@ -100,6 +103,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Poster available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
   </ul>
 </details>
+
 <details>
   <summary>
 	J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity classification of product state problems for local Hamiltonians.<br>
@@ -116,6 +120,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
   </ul>
 </details>
+
 <details>
   <summary>
     J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.<br>
@@ -130,6 +135,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</li>
   </ul>
 </details>
+
 <details>
   <summary>
     S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.<br>
@@ -148,6 +154,7 @@ Click on a paper to expand and see the publication history and relevant links.
   Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
   </ul>
 </details>
+
 <details>
   <summary>
     S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
@@ -162,6 +169,7 @@ Click on a paper to expand and see the publication history and relevant links.
   <li><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</li>
   </ul>
 </details>
+
 <details>
   <summary>
     S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.<br>
