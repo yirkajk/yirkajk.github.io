@@ -59,7 +59,7 @@ Click on a paper to expand and see the publication history and relevant links.
 <details>
   <summary>
     <p>
-	<b>Quantum search with in-place queries</b><br>
+	Quantum search with in-place queries<br>
 	Blake Holman, Ronak Ramachandran, and Justin Yirka<br>  
     <i>TQC</i> 2025<br>
     <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, 2025
@@ -95,7 +95,7 @@ Click on a paper to expand and see the publication history and relevant links.
 	</p>
   </summary>
   <ul>
-  <li><em>Theory of Computing</em>, 21(7), 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
+  <li><em>Theory of Computing</em> 21 (7): 1-13, 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
   <li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
   </ul>
 </details>  
@@ -110,8 +110,8 @@ Click on a paper to expand and see the publication history and relevant links.
 	</p>
   </summary>
   <ul>
-  <li>Computational Complexity Conference (CCC), July 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
-  <li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
+  <li>Computational Complexity Conference (CCC), 2024. <a href="https://doi.org/10.4230/LIPIcs.CCC.2024.6" rel="nofollow">doi:10.4230/LIPIcs.CCC.2024.6</a>.</li>
+  <li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, 2024.</li>
   <li>Poster available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
   </ul>
 </details>  
@@ -122,15 +122,15 @@ Click on a paper to expand and see the publication history and relevant links.
 	Complexity classification of product state problems for local Hamiltonians<br>
 	John Kallaugher, Ojas Parekh, Kevin Thompson, Yipu Wang, and Justin Yirka<br>
 	QIP 2024 and <i>ITCS</i> 2025<br>
-    <a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024
+    <a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, 2024
 	</p>
   </summary>
   <ul>
-  <li>Innovations in Theoretical Computer Science (ITCS), January 2025. <a href="https://doi.org/10.4230/LIPIcs.ITCS.2025.63" rel="nofollow">doi:10.4230/LIPIcs.ITCS.2025.63</a>.<br>
+  <li>Innovations in Theoretical Computer Science (ITCS), 2025. <a href="https://doi.org/10.4230/LIPIcs.ITCS.2025.63" rel="nofollow">doi:10.4230/LIPIcs.ITCS.2025.63</a>.<br>
   Video available <a href="https://www.youtube.com/watch?v=xvb5q37X7cI" rel="nofollow">here</a>.</li>
   <li>Conference on Quantum Information Processing (QIP), 2024.<br>
   Video available <a href="https://www.youtube.com/watch?v=k8Rsm4ihNlw" rel="nofollow">here</a>. Slides <a href="./slides_and_posters/KPTWY_QIP2024_slides.pdf" rel="nofollow">here</a>.</li>
-  <li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.</li>
+  <li><a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, 2024.</li>
   <li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
   <li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
   </ul>
