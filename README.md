@@ -58,9 +58,11 @@ Click on a paper to expand and see the publication history and relevant links.
 
 <details>
   <summary>
-    B. Holman, R. Ramachandran, and J. Yirka.  Quantum search with in-place queries.<br>
-    <i>TQC</i> 2025.<br>
-    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.
+    <p><b>Quantum search with in-place queries</b><br>
+	B. Holman, R. Ramachandran, and J. Yirka<br>  
+    <i>TQC</i> 2025<br>
+    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025
+	</p>
   </summary>
   <ul>
   <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
@@ -158,8 +160,8 @@ Click on a paper to expand and see the publication history and relevant links.
 <details>
   <summary>
     S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
-    &nbsp;&nbsp;<i>computational complexity</i> and <i>MFCS</i> 2018.<br>
-	&nbsp;&nbsp;<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
+    <i>computational complexity</i> and <i>MFCS</i> 2018.<br>
+	<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
   </summary>
   <ul>
   <li><em>Computational Complexity</em>, 31(12), 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
