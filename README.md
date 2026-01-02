@@ -2,7 +2,7 @@
 
 Quantum Computing Researcher at [Blanqet](https://blanqet.net/)    
 Ph.D. in Computer Science    
-Quantum computing, Complexity Theory, Algorithms, and Applications    
+Quantum Computing: complexity theory, quantum algorithms, and applications    
 
 ##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
 
@@ -23,8 +23,8 @@ Quantum computing, Complexity Theory, Algorithms, and Applications
 
 - **Ph.D. in Computer Science** \| May 2025  
 - **M.S. in Computer Science** \| 2022  
-Advised by [Scott Aaronson](https://www.scottaaronson.com/).  
-Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157).  
+Advised by [Scott Aaronson](https://www.scottaaronson.com/)  
+Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157)  
 
 #### Virginia Commonwealth University (VCU)  
 
@@ -36,21 +36,11 @@ Dissertation "Quantum complexity of physically inspired problems and computation
 ### About Me
 My research has focused on quantum computation and theoretical computer science.  
 Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
-Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups to changes in the query model.  
+Some of my work has explored the difficulty of computing properties in low-energy quantum systems, quantifying the amount of "useful" information in a quantum state, and the robustness of quantum algorithmic speed-ups to changes in the query input model.  
 In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
 
-After earning my Ph.D., I am now working as a Quantum Computing Consultant at [Blanqet](https://blanqet.net/), a young startup founded by an amazing group of professors. To name a few team members: Bill Fefferman, Sean Hallgren, Liang Jiang, Yevgeniy Dodis, and my Ph.D. advisor Scott Aaronson.  
-I look forward to sharing more details when able.  
-
-I have a decade of experience in quantum computing research, exploring the boundaries of computation. 
-I completed my PhD in Computer Science at UT Austin in 2025, advised by Scott Aaronson, with research on quantum complexity theory and quantum algorithms. In other words, I studied what quantum computers can do, what they cannot do, and the structure that creates those differences. 
-Now, I work as a Quantum Computing Researcher at Blanqet (employee #2), a startup advised by Scott Aaronson, David Awschalom, and several other premier researchers. We are pursuing real-world applications of quantum computation and information. 
+After completing my Ph.D. in 2025, I am now a Quantum Computing Researcher (employee \#2) at [Blanqet](https://blanqet.net/), a startup advised by Scott Aaronson, David Awschalom, Bill Fefferman, Liang Jiang, and several other premier researchers. We are pursuing real-world applications of quantum computation and quantum information.  
  
-Previously, I interned at Los Alamos and Sandia National Labs. My work has appeared in top venues like QIP and Quantum. 
-I've studied quantum complexity theory (Hamiltonian complexity, query complexity), designed fault-tolerant quantum algorithms and NISQ algorithms, and run experiments on real quantum hardware. 
- 
-My deep background provides the foundation for adapting to new tools and techniques and for applying quantum computation to new areas in novel ways: e.g. chemistry, finance, optimization.
-
 ***
 
 ### Research Papers
@@ -238,7 +228,7 @@ Click on a paper to expand and see the publication history and relevant links.
 	</p>
   </summary>
   <ul dir="auto">
-  <li><strong>Awarded "Launch Award for Outstanding Research Poster"</strong> at VCU Symposium for Undergraduate Research and Creativity, 2015.</li>
+  <li><strong>Awarded Launch Award for Outstanding Research Poster</strong> at VCU Symposium for Undergraduate Research and Creativity, 2015.</li>
   </ul>
 </details>
 
@@ -249,16 +239,16 @@ Click on a paper to expand and see the publication history and relevant links.
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - May 2025  
   Advised by Ojas Parekh and John Kallaugher  
   Topic: Hardness of approximating product states solutions for Hamiltonian optimization problems. Novel variant of Grover's (fault-tolerant) search algorithm with an alternative input model.  
-  - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
-  Advised by Yigit Subasi.  
+  - **Graduate Student Researcher** | Los Alamos National Laboratories | Summer 2019  
+  Advised by Yigit Subasi  
   Topic: Near-term (NISQ) quantum algorithms. Designed low-width noise-resilient algorithms for entanglement spectroscopy with error mitigation using qubit resets. Validated algorithms on Honeywell (Quantinuum) ion-trap device.  
   - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
   Supervised by Craig Larson  
   Topic: Automated conjecturing software applied to graph theory.  
-  - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017  
+  - **Undergraduate Researcher (REU)** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017  
   Advised by Andrew Childs, Jianxin Chen, and Amir Kalev  
   Topic: Pure-state quantum tomography.  
-  - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
+  - **Undergraduate Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
   Advised by Sevag Gharibian    
   Topic: Complexity theory. Hamiltonian complexity beyond ground state energy, problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy, and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
