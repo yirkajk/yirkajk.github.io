@@ -1,10 +1,8 @@
 # <img src="./Headshot1.jpg" style="height: 175px;" />&nbsp; Justin Yirka
 
-[Research Interests](#research-interests) / [Education](#education) / [Papers](#research-papers) / [Experience](#experience)
-
-Quantum Computing Consultant at [Blanqet](https://blanqet.net/)    
+Quantum Computing Researcher at [Blanqet](https://blanqet.net/)    
 Ph.D. in Computer Science    
-Quantum computing, Complexity, Algorithms, and Applications    
+Quantum computing, Complexity Theory, Algorithms, and Applications    
 
 ##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
 
@@ -19,7 +17,23 @@ Quantum computing, Complexity, Algorithms, and Applications
 
 ***
 
-#### Research Interests
+### Education  
+
+#### The University of Texas at Austin (UT)  
+
+**Ph.D. in Computer Science** \| May 2025  
+**M.S. in Computer Science** \| The University of Texas at Austin \| 2022  
+Advised by [Scott Aaronson](https://www.scottaaronson.com/).  
+Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157).  
+
+#### Virginia Commonwealth University  
+
+**B.S. in Computer Science**  \| 2018  
+**B.S. in Mathematical Sciences**  \| 2018 (dual degrees)  
+
+***
+
+### About Me
 My research has focused on quantum computation and theoretical computer science.  
 Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
 Some of my work has focused on the difficulty of computing properties in low-energy quantum systems, on quantifying the amount of "useful" information in a quantum state, and on the robustness of quantum algorithmic speed-ups to changes in the query model.  
@@ -28,17 +42,14 @@ In other words, I'm interested in what quantum computers can do, what they canno
 After earning my Ph.D., I am now working as a Quantum Computing Consultant at [Blanqet](https://blanqet.net/), a young startup founded by an amazing group of professors. To name a few team members: Bill Fefferman, Sean Hallgren, Liang Jiang, Yevgeniy Dodis, and my Ph.D. advisor Scott Aaronson.  
 I look forward to sharing more details when able.  
 
-***
-
-#### Education
-**Ph.D. in Computer Science** \| The University of Texas at Austin (UT) \| May 2025  
-Advised by [Scott Aaronson](https://www.scottaaronson.com/).  
-Dissertation "Quantum complexity of physically inspired problems and computational resources", [doi:10.26153/tsw/61157](https://doi.org/10.26153/tsw/61157).  
-
-**M.S. in Computer Science** \| The University of Texas at Austin \| 2022
-
-**B.S. in Computer Science**  \| Virginia Commonwealth University (VCU) \| 2018  
-**B.S. in Mathematical Sciences**  
+I have a decade of experience in quantum computing research, exploring the boundaries of computation. 
+I completed my PhD in Computer Science at UT Austin in 2025, advised by Scott Aaronson, with research on quantum complexity theory and quantum algorithms. In other words, I studied what quantum computers can do, what they cannot do, and the structure that creates those differences. 
+Now, I work as a Quantum Computing Researcher at Blanqet (employee #2), a startup advised by Scott Aaronson, David Awschalom, and several other premier researchers. We are pursuing real-world applications of quantum computation and information. 
+ 
+Previously, I interned at Los Alamos and Sandia National Labs. My work has appeared in top venues like QIP and Quantum. 
+I've studied quantum complexity theory (Hamiltonian complexity, query complexity), designed fault-tolerant quantum algorithms and NISQ algorithms, and run experiments on real quantum hardware. 
+ 
+My deep background provides the foundation for adapting to new tools and techniques and for applying quantum computation to new areas in novel ways: e.g. chemistry, finance, optimization.
 
 ***
 
@@ -48,7 +59,8 @@ Click on a paper to expand and see the publication history and any relevant link
 <details>
 <summary>
 B. Holman, R. Ramachandran, and J. Yirka. Quantum search with in-place queries.
-<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025. <i>TQC</i> 2025.</p>
+<p dir="auto"><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025. <br>
+<i>TQC</i> 2025.</p>
 </summary>
 <ul dir="auto">
 <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
@@ -183,29 +195,28 @@ Seminar by Sev at Leibniz Universität Hannover available <a href="https://www.y
   </ul>
 </details>
 
-### Experience
-  - **Quantum Computing Consultant** | Blanqet | August 2025 - Present    
-  Researcher and consultant for a new startup focused on quantum computing applications.  
+### Work Experience
+  - **Quantum Computing Researcher** | [Blanqet](https://blanqet.net/) | August 2025 - Present    
+  Researcher and consultant for a UChicago-affiliated startup focused on quantum computing applications. Blanqet is based in Chicago, and I work remotely from Austin.  
+  Check out the group of founders [here](https://blanqet.net/team).  
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - May 2025  
   Advised by Ojas Parekh and John Kallaugher  
-  Topic: Hardness of estimating optimum product states of local Hamiltonians. Quantum Max-Cut, Vector Max-Cut, and Quantum constrained optimization problems. Alternative query models.
+  Topic: Hardness of approximating product states solutions for Hamiltonian optimization problems. Novel variant of Grover's (fault-tolerant) search algorithm with an alternative input model.  
   - **Summer School Fellow** | Los Alamos National Laboratories | Summer 2019  
-  Advised by Yigit Subasi  
-  Topic: Near-term (NISQ) quantum algorithms. Studied use of mid-circuit measurements and resets to construct circuits for entanglement spectroscopy which were noise-resilient *and* low-width.
-  Implemented noisy simulations with Qiskit, Python, Unix, Jupyter. Managed project with git. Tested algorithms on Honeywell quantum hardware.
+  Advised by Yigit Subasi.  
+  Topic: Near-term (NISQ) quantum algorithms. Designed low-width noise-resilient algorithms for entanglement spectroscopy with error mitigation using qubit resets. Validated algorithms on Honeywell (Quantinuum) ion-trap device.  
   - **Research Assistant** | Graph Theory Computational Discovery Lab, VCU | Summer 2018  
-  Supervisor: Craig Larson  
+  Supervised by Craig Larson  
   Topic: Automated conjecturing software applied to graph theory.  
-  Maintained a growing database of graphs, their properties, and known theorems. Managed open-source project and programmed using git, GitHub, and Sage/Python.
   - **NSF REU Researcher** | [QuICS](https://quics.umd.edu/), University of Maryland | Summer 2017  
   Advised by Andrew Childs, Jianxin Chen, and Amir Kalev  
-  Topic: Investigated minimum number of measurements for pure-state quantum tomography.
+  Topic: Pure-state quantum tomography.  
   - **Research Assistant** | Quantum Computing Lab, VCU | 2015 - 2016  
-  Advised by Sevag Gharibian, Ph.D.  
-  Topic: Complexity theory. QMA oracles, Hamiltonian problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
+  Advised by Sevag Gharibian    
+  Topic: Complexity theory. Hamiltonian complexity beyond ground state energy, problems beyond QMA (e.g. P^QMA[log]), quantum polynomial hierarchy, and “quantum Toda’s Theorem” (QCPH ⊆ P^PP^PP).
 
 ***
 
-**See [My CV](./CV_JYirka.pdf) for full details on my Research, Awards, Funding, Teaching Experience, and Service.**
+**See [My CV](./CV_JYirka.pdf) for more details about me.**
 
-*Last updated: November 18, 2025*
+*Last updated: January 2, 2026*
