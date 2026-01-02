@@ -158,8 +158,8 @@ Click on a paper to expand and see the publication history and relevant links.
 <details>
   <summary>
     S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
-    <i>computational complexity</i> and <i>MFCS</i> 2018.<br>
-	<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
+    &nbsp;&nbsp;<i>computational complexity</i> and <i>MFCS</i> 2018.<br>
+	&nbsp;&nbsp;<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
   </summary>
   <ul>
   <li><em>Computational Complexity</em>, 31(12), 2022. <a href="https://doi.org/10.1007/s00037-022-00231-8" rel="nofollow">doi:10.1007/s00037-022-00231-8</a>.</li>
