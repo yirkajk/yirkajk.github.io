@@ -58,7 +58,7 @@ Click on a paper to expand and see the publication history and relevant links.
 
 <details>
   <summary>
-    <p><b>Quantum search with in-place queries</b><br>
+    <p dir="auto"><b>Quantum search with in-place queries</b><br>
 	B. Holman, R. Ramachandran, and J. Yirka<br>  
     <i>TQC</i> 2025<br>
     <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025
