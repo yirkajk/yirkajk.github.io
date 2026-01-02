@@ -59,43 +59,46 @@ Click on a paper to expand and see the publication history and relevant links.
 <details>
   <summary>
     <p dir="auto"><b>Quantum search with in-place queries</b><br>
-	B. Holman, R. Ramachandran, and J. Yirka<br>  
+	Blake Holman, Ronak Ramachandran, and Justin Yirka<br>  
     <i>TQC</i> 2025<br>
-    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025
+    <a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, 2025
 	</p>
   </summary>
   <ul>
   <li>Conference on the Theory of Quantum Computation, Communication, and Cryptography (TQC), September 2025. <a href="https://doi.org/10.4230/LIPIcs.TQC.2025.1" rel="nofollow">doi:10.4230/LIPIcs.TQC.2025.1</a>.<br>
   Video available <a href="https://www.youtube.com/watch?v=sKCdy3ZWLQA" rel="nofollow">here</a>.</li>
-  <li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, April 2025.</li>
+  <li><a href="https://arxiv.org/abs/2504.03620" rel="nofollow">arXiv:2504.03620</a>, 2025.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-	J. Yirka.  A note on the complexity of the spectral gap problem.<br>
-    <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.
+	A note on the complexity of the spectral gap problem<br>
+	Justin Yirka<br>
+    <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, 2025.
   </summary>
   <ul dir="auto">
-  <li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, March 2025.</li>
+  <li>Preprint <a href="https://arxiv.org/abs/2503.02747" rel="nofollow">arXiv:2503.02747</a>, 2025.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-	J. Yirka.  Even quantum advice is unlikely to solve PP.<br>
-    <i>Theory of Computing</i>.<br>
+	Even quantum advice is unlikely to solve PP.<br>
+    Justin Yirka<br>
+	<i>Theory of Computing</i>.<br>
     <a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a>, 2024.
   </summary>
   <ul>
   <li><em>Theory of Computing</em>, 21(7), 2025. <a href="http://doi.org/10.4086/toc.2025.v021a007" rel="nofollow">doi:10.4086/toc.2025.v021a007</a>.</li>  
   <li><a href="https://arxiv.org/abs/2403.09994" rel="nofollow">arXiv:2403.09994</a> and <a href="https://eccc.weizmann.ac.il/report/2024/052/" rel="nofollow">ECCC:TR24-052</a>, 2024.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-	S. Grewal and J. Yirka.  The Entangled Quantum Polynomial Hierarchy collapses.<br>
+	The Entangled Quantum Polynomial Hierarchy collapses.<br>
+	Sabee Grewal and Justin Yirka<br>
     <i>CCC</i> 2024.<br>
 	<a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a>, 2024.
   </summary>
@@ -104,11 +107,12 @@ Click on a paper to expand and see the publication history and relevant links.
   <li><a href="https://arxiv.org/abs/2401.01453" rel="nofollow">arXiv:2401.01453</a> and <a href="https://eccc.weizmann.ac.il/report/2024/006/" rel="nofollow">ECCC:TR24-006</a>, January 2024.</li>
   <li>Poster available <a href="./slides_and_posters/GYmerged_QIP2024_poster.pdf" rel="nofollow">here</a>.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-	J. Kallaugher, O. Parekh, K. Thompson, Y. Wang, J. Yirka. Complexity classification of product state problems for local Hamiltonians.<br>
+	Complexity classification of product state problems for local Hamiltonians.<br>
+	John Kallaugher, Ojas Parekh, Kevin Thompson, Yipu Wang, and Justin Yirka<br>
 	QIP 2024 and <i>ITCS</i> 2025.<br>
     <a href="https://arxiv.org/abs/2401.06725" rel="nofollow">arXiv:2401.06725</a>, January 2024.
   </summary>
@@ -121,11 +125,12 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Poster available <a href="./slides_and_posters/KPTWY_2024_poster.pdf" rel="nofollow">here</a>.</li>
   <li>Additional slides from a 2024 seminar talk at UT: <a href="./slides_and_posters/RPE2024_slides.pdf" rel="nofollow">here</a>.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-    J. Yirka and Y. Subasi. Qubit-efficient entanglement spectroscopy using qubit resets.<br>
+    Qubit-efficient entanglement spectroscopy using qubit resets.<br>
+	Justin Yirka and Yigit Subasi<br>
     <i>Quantum</i>.<br>
 	<a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.
   </summary>
@@ -136,11 +141,12 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Asian Quantum Information Science Conference (AQIS), 2020.  Video <a href="https://youtu.be/J9AnuKkgrIk" rel="nofollow">here</a>.</li>
   <li><a href="https://arxiv.org/abs/2010.03080" rel="nofollow">arXiv:2010.03080</a>, 2020.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-    S. Gharibian, S. Piddock, J. Yirka. Oracle complexity classes and local measurements on physical Hamiltonians.<br>
+    Oracle complexity classes and local measurements on physical Hamiltonians.<br>
+	Sevag Gharibian, Stephen Piddock, and Justin Yirka<br>
     QIP 2020 and <i>STACS</i> 2020.<br>
 	<a href="https://arxiv.org/abs/1909.05981" rel="nofollow">arXiv:1909.05981</a>, 2019.
   </summary>
@@ -155,11 +161,12 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Additional videos:<br>
   Seminar by Sev in "Quantum computing in isolation" series available <a href="https://www.youtube.com/watch?v=i8hLbBpS7Qk" rel="nofollow">here</a>.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-    S. Gharibian, M. Santha, J. Sikora, A. Sundaram, J. Yirka. Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
+    Quantum generalizations of the polynomial hierarchy with applications to QMA(2).<br>
+	Sevag Gharibian, Miklos Santha, Jamie Sikora, Aarthi Sundaram, and Justin Yirka<br>
     <i>computational complexity</i> and <i>MFCS</i> 2018.<br>
 	<a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.
   </summary>
@@ -170,11 +177,12 @@ Click on a paper to expand and see the publication history and relevant links.
   <li>Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. <a href="https://doi.org/10.4230/LIPIcs.MFCS.2018.58" rel="nofollow">doi:10.4230/LIPIcs.MFCS.2018.58</a>.</li>
   <li><a href="https://arxiv.org/abs/1805.11139" rel="nofollow">arXiv:1805.11139</a>, 2018.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-    S. Gharibian and J. Yirka. The complexity of simulating local measurements on quantum systems.<br>
+    The complexity of simulating local measurements on quantum systems.<br>
+	Sevag Gharibian and Justin Yirka<br>
     <i>Quantum</i> and TQC 2017.<br>
 	<a href="https://arxiv.org/abs/1606.05626" rel="nofollow">arXiv:1606.05626</a>, 2016.
   </summary>
@@ -193,17 +201,19 @@ Click on a paper to expand and see the publication history and relevant links.
 
 <details>
   <summary>
-    N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, N. Van Cleemput, J. Yirka, and G. Wu.  New conditions for graph Hamiltonicity.<br>
+    New conditions for graph Hamiltonicity.<br>
+	N. Bushaw, V. Gupta, C. Larson, S. Loeb, M. Norge, J. Parrish, N. Van Cleemput, J. Yirka, and G. Wu.<br>
 	<i> Involve</i>, 2025. 
   </summary>
   <ul>
   <li><i>Involve, a Journal of Mathematics</i>, 18(1):79–89, 2025. <a href="https://doi.org/10.2140/involve.2025.18.79" rel="nofollow">doi:10.2140/involve.2025.18.79</a>.</li>
   </ul>
-</details>
+</details>  
 
 <details>
   <summary>
-	J. Yirka.  Evaluation of TCP header fields for data overhead efficiency.<br>
+	Evaluation of TCP header fields for data overhead efficiency.<br>
+	Justin Yirka<br>
 	Poster only. 2015. 
   </summary>
   <ul dir="auto">
