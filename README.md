@@ -234,7 +234,7 @@ Click on a paper to expand and see the publication history and relevant links.
 
 ### Work Experience
   - **Quantum Computing Researcher** | [Blanqet](https://blanqet.net/) | August 2025 - Present    
-  Researcher and consultant for a UChicago-affiliated startup focused on quantum computing applications. Blanqet is based in Chicago, and I work remotely from Austin.  
+  Researcher and consultant for a UChicago-affiliated startup focused on real-world applications of quantum computing and quantum information. Blanqet is based in Chicago, and I work remotely from Austin.  
   Check out the group of founders [here](https://blanqet.net/team).  
   - **R&D Intern** | Sandia National Laboratories | Summer 2023 - May 2025  
   Advised by Ojas Parekh and John Kallaugher  
