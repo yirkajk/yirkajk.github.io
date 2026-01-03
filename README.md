@@ -17,6 +17,16 @@ Quantum Computing: complexity theory, quantum algorithms, and applications
 
 ***
 
+### About Me
+My research has focused on quantum computation and theoretical computer science.  
+Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
+Some of my work has explored the difficulty of computing properties in low-energy quantum systems, quantifying the amount of "useful" information in a quantum state, and the robustness of quantum algorithmic speed-ups to changes in the query input model.  
+In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
+
+After completing my Ph.D. in 2025, I am now a Quantum Computing Researcher (employee \#2) at [Blanqet](https://blanqet.net/), a startup advised by Scott Aaronson, David Awschalom, Bill Fefferman, Liang Jiang, and several other premier researchers. We are pursuing real-world applications of quantum computation and quantum information.  
+ 
+***
+
 ### Education  
 
 #### The University of Texas at Austin (UT)  
@@ -31,16 +41,6 @@ Dissertation "Quantum complexity of physically inspired problems and computation
 - **B.S. in Computer Science**  \| 2018  
 - **B.S. in Mathematical Sciences**  \| 2018 (dual degrees)  
 
-***
-
-### About Me
-My research has focused on quantum computation and theoretical computer science.  
-Specific topics include complexity theory, Hamiltonian complexity, and quantum algorithms.  
-Some of my work has explored the difficulty of computing properties in low-energy quantum systems, quantifying the amount of "useful" information in a quantum state, and the robustness of quantum algorithmic speed-ups to changes in the query input model.  
-In other words, I'm interested in what quantum computers can do, what they cannot do, and the structure that creates those differences.
-
-After completing my Ph.D. in 2025, I am now a Quantum Computing Researcher (employee \#2) at [Blanqet](https://blanqet.net/), a startup advised by Scott Aaronson, David Awschalom, Bill Fefferman, Liang Jiang, and several other premier researchers. We are pursuing real-world applications of quantum computation and quantum information.  
- 
 ***
 
 ### Research Papers
