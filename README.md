@@ -4,7 +4,7 @@ Quantum Computing Researcher at [Blanqet](https://blanqet.net/)
 Ph.D. in Computer Science    
 Quantum Computing: complexity theory, quantum algorithms, and real-world applications    
 
-##### [Curriculum Vitae](./CV_JYirka.pdf) ⸻ [Resume](./resume_JustinYirka_quantum.pdf)
+##### [Resume](./resume_JustinYirka_quantum.pdf) ⸻ [Curriculum Vitae](./CV_JYirka.pdf)
 
 ##### Contact: [JustinYirka@gmail.com](mailto:justinyirka@gmail.com)
 
