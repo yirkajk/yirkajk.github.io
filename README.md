@@ -27,7 +27,7 @@ Some of my projects have explored the difficulty of computing properties in low-
 
 Now, I am now a Quantum Computing Researcher at [Blanqet](https://blanqet.net/), a startup pursuing real-world applications of quantum computation and quantum communication.  
 
-Fun facts: I've traveled to 10+ countries and attended 17+ major conferences. I've visited 25+ US states and lived in Maryland, New Mexico, Texas, Virginia, and (soon) Pennsylvania.  
+Fun facts: I've traveled to 11 countries, visited 25 US states, and lived in Maryland, New Mexico, Texas, Virginia, and (soon) Pennsylvania.  
 In high school and college (club), I played lacrosse.  
 
 ***
